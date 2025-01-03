@@ -22,7 +22,7 @@ const page = () => {
 
         {/* Heading Overlay */}
         <div className="absolute inset-0 flex items-center md:justify-start justify-center md:px-12">
-          <h1 className="text-white text-4xl md:text-5xl font-bold">Get Your Hands On The Best Memoir Writing Services In Town</h1>
+          <h1 className="text-white text-4xl md:text-5xl font-bold">Professional Autobiography Writers for Hire</h1>
         </div>
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
