@@ -84,7 +84,7 @@ const Nav = () => {
               
               {/* Dropdown Menus */}
               {Object.entries(navItems).map(([key, items]) => (
-                <div key={key} className="relative group">
+                <div key={key} className="relative z-10 group">
                   <button
                     className={`text-[13px] px-3 py-2 flex items-center font-medium ${isActive('/' + key) ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
                     onClick={() => toggleDropdown(key)}
@@ -100,7 +100,7 @@ const Nav = () => {
                         <Link
                           key={item}
                           href={`/${key.toLowerCase()}/${item.toLowerCase().replace(/\s+/g, '-')}`}
-                          className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-50"
+                          className="block px-4 py-2 text-sm text-gray-700 hover:bg-black hover:text-white"
                         >
                           {item}
                         </Link>

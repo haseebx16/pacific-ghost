@@ -36,10 +36,10 @@ const Footer = () => {
           <div className="w-full md:w-1/6 mb-8 md:mb-0">
             <h3 className="text-lg font-semibold text-white mb-4">Quick Links</h3>
             <ul className="space-y-2">
-              <li><a href="#" className="hover:text-white">Home</a></li>
-              <li><a href="#" className="hover:text-white">About</a></li>
-              <li><a href="#" className="hover:text-white">Pricing</a></li>
-              <li><a href="#" className="hover:text-white">Contact</a></li>
+              <li><a href="/" className="hover:text-white">Home</a></li>
+              <li><a href="about" className="hover:text-white">About</a></li>
+              <li><a href="pricing" className="hover:text-white">Pricing</a></li>
+              <li><a href="contact" className="hover:text-white">Contact</a></li>
             </ul>
           </div>
 
@@ -47,10 +47,10 @@ const Footer = () => {
           <div className="w-full md:w-1/6 mb-8 md:mb-0">
             <h3 className="text-lg font-semibold text-white mb-4">Services</h3>
             <ul className="space-y-2">
-              <li><a href="#" className="hover:text-white">Memoir</a></li>
-              <li><a href="#" className="hover:text-white">Autobiography</a></li>
-              <li><a href="#" className="hover:text-white">Fiction</a></li>
-              <li><a href="#" className="hover:text-white">Nonfiction</a></li>
+              <li><a href="services/memoir" className="hover:text-white">Memoir</a></li>
+              <li><a href="services/autobiography" className="hover:text-white">Autobiography</a></li>
+              <li><a href="services/fiction" className="hover:text-white">Fiction</a></li>
+              <li><a href="services/non-fiction" className="hover:text-white">Nonfiction</a></li>
             </ul>
           </div>
 
