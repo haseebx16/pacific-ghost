@@ -1,9 +1,153 @@
-import ContactBanner from '@/app/Components/ContactBanner';
+"use client";
+
 import Footer from '@/app/Components/Footer';
 import Nav from '@/app/Components/Nav';
-import React from 'react';
+import React, { useState } from 'react';
 
 const page = () => {
+  // State to track selected service
+  const [selectedService, setSelectedService] = useState('GHOSTWRITING');
+
+  // Data for services
+  const services = {
+    GHOSTWRITING: {
+      title: 'Ghostwriting Service',
+      description:
+        'Our podium of professional ghostwriting services offers you an array of experienced ghostwriters, editors, and publishing experts to transform your idea into a commendable book.',
+      plans: [
+        {
+          type: 'Standard',
+          details: [
+            'The chief ghostwriter will be a published author.',
+            'Procedure includes a detailed strategy building and implementing session.',
+            'The team will provide editing and consultation throughout the process.',
+          ],
+        },
+        {
+          type: 'Premium',
+          details: [
+            'The chief ghostwriter will be a bestseller or extensively published author.',
+            'Procedure includes detailed strategy sessions and consultation.',
+            'The team will provide recommendations throughout the process.',
+          ],
+        },
+      ],
+    },
+    'ONLINE BOOK PUBLICATION': {
+      title: 'Online Book Publication',
+      description:
+        'We assist authors in publishing their books online across all major platforms, ensuring a seamless process from manuscript to publication.',
+      plans: [
+        {
+          type: 'Single Plan',
+          details: [
+            'Basic formatting and layout services.',
+            'Publishing on a single platform (e.g., Amazon).',
+            'Includes a consultation session to prepare your manuscript.',
+          ],
+        },
+      ],
+    },
+    'BRANDING AND PUBLICITY': {
+      title: 'Branding and Publicity',
+      description:
+        'Elevate your book’s visibility with our targeted branding and publicity services.',
+      plans: [
+        {
+          type: 'Standard',
+          details: [
+            'Social media campaign setup and management.',
+            'Basic press release distribution.',
+          ],
+        },
+        {
+          type: 'Premium',
+          details: [
+            'Comprehensive branding strategy.',
+            'Advanced social media campaigns and influencer outreach.',
+            'Premium press release distribution to top media outlets.',
+          ],
+        },
+      ],
+    },
+    'VIDEO BOOK TRAILERS': {
+      title: 'Video Book Trailers',
+      description:
+        'Engage your audience with a captivating video book trailer that brings your story to life.',
+      plans: [
+        {
+          type: 'Single Plan',
+          details: [
+            'Custom video trailer (up to 2 minutes).',
+            'Includes scriptwriting and professional voiceover.',
+            'Delivered in HD format, ready for sharing.',
+          ],
+        },
+      ],
+    },
+    'WEB DESIGN AND SEO': {
+      title: 'Web Design and SEO',
+      description:
+        'Build a stunning author website with optimized SEO to showcase your work and attract readers.',
+      plans: [
+        {
+          type: 'Standard',
+          details: [
+            'Responsive author website design.',
+            'Basic on-page SEO setup.',
+            'Includes a blog section and contact form.',
+          ],
+        },
+        {
+          type: 'Premium',
+          details: [
+            'Custom-designed author website with advanced features.',
+            'Comprehensive SEO optimization.',
+            'Includes e-commerce integration for book sales.',
+          ],
+        },
+      ],
+    },
+    'AUDIO BOOKS': {
+      title: 'Audio Books',
+      description:
+        'Transform your book into an immersive audio experience with our professional audiobook services.',
+      plans: [
+        {
+          type: 'Standard',
+          details: [
+            'Narration by a professional voice artist.',
+            'Basic audio editing and mastering.',
+            'Delivered in MP3 format, ready for publishing.',
+          ],
+        },
+        {
+          type: 'Premium',
+          details: [
+            'Narration by a celebrity or well-known voice artist.',
+            'Advanced audio editing, mastering, and sound effects.',
+            'Delivered in multiple formats with distribution support.',
+          ],
+        },
+      ],
+    },
+    'COVER DESIGN AND TYPESETTING': {
+      title: 'Cover Design and Typesetting',
+      description:
+        'Make a lasting impression with a professionally designed book cover and high-quality typesetting.',
+      plans: [
+        {
+          type: 'Single Plan',
+          details: [
+            'Custom cover design tailored to your genre.',
+            'Interior typesetting for both print and e-book formats.',
+            'Unlimited revisions to ensure perfection.',
+          ],
+        },
+      ],
+    },
+  };
+
   return (
     <>
       <Nav />
@@ -20,91 +164,49 @@ const page = () => {
 
         {/* Heading Overlay */}
         <div className="absolute inset-0 flex items-center md:justify-start justify-center md:px-12">
-          <h1 className="text-white text-4xl md:text-5xl font-bold">Contact Us</h1>
+          <h1 className="text-white text-4xl md:text-5xl font-bold">Pricing Plans We Offer</h1>
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
-        <h2 className="text-3xl font-bold text-center mb-6">Get In Touch With Us</h2>
+      {/* Pricing Section */}
+      <div className="container mx-auto px-4 py-16">
+        <h2 className="text-3xl font-bold text-center mb-8">Our Services</h2>
+        <div className="grid md:grid-cols-4 gap-8">
+          {/* Sidebar */}
+          <div className="bg-gray-100 p-4 rounded-lg shadow-md col-span-1">
+            <ul className="space-y-4">
+              {Object.keys(services).map((service) => (
+                <li
+                  key={service}
+                  onClick={() => setSelectedService(service)}
+                  className={`cursor-pointer text-sm font-semibold border-b border-gray-300 pb-2 ${
+                    selectedService === service ? 'text-black' : 'text-gray-600'
+                  } hover:text-black`}
+                >
+                  {service}
+                </li>
+              ))}
+            </ul>
+          </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {/* Contact Form */}
-          <form className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
-            <div className="mb-4">
-              <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="name">
-                Name*
-              </label>
-              <input
-                id="name"
-                type="text"
-                placeholder="Your Name"
-                className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-              />
-            </div>
-
-            <div className="mb-4">
-              <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="email">
-                Email*
-              </label>
-              <input
-                id="email"
-                type="email"
-                placeholder="Your Email"
-                className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-              />
-            </div>
-
-            <div className="mb-4">
-              <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="phone">
-                Phone*
-              </label>
-              <input
-                id="phone"
-                type="tel"
-                placeholder="Your Phone"
-                className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-              />
-            </div>
-
-            <div className="mb-4">
-              <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="comments">
-                Comments
-              </label>
-              <textarea
-                id="comments"
-                placeholder="Your Message"
-                className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-              />
-            </div>
-
-            <div className="flex items-center justify-between">
-              <button
-                type="submit"
-                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
-              >
-                Submit
-              </button>
-            </div>
-          </form>
-
-          {/* Contact Details & Map */}
-          <div>
-            <h3 className="text-xl font-bold mb-4">Contact Details</h3>
-            <p className="mb-2"><strong>Phone:</strong> 1-469-476-4994</p>
-            <p className="mb-2">
-              <strong>Address:</strong> 800 Wilshire Blvd Suite 501, Los Angeles, CA 90017, United States
-            </p>
-
-            <div className="mt-4">
-              <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.387024092795!2d-118.260203624681!3d34.04939402421726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7d8b8e35cd7%3A0x563bc72e89c001eb!2s800%20Wilshire%20Blvd%20Suite%20501%2C%20Los%20Angeles%2C%20CA%2090017%2C%20USA!5e0!3m2!1sen!2s!4v1698399470975!5m2!1sen!2s"
-                width="100%"
-                height="300"
-                style={{ border: 0 }}
-                allowFullScreen=""
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-              ></iframe>
+          {/* Content Section */}
+          <div className="col-span-3">
+            <h3 className="text-2xl font-bold mb-4">{services[selectedService].title}</h3>
+            <p className="text-gray-600 mb-6">{services[selectedService].description}</p>
+            <div className="grid md:grid-cols-2 gap-6">
+              {services[selectedService].plans.map((plan, index) => (
+                <div key={index} className="border p-6 rounded-lg shadow-md">
+                  <h4 className="text-xl font-bold mb-4">{plan.type}</h4>
+                  <ul className="space-y-2 text-gray-600">
+                    {plan.details.map((detail, idx) => (
+                      <li key={idx}>{detail}</li>
+                    ))}
+                  </ul>
+                  <button className="mt-4 bg-black text-white px-6 py-2 rounded hover:bg-gray-800">
+                    Request a Quote
+                  </button>
+                </div>
+              ))}
             </div>
           </div>
         </div>
