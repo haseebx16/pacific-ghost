@@ -39,10 +39,10 @@ const page = () => {
         'We assist authors in publishing their books online across all major platforms, ensuring a seamless process from manuscript to publication.',
       plans: [
         {
-          type: 'Single Plan',
+          type: 'Standard Plan',
           details: [
             'Basic formatting and layout services.',
-            'Publishing on a single platform (e.g., Amazon).',
+            'Publishing on a Standard platform (e.g., Amazon).',
             'Includes a consultation session to prepare your manuscript.',
           ],
         },
@@ -76,7 +76,7 @@ const page = () => {
         'Engage your audience with a captivating video book trailer that brings your story to life.',
       plans: [
         {
-          type: 'Single Plan',
+          type: 'Standard Plan',
           details: [
             'Custom video trailer (up to 2 minutes).',
             'Includes scriptwriting and professional voiceover.',
@@ -137,7 +137,7 @@ const page = () => {
         'Make a lasting impression with a professionally designed book cover and high-quality typesetting.',
       plans: [
         {
-          type: 'Single Plan',
+          type: 'Standard Plan',
           details: [
             'Custom cover design tailored to your genre.',
             'Interior typesetting for both print and e-book formats.',
