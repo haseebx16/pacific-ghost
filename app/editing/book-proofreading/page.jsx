@@ -111,9 +111,9 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         We invite you to connect with our finest and most talented proofreaders and enhance the overall charm of your book. Our team of proofreaders is here to help you with everything you need. We ensure that everything about your book complies with the publishing standards and also facilitate proofreading effectively.
         </p>
-        <p className="text-gray-500 mt-2 text-sm">
-        We invite you to connect with our finest and most talented proofreaders and enhance the overall charm of your book. Our team of proofreaders is here to help you with everything you need. We ensure that everything about your book complies with the publishing standards and also facilitate proofreading effectively.
-        </p>
+        <p className="text-gray-500  mt-2 text-sm">
+        We are here to support you and sort out any query related to proofreading – all you have to do is contact us to Proofreaders for hire and leave everything to our experts.
+      </p>
 
         </div>
       <ContactBanner/>
