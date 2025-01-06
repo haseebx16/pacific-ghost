@@ -64,7 +64,6 @@ const page = () => {
         Deadlines matter and we as the proofreading service provider know the importance of delivering your formatted book promptly. Our team organizes the workflow and efficient processes that enable us to meet even the tightest deadlines without compromising quality. You can rely on us to deliver your formatted manuscript on time.
         </p>    
         
-
         <h1 className="text-3xl md:text-4xl mt-12">With Our Professional Bio Writers, Your Life Experiences Are Shared In a Unique Way</h1>
         <p className="text-gray-500 mt-2 text-sm">
         At Pacific Ghostwriting, our professional biography writers understand the significance of authentically portraying your journey. Regardless of whether it is for personal reflection, professional branding, or public presentation, we know how to make your story unique from others in the industry.
