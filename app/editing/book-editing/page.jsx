@@ -36,7 +36,7 @@ const page = () => {
 
 
         {/* Section 1 */}
-        <h1 className="text-3xl md:text-4xl mt-12">Pacific Ghostwriting – Your Destination For Best Autobiography Writing Services</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Services We Offer As A Book Editing Company</h1>
         <p className="text-gray-500 mt-2 text-sm">
         You are highly welcome at Pacific Ghostwriting, which is best to provide biography writing services. Our team of qualified writers specializes in creating excellent autobiographies. With years of experience in professional autobiography ghostwriting, we have even a proven track record worldwide.
         </p>
