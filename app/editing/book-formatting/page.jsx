@@ -44,9 +44,6 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         Pacific Ghostwriting is the perfect place for you to avail of the formatting services for your book. We have a lot of things to convince you why we are the best option for you.
         </p>
-        <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, every story is discussed in a unique tone. Even if you are a business leader, a public figure, or someone with a remarkable journey to tell, we are dedicated to turning your memories into a literary masterpiece. Our personalized approach confirms that your voice shines through every page, creating a narrative that readers want
-        </p>
         
         <h1 className="text-3xl md:text-4xl mt-12">Adding Value to Your Story With Our Professional Autobiography Ghostwriting Service</h1>
         <p className="text-gray-500 mt-2 text-sm">
