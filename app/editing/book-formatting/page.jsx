@@ -68,7 +68,8 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         Our team of experts knows how easy it is to neglect a simple mistake. That is why, we leave no stone unturned when it comes to perfecting your manuscript. Whether it is to ensure consistency in formatting styles or check for typographical errors or alignment issues – we accurately review every aspect to maintain a high standard of quality and professionalism.
         </p>
-        <h1 className="text-3xl md:text-4xl mt-12">We Notice Every Detail        </h1>
+        <h1 className="text-3xl md:text-4xl mt-12">We Aim For Customer Satisfaction
+        </h1>
         <p className="text-gray-500 mt-2 text-sm">
         Our team of experts knows how easy it is to neglect a simple mistake. That is why, we leave no stone unturned when it comes to perfecting your manuscript. Whether it is to ensure consistency in formatting styles or check for typographical errors or alignment issues – we accurately review every aspect to maintain a high standard of quality and professionalism.
         </p>
