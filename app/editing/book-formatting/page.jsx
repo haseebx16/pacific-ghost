@@ -33,7 +33,7 @@ const page = () => {
         And for readers, a book with proper formatting is not good – they might lose their interest just after a few pages. It ensures the necessity of formatting in your book.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        If you want your book to shine in the spotlight, hiring a professional autobiography writer from Pacific Ghostwriting is the way to go.
+        Although it might be hard to work on formatting on book by yourself you should take professional help to make things easier for you. Pacific Ghostwriting is here to keep up with your demands and ensure that all your formatting needs are fulfilled.
         </p>
 
 
