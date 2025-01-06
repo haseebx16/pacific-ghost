@@ -92,7 +92,7 @@ const page = () => {
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         Now is your chance to get your manuscript formatted by Pacific Ghostwriting and ensure that the book will reach your readers with a flow that will make their reading experience smooth.
-  </p>
+    </p>
 
         </div>
       <ContactBanner/>
