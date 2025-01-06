@@ -90,7 +90,7 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         We are a known name in the literature industry and among our clients. With a hundred percent client satisfaction rates, we are proud to be the best formatting service provider. Pacific Ghostwriting has years of experience in the field and it is one of the reasons why the client chose us from the other options available.
         </p>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 italic mt-2 text-sm">
         Now is your chance to get your manuscript formatted by Pacific Ghostwriting and ensure that the book will reach your readers with a flow that will make their reading experience smooth.
         </p>
 
