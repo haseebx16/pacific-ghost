@@ -76,8 +76,7 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">We Offer Competitive Pricing        </h1>
         <p className="text-gray-500 mt-2 text-sm">
         It might be hard to know the exact book formatting cost as different factors are there to consider to know the exact amount. But we ensure that with quality formatting, our pricing packages are designed to offer exceptional value for your investment and provide transparent pricing structures with no hidden charges.
-
-</p>
+        </p>
         <h1 className="text-3xl md:text-4xl mt-12">We Notice Every Detail        </h1>
         <p className="text-gray-500 mt-2 text-sm">
         Our team of experts knows how easy it is to neglect a simple mistake. That is why, we leave no stone unturned when it comes to perfecting your manuscript. Whether it is to ensure consistency in formatting styles or check for typographical errors or alignment issues – we accurately review every aspect to maintain a high standard of quality and professionalism.
