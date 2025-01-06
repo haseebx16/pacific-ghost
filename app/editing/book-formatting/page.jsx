@@ -68,10 +68,7 @@ const page = () => {
 
         
         
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Corporate Autobiography</h1>
-        <p className="text-gray-500 mt-2 text-sm">
-        For business leaders and entrepreneurs, we provide corporate autobiography writing services that showcase your professional journey, accomplishments, and vision. We understand the importance of highlighting your achievements while conveying your leadership philosophy.
-        </p>
+        
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Legacy Autobiography</h1>
         <p className="text-gray-500 mt-2 text-sm">
         Preserve your family history and values for future generations with our legacy autobiography service. We collaborate with you to document ancestral stories, familial traditions, and cherished memories, ensuring that your legacy stays for years to come.
