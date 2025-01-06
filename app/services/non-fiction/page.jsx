@@ -22,87 +22,78 @@ const page = () => {
 
         {/* Heading Overlay */}
         <div className="absolute inset-0 flex items-center md:justify-start justify-center md:px-12">
-          <h1 className="text-white text-4xl md:text-5xl font-bold">On A Hunt For Fiction Ghostwriting Services? Come To Pacific Ghostwriting</h1>
+          <h1 className="text-white text-4xl md:text-5xl font-bold">Our Exceptional Non-Fiction Ghostwriting Services</h1>
         </div>
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
-        Nowadays, personal stories hold more power than any fictional tale. And an autobiography is the perfect format to accomplish this. Whether you’re sharing life’s journey, professional growth, or achievement over hardship, an autobiography allows you to share your experiences while captivating audiences.
+        Are you passionate about sharing your story with the world but lack the time or writing expertise to bring it to life? Look no further! Our non-fiction ghostwriting services are here to help turn your vision into a captivating manuscript that captivates readers and leaves a lasting impact.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        At Pacific Ghostwriting, we bring professional biography writers who write the autobiography for you. We have a team of talented autobiography ghostwriters who listen to your experiences and turn them into engaging narratives that people love to read.
+        If you are struggling with writing a non-fiction book on your own, no worries we have got your back. Our realm of literary expertise has ghostwriters who have mastery of covering all the widely popular genres and subgenres of non-fiction. Our non-fiction writers for hire are all geared up to provide you with exceptional writing services as a result of their years of expertise.
         </p>
-        <p className="text-gray-500 mt-6 text-sm">
-        If you want your book to shine in the spotlight, hiring a professional autobiography writer from Pacific Ghostwriting is the way to go.
-        </p>
-
-
-
+       
         {/* Section 1 */}
-        <h1 className="text-3xl md:text-4xl mt-12">Pacific Ghostwriting – Your Destination For Best Autobiography Writing Services</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Why Choose Our Ghostwriting Services?</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        You are highly welcome at Pacific Ghostwriting, which is best to provide biography writing services. Our team of qualified writers specializes in creating excellent autobiographies. With years of experience in professional autobiography ghostwriting, we have even a proven track record worldwide.
-        </p>
-        <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, every story is discussed in a unique tone. Even if you are a business leader, a public figure, or someone with a remarkable journey to tell, we are dedicated to turning your memories into a literary masterpiece. Our personalized approach confirms that your voice shines through every page, creating a narrative that readers want
+        At Pacific Ghostwriting, we understand the importance of preserving your unique voice and perspective. Our team of experienced ghostwriters specializes in crafting compelling non-fiction narratives that resonate with readers. Whether you’re a business leader, entrepreneur, expert in your field, or someone with a remarkable life story to tell, we’re here to help you share your wisdom, insights, and experiences with the world.
         </p>
         
-        <h1 className="text-3xl md:text-4xl mt-12">Adding Value to Your Story With Our Professional Autobiography Ghostwriting Service</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Our Transparent Approach to Creating Your Masterpiece</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        You can surely rely on the best biography ghostwriters available at Pacific Ghostwriting. We discuss your life experiences into a polished masterpiece.
+        We believe in a collaborative approach to ghostwriting, where your vision remains at the forefront of the creative process. Our skilled Nonfiction Writers work closely with you to understand your objectives, tone, and style, ensuring that the final manuscript authentically reflects your voice. From the initial brainstorming session to the final draft, we’re committed to delivering a manuscript that exceeds your expectations.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        With expert storytelling and careful attention to detail, we enrich your narrative to deeply connect with readers. Allow us to take your autobiography to the next level, capturing the spirit of your experiences and leaving a lasting impact on your audience.
+        We value every suggestion given by authors and imply that using our best potential. We aim to deliver nothing but quality.
         </p>
         
-        <h1 className="text-3xl md:text-4xl mt-12">Bring Your Life Story On Pages With Our Professional Biography Writing Services</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Unmatched Services We Offer In Non-Fiction</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Your story deserves to be heard; don’t you agree? Have you ever accomplished something in your profession that seemed nearly impossible? How many life-changing visions have you gained from your own experiences? If you can answer these all, you have the power to share your life narrative in a way that keeps readers glued to the pages until the very end.
+        You can get a quote on any of the best nonfiction book writing services we have mentioned on our page. Our services are second to none and give you complete author’s rights without claiming for ourselves.
         </p>
+        
+
+        <h1 className="text-2xl font-bold md:text-3xl mt-8">Book Ghostwriting</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        But what if you lack the writing skills to do so? Pacific Ghostwriting has the solution. At Pacific Ghostwriting, we specialize in crafting compelling biographies that authentically capture the essence of your experiences.
+        From memoirs and autobiographies to self-help books and business guides, we specialize in bringing your non-fiction book ideas to life. We guarantee success in all the areas of literature and the world outside its axis. Our nonfiction ghostwriting services are all about offering uniqueness and authentic ideas.
+        </p>
+        <h1 className="text-2xl font-bold md:text-3xl mt-8">Manuscript Editing</h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        Already have a draft? Our team of editors can review and polish your manuscript to enhance clarity, coherence, and readability. We have a bunch of experts with an eagle’s eye view. Our experts won’t judge your writing style but try their level best to give you a copy that resonates with your writing style.
+        </p>
+        <h1 className="text-2xl font-bold md:text-3xl mt-8">Proposal and Query Letter Writing</h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        Need help pitching your book to literary agents and publishers? We’ll craft compelling proposals and query letters that showcase the unique value of your project.
+        </p>
+        <h1 className="text-2xl font-bold md:text-3xl mt-8">Consultation and Coaching</h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        Throughout the writing and publishing process, our experts are here to provide guidance, support, and encouragement every step of the way. We keep the clients posted in between the process and are all ears to suggestions and edits.
         </p>
 
-        <h1 className="text-3xl md:text-4xl mt-12">Explore The Various Types Of Autobiographies to Choose From</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Meet Our Brilliantly Talented Team Of Writers</h1>
         <p className="text-gray-500 mt-2 text-sm">
-            At Pacific Ghostwriting, we offer a diverse range of autobiography writing services personalized to your unique needs and preferences. Our team lets you choose the desired format and style you want for your autobiography.
+        Behind every successful project is a dedicated team of professional and best Non-Fiction writers. Meet our talented team of professional non-fiction ghostwriters, editors, and publishing experts who are passionate about helping you bring your story to life.
         </p>
+        
+        <h1 className="text-3xl md:text-4xl mt-12">Client Testimonials</h1>
         <p className="text-gray-500 mt-2 text-sm">
-            Here’s a glimpse into the various types of autobiographies we offer:
+        Don’t just take our word for it! Hear what our satisfied clients have to say about their experience working with us. We have hundreds of happy and satisfied clients from across the globe. We entertain clients from all cultures and ethnicities.
         </p>
-
-
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Traditional Autobiography</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Our Outstanding Portfolio</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Our traditional autobiography service includes a comprehensive exploration of your entire life journey, from childhood memories to present-day experiences. We then create a narrative that sums up the depth of your story, highlighting key moments and insights along the way.
+        Explore samples of our past projects to get a glimpse of our writing style and quality craftsmanship. Our portfolio is the result of years of hardships, dedication, and the energy our writers have put into the projects. Now that’s for you to go through and choose us for your next project.
         </p>
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Memoir Writing</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Discover Our Process, Pricing, and Packages</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        If you prefer to focus on specific periods, themes, or events in your life, our memoir writing service is perfect for you. We work closely with you to identify the most significant chapters of your life and write a compelling narrative.
+        Learn more about our ghostwriting process, pricing structure, and how to get started on your project today. Hit us by email or ring our desks, we will be catering to your needs 24/7.
         </p>
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Celebrity Autobiography</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Got A Question In Mind?</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Our team focuses on capturing the unique voices and experiences of celebrities and public figures. Whether you’re a famous entertainer, athlete, or politician, we offer professional ghostwriting services to help bring your story to life.
+        Have questions? We’ve got answers! Check out our frequently asked questions section for more information on confidentiality, copyright, revisions, and more. If you have any other query apart from the discussed one, hit us on the phone or send an email. We will reach out and assign you one of the literary wizards to look after your concern.
         </p>
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Corporate Autobiography</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Contact Us And Discuss Your Book With Our Writers</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        For business leaders and entrepreneurs, we provide corporate autobiography writing services that showcase your professional journey, accomplishments, and vision. We understand the importance of highlighting your achievements while conveying your leadership philosophy.
-        </p>
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Legacy Autobiography</h1>
-        <p className="text-gray-500 mt-2 text-sm">
-        Preserve your family history and values for future generations with our legacy autobiography service. We collaborate with you to document ancestral stories, familial traditions, and cherished memories, ensuring that your legacy stays for years to come.
-        </p>
-
-        <h1 className="text-3xl md:text-4xl mt-12">With Our Professional Bio Writers, Your Life Experiences Are Shared In a Unique Way</h1>
-        <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, our professional biography writers understand the significance of authentically portraying your journey. Regardless of whether it is for personal reflection, professional branding, or public presentation, we know how to make your story unique from others in the industry.
-        </p>
-        <p className="text-gray-500 mt-2 text-sm">
-        Once you engage with us, we focus on making your experiences shine. You can trust us to transform your life story into a compelling narrative that captures the essence of who you are and what you stand for. Let our professional writers elevate your story to new heights.
-        </p>
-        <h1 className="text-3xl md:text-4xl mt-12">Autobiography Ghost Writer for Hire! Let’s Begin Your Journey</h1>
-        <p className="text-gray-500 mt-2 text-sm">
-        Are you ready to begin your autobiography journey? Let’s share your story with us today! Trust our professional team to breathe life into your experiences in a way that truly captures the reader’s eye. We will make your experiences a life lesson for the generation to come.
+        Ready to take the next step? Contact us today for a free consultation and discover how our non-fiction ghostwriting services can help you turn your story into a compelling book that inspires, educates, and entertains readers around the world. Let’s bring your vision to life together!
         </p>
 
         </div>
