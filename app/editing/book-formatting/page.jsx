@@ -56,8 +56,8 @@ const page = () => {
         Our team understands that every book’s formatting differs from the others and has unique requirements and objectives. Whether you want to write a book for business or academic purposes or want to explore your creative spark – we work closely with you to understand your vision and tailor the formatting solutions accordingly.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        But what if you lack the writing skills to do so? Pacific Ghostwriting has the solution. At Pacific Ghostwriting, we specialize in crafting compelling biographies that authentically capture the essence of your experiences.
-        </p>
+        From font styles and colors to margins and spacing, we customize every element to align with your preferences and branding guidelines.
+      </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">Explore The Various Types Of Autobiographies to Choose From</h1>
         <p className="text-gray-500 mt-2 text-sm">
