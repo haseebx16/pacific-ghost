@@ -61,7 +61,7 @@ const page = () => {
 
         <h1 className="text-3xl md:text-4xl mt-12">We Are Always On Time        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-            At Pacific Ghostwriting, we offer a diverse range of autobiography writing services personalized to your unique needs and preferences. Our team lets you choose the desired format and style you want for your autobiography.
+        Deadlines matter and we as the proofreading service provider know the importance of delivering your formatted book promptly. Our team organizes the workflow and efficient processes that enable us to meet even the tightest deadlines without compromising quality. You can rely on us to deliver your formatted manuscript on time.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
             Here’s a glimpse into the various types of autobiographies we offer:
