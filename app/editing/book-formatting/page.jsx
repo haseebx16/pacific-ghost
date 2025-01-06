@@ -66,8 +66,9 @@ const page = () => {
         
         <h1 className="text-3xl md:text-4xl mt-12">We Notice Every Detail        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, our professional biography writers understand the significance of authentically portraying your journey. Regardless of whether it is for personal reflection, professional branding, or public presentation, we know how to make your story unique from others in the industry.
-        </p>
+        Our team of experts knows how easy it is to neglect a simple mistake. That is why, we leave no stone unturned when it comes to perfecting your manuscript. Whether it is to ensure consistency in formatting styles or check for typographical errors or alignment issues – we accurately review every aspect to maintain a high standard of quality and professionalism.
+
+</p>
         <p className="text-gray-500 mt-2 text-sm">
         Once you engage with us, we focus on making your experiences shine. You can trust us to transform your life story into a compelling narrative that captures the essence of who you are and what you stand for. Let our professional writers elevate your story to new heights.
         </p>
