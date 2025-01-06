@@ -86,8 +86,7 @@ const page = () => {
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         Apart from this, we mostly use professional writing software and tools with formatting features to organize the whole process and achieve consistent results. these tools help maintain uniformity throughout the manuscript and make sure that formatting errors are minimized or eliminated.
-
-</p>
+        </p>
         <h1 className="text-3xl md:text-4xl mt-12">Autobiography Ghost Writer for Hire! Let’s Begin Your Journey</h1>
         <p className="text-gray-500 mt-2 text-sm">
         Are you ready to begin your autobiography journey? Let’s share your story with us today! Trust our professional team to breathe life into your experiences in a way that truly captures the reader’s eye. We will make your experiences a life lesson for the generation to come.
