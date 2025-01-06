@@ -74,9 +74,40 @@ const page = () => {
 
 </p>
         
-        <h1 className="text-3xl md:text-4xl mt-12">Autobiography Ghost Writer for Hire! Let’s Begin Your Journey</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Fact-Checking And Verification
+        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Are you ready to begin your autobiography journey? Let’s share your story with us today! Trust our professional team to breathe life into your experiences in a way that truly captures the reader’s eye. We will make your experiences a life lesson for the generation to come.
+        Our best book proofreaders make sure that fact-checking and verification are up to the mark. We verify factual information, references, and citations to maintain the credibility and reliability of your book. Any type of inaccuracy or ambiguity is rectified frequently to uphold the integrity of your content.
+        </p>
+        <h1 className="text-3xl md:text-4xl mt-12">Final Review And Quality Assurance
+        </h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        Before we finalize the manuscript, we conduct a comprehensive review to address any remaining issues or concerns. Our team of professional proofreaders examines every aspect of the document to ensure accuracy, clarity, and coherence. Our focus is on delivering a polished and error-free final product that meets the expectations of the clients and reflects our commitment to excellence.
+        </p>
+        <h1 className="text-3xl md:text-4xl mt-12">Fresh Perspective
+        </h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        After spending a specific time writing your book it is easy to overlook errors or become blind to them. Our professional proofreaders bring a fresh set of eyes to your manuscript and catch the mistakes that you might have neglected.
+        </p>
+        <h1 className="text-3xl md:text-4xl mt-12">Attention To Detail</h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        Our proofreaders are trained to pay attention to the smallest details which include grammar, punctuation, spelling, and syntax errors. We have a keen eye for inconsistencies and can make sure that your book maintains a high level of professionalism and reliability.
+        </p>
+        <h1 className="text-3xl md:text-4xl mt-12">Attention To Detail</h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        Our proofreaders are trained to pay attention to the smallest details which include grammar, punctuation, spelling, and syntax errors. We have a keen eye for inconsistencies and can make sure that your book maintains a high level of professionalism and reliability.
+        </p>
+        <h1 className="text-3xl md:text-4xl mt-12">Consistency        </h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        Our proofreaders are trained to pay attention to the smallest details which include grammar, punctuation, spelling, and syntax errors. We have a keen eye for inconsistencies and can make sure that your book maintains a high level of professionalism and reliability.
+        </p>
+        <h1 className="text-3xl md:text-4xl mt-12">Attention To Detail</h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        Our proofreaders are trained to pay attention to the smallest details which include grammar, punctuation, spelling, and syntax errors. We have a keen eye for inconsistencies and can make sure that your book maintains a high level of professionalism and reliability.
+        </p>
+        <h1 className="text-3xl md:text-4xl mt-12">Attention To Detail</h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        Our proofreaders are trained to pay attention to the smallest details which include grammar, punctuation, spelling, and syntax errors. We have a keen eye for inconsistencies and can make sure that your book maintains a high level of professionalism and reliability.
         </p>
 
         </div>
