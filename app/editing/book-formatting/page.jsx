@@ -48,7 +48,7 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">We Have Expertise
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        You can surely rely on the best biography ghostwriters available at Pacific Ghostwriting. We discuss your life experiences into a polished masterpiece.
+        Our team is composed of the finest professionals with extensive experience in formatting various types of books – whether it is your life journey notes or a craft of your imagination. We stay updated with industry trends and best practices to make sure that your manuscript adheres to the latest formatting standards.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         With expert storytelling and careful attention to detail, we enrich your narrative to deeply connect with readers. Allow us to take your autobiography to the next level, capturing the spirit of your experiences and leaving a lasting impact on your audience.
