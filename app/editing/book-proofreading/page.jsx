@@ -93,21 +93,23 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         Our proofreaders are trained to pay attention to the smallest details which include grammar, punctuation, spelling, and syntax errors. We have a keen eye for inconsistencies and can make sure that your book maintains a high level of professionalism and reliability.
         </p>
-        <h1 className="text-3xl md:text-4xl mt-12">Attention To Detail</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Enhanced Credibility
+        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Our proofreaders are trained to pay attention to the smallest details which include grammar, punctuation, spelling, and syntax errors. We have a keen eye for inconsistencies and can make sure that your book maintains a high level of professionalism and reliability.
+        A book that is free of errors and inconsistencies is more likely to be perceived as credible and authoritative by readers. Our professional proofreading adds a layer of polish and professionalism to your book and enhances its reputation and appeal.
         </p>
         <h1 className="text-3xl md:text-4xl mt-12">Consistency        </h1>
         <p className="text-gray-500 mt-2 text-sm">
         We have a team of expert proofreaders who ensure consistency throughout your book including style, formatting, and language use. We adhere to the specific guidelines or preferences you have and make sure that your book maintains a cohesive and polished appearance to the readers.
         </p>
-        <h1 className="text-3xl md:text-4xl mt-12">Attention To Detail</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Language Expertise        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Our proofreaders are trained to pay attention to the smallest details which include grammar, punctuation, spelling, and syntax errors. We have a keen eye for inconsistencies and can make sure that your book maintains a high level of professionalism and reliability.
+        We have experts in language and grammar rules. Our team can identify grammatical errors, awkward phrasing, and ambiguous sentences helping to clarify your writing and improve overall comprehension.
         </p>
-        <h1 className="text-3xl md:text-4xl mt-12">Attention To Detail</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Connect With Our Expert Proofreaders For Hire
+        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Our proofreaders are trained to pay attention to the smallest details which include grammar, punctuation, spelling, and syntax errors. We have a keen eye for inconsistencies and can make sure that your book maintains a high level of professionalism and reliability.
+        We invite you to connect with our finest and most talented proofreaders and enhance the overall charm of your book. Our team of proofreaders is here to help you with everything you need. We ensure that everything about your book complies with the publishing standards and also facilitate proofreading effectively.
         </p>
 
         </div>
