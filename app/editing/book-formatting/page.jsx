@@ -62,17 +62,8 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">We Are Always On Time        </h1>
         <p className="text-gray-500 mt-2 text-sm">
         Deadlines matter and we as the proofreading service provider know the importance of delivering your formatted book promptly. Our team organizes the workflow and efficient processes that enable us to meet even the tightest deadlines without compromising quality. You can rely on us to deliver your formatted manuscript on time.
-        </p>
+        </p>    
         
-
-
-        
-        
-        
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Legacy Autobiography</h1>
-        <p className="text-gray-500 mt-2 text-sm">
-        Preserve your family history and values for future generations with our legacy autobiography service. We collaborate with you to document ancestral stories, familial traditions, and cherished memories, ensuring that your legacy stays for years to come.
-        </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">With Our Professional Bio Writers, Your Life Experiences Are Shared In a Unique Way</h1>
         <p className="text-gray-500 mt-2 text-sm">
