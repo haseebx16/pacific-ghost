@@ -30,8 +30,7 @@ const page = () => {
         Editing is one of the most essential stages in the book creation. It ensures that there is clarity, coherence, and reader engagement. Pacific Ghostwriting is here to help you with its skilled editors to refine your manuscript and style of writing which makes it more compelling and consistent throughout.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        At Pacific Ghostwriting, we bring professional biography writers who write the autobiography for you. We have a team of talented autobiography ghostwriters who listen to your experiences and turn them into engaging narratives that people love to read.
-        </p>
+        Our editing services provide you with the best results and the outcome is just how you wish. We ensure that our editing process makes sure that your book is free of any lag and lacks nothing. Throughout the process, we keep our client close to us, so there is no communication gap and everything is according to the plan.        </p>
         <p className="text-gray-500 mt-6 text-sm">
         If you want your book to shine in the spotlight, hiring a professional autobiography writer from Pacific Ghostwriting is the way to go.
         </p>
