@@ -73,8 +73,7 @@ Join us, and let us transform your ideas into unforgettable stories.
         <h1 className="text-3xl md:text-4xl mt-12">Contact Us Today To Get Your Ghostwriting Project Started!</h1>
         <p className="text-gray-500 mt-2 text-sm">
         Come to us today, and let’s begin your ghostwriting project! Whether it’s a sci-fi escapade or any other genre, our team is ready to bring your vision to life with skill and imagination.
-
-</p>
+        </p>
 
         </div>
       <ContactBanner/>
