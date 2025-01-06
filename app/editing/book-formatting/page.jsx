@@ -53,7 +53,7 @@ const page = () => {
         
         <h1 className="text-3xl md:text-4xl mt-12">We Go For A Customized Approach        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Your story deserves to be heard; don’t you agree? Have you ever accomplished something in your profession that seemed nearly impossible? How many life-changing visions have you gained from your own experiences? If you can answer these all, you have the power to share your life narrative in a way that keeps readers glued to the pages until the very end.
+        Our team understands that every book’s formatting differs from the others and has unique requirements and objectives. Whether you want to write a book for business or academic purposes or want to explore your creative spark – we work closely with you to understand your vision and tailor the formatting solutions accordingly.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         But what if you lack the writing skills to do so? Pacific Ghostwriting has the solution. At Pacific Ghostwriting, we specialize in crafting compelling biographies that authentically capture the essence of your experiences.
