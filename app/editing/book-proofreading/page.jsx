@@ -28,15 +28,11 @@ const page = () => {
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
-        Nowadays, personal stories hold more power than any fictional tale. And an autobiography is the perfect format to accomplish this. Whether you’re sharing life’s journey, professional growth, or achievement over hardship, an autobiography allows you to share your experiences while captivating audiences.
+        Proofreading is not a simple step and your book depends on it. Proofreading services are the best way to make sure that your script doesn’t have any silly mistakes that might trigger your authority or credibility.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        At Pacific Ghostwriting, we bring professional biography writers who write the autobiography for you. We have a team of talented autobiography ghostwriters who listen to your experiences and turn them into engaging narratives that people love to read.
+        Our book proofreading services make sure that when you have the final draft of your book in your hands – it is free of any mistakes. It is indefensible for the author to serve as a quality control measure that enhances the overall standards of your work.
         </p>
-        <p className="text-gray-500 mt-6 text-sm">
-        If you want your book to shine in the spotlight, hiring a professional autobiography writer from Pacific Ghostwriting is the way to go.
-        </p>
-
 
 
         {/* Section 1 */}
