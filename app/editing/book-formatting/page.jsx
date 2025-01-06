@@ -67,10 +67,7 @@ const page = () => {
 
 
         
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Celebrity Autobiography</h1>
-        <p className="text-gray-500 mt-2 text-sm">
-        Our team focuses on capturing the unique voices and experiences of celebrities and public figures. Whether you’re a famous entertainer, athlete, or politician, we offer professional ghostwriting services to help bring your story to life.
-        </p>
+        
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Corporate Autobiography</h1>
         <p className="text-gray-500 mt-2 text-sm">
         For business leaders and entrepreneurs, we provide corporate autobiography writing services that showcase your professional journey, accomplishments, and vision. We understand the importance of highlighting your achievements while conveying your leadership philosophy.
