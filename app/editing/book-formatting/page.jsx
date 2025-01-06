@@ -82,8 +82,9 @@ const page = () => {
       </p>
         <h1 className="text-3xl md:text-4xl mt-12">Enjoy Pacific Ghostwriting Professional Book Formatting Services For Flawless Stories</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Our team of experts knows how easy it is to neglect a simple mistake. That is why, we leave no stone unturned when it comes to perfecting your manuscript. Whether it is to ensure consistency in formatting styles or check for typographical errors or alignment issues – we accurately review every aspect to maintain a high standard of quality and professionalism.
-        </p>
+        When you connect with Pacific Ghostwriting, we make sure that you get the finest formatting services. The professionals at our company know the value of formatting when it comes to books and that is the reason, they focus on offering their best to you.
+
+</p>
         <p className="text-gray-500 mt-2 text-sm">
         Once you engage with us, we focus on making your experiences shine. You can trust us to transform your life story into a compelling narrative that captures the essence of who you are and what you stand for. Let our professional writers elevate your story to new heights.
         </p>
