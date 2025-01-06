@@ -30,7 +30,7 @@ const page = () => {
         Formatting in a book is essential for reader engagement and comprehension. It makes sure that there is clarity in your content. Formatting makes it easier for your readers to understand and acquire a flow that keeps the readers engaged.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        At Pacific Ghostwriting, we bring professional biography writers who write the autobiography for you. We have a team of talented autobiography ghostwriters who listen to your experiences and turn them into engaging narratives that people love to read.
+        And for readers, a book with proper formatting is not good – they might lose their interest just after a few pages. It ensures the necessity of formatting in your book.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
         If you want your book to shine in the spotlight, hiring a professional autobiography writer from Pacific Ghostwriting is the way to go.
