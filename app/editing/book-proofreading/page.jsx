@@ -100,8 +100,7 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">Consistency        </h1>
         <p className="text-gray-500 mt-2 text-sm">
         We have a team of expert proofreaders who ensure consistency throughout your book including style, formatting, and language use. We adhere to the specific guidelines or preferences you have and make sure that your book maintains a cohesive and polished appearance to the readers.
-
-</p>
+        </p>
         <h1 className="text-3xl md:text-4xl mt-12">Attention To Detail</h1>
         <p className="text-gray-500 mt-2 text-sm">
         Our proofreaders are trained to pay attention to the smallest details which include grammar, punctuation, spelling, and syntax errors. We have a keen eye for inconsistencies and can make sure that your book maintains a high level of professionalism and reliability.
