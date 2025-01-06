@@ -66,9 +66,7 @@ const page = () => {
         
 
 
-        <p className="text-gray-500 mt-2 text-sm">
-        If you prefer to focus on specific periods, themes, or events in your life, our memoir writing service is perfect for you. We work closely with you to identify the most significant chapters of your life and write a compelling narrative.
-        </p>
+        
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Celebrity Autobiography</h1>
         <p className="text-gray-500 mt-2 text-sm">
         Our team focuses on capturing the unique voices and experiences of celebrities and public figures. Whether you’re a famous entertainer, athlete, or politician, we offer professional ghostwriting services to help bring your story to life.
