@@ -45,7 +45,8 @@ const page = () => {
         Pacific Ghostwriting is the perfect place for you to avail of the formatting services for your book. We have a lot of things to convince you why we are the best option for you.
         </p>
         
-        <h1 className="text-3xl md:text-4xl mt-12">Adding Value to Your Story With Our Professional Autobiography Ghostwriting Service</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">We Have Expertise
+        </h1>
         <p className="text-gray-500 mt-2 text-sm">
         You can surely rely on the best biography ghostwriters available at Pacific Ghostwriting. We discuss your life experiences into a polished masterpiece.
         </p>
