@@ -95,6 +95,7 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         Ready to take the next step? Contact us today for a free consultation and discover how our non-fiction ghostwriting services can help you turn your story into a compelling book that inspires, educates, and entertains readers around the world. Let’s bring your vision to life together!
         </p>
+        
 
         </div>
       <ContactBanner/>
