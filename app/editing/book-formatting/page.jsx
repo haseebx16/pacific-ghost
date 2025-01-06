@@ -63,9 +63,7 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         Deadlines matter and we as the proofreading service provider know the importance of delivering your formatted book promptly. Our team organizes the workflow and efficient processes that enable us to meet even the tightest deadlines without compromising quality. You can rely on us to deliver your formatted manuscript on time.
         </p>
-        <p className="text-gray-500 mt-2 text-sm">
-            Here’s a glimpse into the various types of autobiographies we offer:
-        </p>
+        
 
 
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Traditional Autobiography</h1>
