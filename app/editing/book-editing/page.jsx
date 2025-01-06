@@ -82,14 +82,18 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         Mechanical editing also goes by the name copy editing. Here our editors focus on correcting mechanical errors or inconsistencies in grammar, punctuation, spelling, and formatting. The team at Pacific Ghostwriting makes sure to adhere to the language conventions and publishing standards to maintain clarity and precision throughout the manuscript.
         </p>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 italic mt-2 text-sm">
         Our editorial process encompasses a series of interrelated stages and each serves a distinct purpose to refine and enhance your written work. Whether it is substantive editing or mechanical, every type of editing contributes to the creation of a polished, coherent, and impactful manuscript that communicates with the audience more effectively.
         </p>
+        <h1 className="text-3xl md:text-4xl mt-12">Book Editors For Hire At Pacific Ghostwriting        </h1>
+        <p className="text-gray-500 mt-2 text-sm">
+        Our affordable book editors provide proficiency and apply their skills using the best tools to alter your manuscript. Pacific Ghostwriting is one of the book editing services that hold the reputation for being the finest in the industry. From expert editors to having a range of tools to elevate your book, it has everything to provide you with the best. We take pride as a book editing agency and maintain client satisfaction by offering affordable book editing services.
+
+</p>
+        
 
         </div>
-      <ContactBanner/>
-      <Testimonials/>
-      <VideoTestimonials/>
+    
       <Footer/>
     </>
   )
