@@ -31,9 +31,7 @@ const page = () => {
         </p>
         <p className="text-gray-500 mt-6 text-sm">
         Our editing services provide you with the best results and the outcome is just how you wish. We ensure that our editing process makes sure that your book is free of any lag and lacks nothing. Throughout the process, we keep our client close to us, so there is no communication gap and everything is according to the plan.        </p>
-        <p className="text-gray-500 mt-6 text-sm">
-        If you want your book to shine in the spotlight, hiring a professional autobiography writer from Pacific Ghostwriting is the way to go.
-        </p>
+        
 
 
 
