@@ -51,7 +51,7 @@ const page = () => {
         Our team is composed of the finest professionals with extensive experience in formatting various types of books – whether it is your life journey notes or a craft of your imagination. We stay updated with industry trends and best practices to make sure that your manuscript adheres to the latest formatting standards.
         </p>
         
-        <h1 className="text-3xl md:text-4xl mt-12">Bring Your Life Story On Pages With Our Professional Biography Writing Services</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">We Go For A Customized Approach        </h1>
         <p className="text-gray-500 mt-2 text-sm">
         Your story deserves to be heard; don’t you agree? Have you ever accomplished something in your profession that seemed nearly impossible? How many life-changing visions have you gained from your own experiences? If you can answer these all, you have the power to share your life narrative in a way that keeps readers glued to the pages until the very end.
         </p>
