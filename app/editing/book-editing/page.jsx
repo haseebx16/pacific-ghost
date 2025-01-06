@@ -40,11 +40,8 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         As a professional editing service provider, we offer our clients the following services.
         </p>
-        <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, every story is discussed in a unique tone. Even if you are a business leader, a public figure, or someone with a remarkable journey to tell, we are dedicated to turning your memories into a literary masterpiece. Our personalized approach confirms that your voice shines through every page, creating a narrative that readers want
-        </p>
         
-        <h1 className="text-3xl md:text-4xl mt-12">Adding Value to Your Story With Our Professional Autobiography Ghostwriting Service</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Substantive Editing</h1>
         <p className="text-gray-500 mt-2 text-sm">
         You can surely rely on the best biography ghostwriters available at Pacific Ghostwriting. We discuss your life experiences into a polished masterpiece.
         </p>
