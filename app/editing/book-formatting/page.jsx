@@ -85,8 +85,9 @@ const page = () => {
         When you connect with Pacific Ghostwriting, we make sure that you get the finest formatting services. The professionals at our company know the value of formatting when it comes to books and that is the reason, they focus on offering their best to you.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        Once you engage with us, we focus on making your experiences shine. You can trust us to transform your life story into a compelling narrative that captures the essence of who you are and what you stand for. Let our professional writers elevate your story to new heights.
-        </p>
+        Apart from this, we mostly use professional writing software and tools with formatting features to organize the whole process and achieve consistent results. these tools help maintain uniformity throughout the manuscript and make sure that formatting errors are minimized or eliminated.
+
+</p>
         <h1 className="text-3xl md:text-4xl mt-12">Autobiography Ghost Writer for Hire! Let’s Begin Your Journey</h1>
         <p className="text-gray-500 mt-2 text-sm">
         Are you ready to begin your autobiography journey? Let’s share your story with us today! Trust our professional team to breathe life into your experiences in a way that truly captures the reader’s eye. We will make your experiences a life lesson for the generation to come.
