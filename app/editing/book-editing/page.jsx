@@ -27,7 +27,7 @@ const page = () => {
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
-        Nowadays, personal stories hold more power than any fictional tale. And an autobiography is the perfect format to accomplish this. Whether you’re sharing life’s journey, professional growth, or achievement over hardship, an autobiography allows you to share your experiences while captivating audiences.
+        Editing is one of the most essential stages in the book creation. It ensures that there is clarity, coherence, and reader engagement. Pacific Ghostwriting is here to help you with its skilled editors to refine your manuscript and style of writing which makes it more compelling and consistent throughout.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
         At Pacific Ghostwriting, we bring professional biography writers who write the autobiography for you. We have a team of talented autobiography ghostwriters who listen to your experiences and turn them into engaging narratives that people love to read.
