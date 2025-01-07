@@ -80,7 +80,7 @@ const page = () => {
         </p>
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Folklore Books Illustration</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Our team focuses on capturing the unique voices and experiences of celebrities and public figures. Whether you’re a famous entertainer, athlete, or politician, we offer professional ghostwriting services to help bring your story to life.
+        takes back children to a traditional world where we take on by creating illustrations of folklore tales. We create imaginative yet informational designs that help in children’s mental growth and ability to grasp[ around themselves.
         </p>
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Corporate Autobiography</h1>
         <p className="text-gray-500 mt-2 text-sm">
