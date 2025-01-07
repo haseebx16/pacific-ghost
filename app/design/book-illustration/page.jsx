@@ -31,7 +31,6 @@ const page = () => {
         </p>
         <p className="text-gray-500 mt-6 text-sm">
         No matter what the age of the reader is, we know how to deal with it. We work on methods that intrigue the readers in learning and adapt to making connections with the content better. It is not only about good books, but great books. So, here we are to help you in creating great books. The right kind of publication will help you stand out, giving more people access to your book. So, are you ready for a book illustrator for hire?
-
 </p>
         <p className="text-gray-500 mt-6 text-sm">
         If you want your book to shine in the spotlight, hiring a professional autobiography writer from Pacific Ghostwriting is the way to go.
