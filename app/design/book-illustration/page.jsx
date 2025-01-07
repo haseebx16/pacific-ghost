@@ -71,7 +71,6 @@ const page = () => {
         </p>
        
 
-
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Traditional Autobiography</h1>
         <p className="text-gray-500 mt-2 text-sm">
         Our traditional autobiography service includes a comprehensive exploration of your entire life journey, from childhood memories to present-day experiences. We then create a narrative that sums up the depth of your story, highlighting key moments and insights along the way.
