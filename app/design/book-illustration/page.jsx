@@ -30,8 +30,9 @@ const page = () => {
         Enjoy premium and enthralling book illustration services from Pacific Ghostwriting . We are a comprehensive ghostwriting service where we create numerous services related to the industry. Our platform is specially created for self-publishers. If you have written a book, but wondering about its illustration. With our affordable prices and fulfilling custom demands, we carry out the best in what we do. So, cut around from everywhere and look for us and get our book illustrator for hire.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        At Pacific Ghostwriting, we bring professional biography writers who write the autobiography for you. We have a team of talented autobiography ghostwriters who listen to your experiences and turn them into engaging narratives that people love to read.
-        </p>
+        No matter what the age of the reader is, we know how to deal with it. We work on methods that intrigue the readers in learning and adapt to making connections with the content better. It is not only about good books, but great books. So, here we are to help you in creating great books. The right kind of publication will help you stand out, giving more people access to your book. So, are you ready for a book illustrator for hire?
+
+</p>
         <p className="text-gray-500 mt-6 text-sm">
         If you want your book to shine in the spotlight, hiring a professional autobiography writer from Pacific Ghostwriting is the way to go.
         </p>
