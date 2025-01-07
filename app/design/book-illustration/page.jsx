@@ -48,8 +48,9 @@ const page = () => {
         Book illustration services are important for keeping children’s reading habits. The book illustration keeps them busier and it is also easier for them to understand the storyline. This works like a motivational act toward developing a reading habit. Our illustrators are professionals who know how to attract children.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        With expert storytelling and careful attention to detail, we enrich your narrative to deeply connect with readers. Allow us to take your autobiography to the next level, capturing the spirit of your experiences and leaving a lasting impact on your audience.
-        </p>
+        The illustrators need to be aware of child psychology so illustration involves a child’s development and growth. Parents like to keep their children busy and books will completely fulfill this purpose. Children are attracted to colorful images and also a factor in developing their reading habits.
+
+</p>
         
         <h1 className="text-3xl md:text-4xl mt-12">Bring Your Life Story On Pages With Our Professional Biography Writing Services</h1>
         <p className="text-gray-500 mt-2 text-sm">
