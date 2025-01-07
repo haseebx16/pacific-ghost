@@ -82,7 +82,7 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         takes back children to a traditional world where we take on by creating illustrations of folklore tales. We create imaginative yet informational designs that help in children’s mental growth and ability to grasp[ around themselves.
         </p>
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Corporate Autobiography</h1>
+        <h1 className="text-2xl font-bold md:text-3xl mt-8">Fantasy books Illustration        </h1>
         <p className="text-gray-500 mt-2 text-sm">
         For business leaders and entrepreneurs, we provide corporate autobiography writing services that showcase your professional journey, accomplishments, and vision. We understand the importance of highlighting your achievements while conveying your leadership philosophy.
         </p>
