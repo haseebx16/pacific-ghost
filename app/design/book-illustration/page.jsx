@@ -28,7 +28,7 @@ const page = () => {
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
         Enjoy premium and enthralling book illustration services from Pacific Ghostwriting . We are a comprehensive ghostwriting service where we create numerous services related to the industry. Our platform is specially created for self-publishers. If you have written a book, but wondering about its illustration. With our affordable prices and fulfilling custom demands, we carry out the best in what we do. So, cut around from everywhere and look for us and get our book illustrator for hire.
-      </p>
+        </p>
         <p className="text-gray-500 mt-6 text-sm">
         At Pacific Ghostwriting, we bring professional biography writers who write the autobiography for you. We have a team of talented autobiography ghostwriters who listen to your experiences and turn them into engaging narratives that people love to read.
         </p>
