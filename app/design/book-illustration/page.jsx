@@ -65,8 +65,7 @@ const page = () => {
         3. Experience different styles of illustrations, we work on different types of illustration techniques that help in setting the themes of the book.
         </p>
 
-        <h1 className="text-3xl md:text-4xl mt-12">Affordable Book Illustration Services – Find All at One Place
-</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Affordable Book Illustration Services – Find All at One Place</h1>
         <p className="text-gray-500 mt-2 text-sm">
             At Pacific Ghostwriting, we offer a diverse range of autobiography writing services personalized to your unique needs and preferences. Our team lets you choose the desired format and style you want for your autobiography.
         </p>
