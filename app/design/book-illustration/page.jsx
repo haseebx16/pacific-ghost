@@ -45,8 +45,9 @@ const page = () => {
         
         <h1 className="text-3xl md:text-4xl mt-12">Why Do You Need Book Illustration Services?</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        You can surely rely on the best biography ghostwriters available at Pacific Ghostwriting. We discuss your life experiences into a polished masterpiece.
-        </p>
+        Book illustration services are important for keeping children’s reading habits. The book illustration keeps them busier and it is also easier for them to understand the storyline. This works like a motivational act toward developing a reading habit. Our illustrators are professionals who know how to attract children.
+
+</p>
         <p className="text-gray-500 mt-2 text-sm">
         With expert storytelling and careful attention to detail, we enrich your narrative to deeply connect with readers. Allow us to take your autobiography to the next level, capturing the spirit of your experiences and leaving a lasting impact on your audience.
         </p>
