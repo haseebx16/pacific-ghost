@@ -56,7 +56,7 @@ const page = () => {
         You can expect impeccable services from us. We have created a customer design service for you where we work on strategic methods to fulfill all kinds of illustration services for children.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-          1.A visionary approach to crafting images and meeting the theme and genre of the book. Pacific Ghostwriting offers custom children’s book illustration services.
+          1. A visionary approach to crafting images and meeting the theme and genre of the book. Pacific Ghostwriting offers custom children’s book illustration services.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         You are allowed to choose your illustrator, check our designer’s work, and choose who you like. We have a clan of illustrators who are engineered to match the vision of your book. So, when you choose them, get a specific style of illustration.
