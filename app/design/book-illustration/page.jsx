@@ -86,23 +86,7 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         For business leaders and entrepreneurs, we provide corporate autobiography writing services that showcase your professional journey, accomplishments, and vision. We understand the importance of highlighting your achievements while conveying your leadership philosophy.
         </p>
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Legacy Autobiography</h1>
-        <p className="text-gray-500 mt-2 text-sm">
-        Preserve your family history and values for future generations with our legacy autobiography service. We collaborate with you to document ancestral stories, familial traditions, and cherished memories, ensuring that your legacy stays for years to come.
-        </p>
-
-        <h1 className="text-3xl md:text-4xl mt-12">With Our Professional Bio Writers, Your Life Experiences Are Shared In a Unique Way</h1>
-        <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, our professional biography writers understand the significance of authentically portraying your journey. Regardless of whether it is for personal reflection, professional branding, or public presentation, we know how to make your story unique from others in the industry.
-        </p>
-        <p className="text-gray-500 mt-2 text-sm">
-        Once you engage with us, we focus on making your experiences shine. You can trust us to transform your life story into a compelling narrative that captures the essence of who you are and what you stand for. Let our professional writers elevate your story to new heights.
-        </p>
-        <h1 className="text-3xl md:text-4xl mt-12">Autobiography Ghost Writer for Hire! Let’s Begin Your Journey</h1>
-        <p className="text-gray-500 mt-2 text-sm">
-        Are you ready to begin your autobiography journey? Let’s share your story with us today! Trust our professional team to breathe life into your experiences in a way that truly captures the reader’s eye. We will make your experiences a life lesson for the generation to come.
-        </p>
-
+        
         </div>
       <ContactBanner/>
       <Testimonials/>
