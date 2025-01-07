@@ -58,6 +58,9 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
           1.A visionary approach to crafting images and meeting the theme and genre of the book. Pacific Ghostwriting offers custom children’s book illustration services.
         </p>
+        <p className="text-gray-500 mt-2 text-sm">
+          1.A visionary approach to crafting images and meeting the theme and genre of the book. Pacific Ghostwriting offers custom children’s book illustration services.
+        </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">Explore The Various Types Of Autobiographies to Choose From</h1>
         <p className="text-gray-500 mt-2 text-sm">
