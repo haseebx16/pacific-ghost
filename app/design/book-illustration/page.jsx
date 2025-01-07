@@ -44,7 +44,7 @@ const page = () => {
         
         
         <h1 className="text-3xl md:text-4xl mt-12">Why Do You Need Book Illustration Services?
-        </h1>
+</h1>
         <p className="text-gray-500 mt-2 text-sm">
         You can surely rely on the best biography ghostwriters available at Pacific Ghostwriting. We discuss your life experiences into a polished masterpiece.
         </p>
