@@ -84,7 +84,7 @@ const page = () => {
         </p>
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Fantasy books Illustration        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        For business leaders and entrepreneurs, we provide corporate autobiography writing services that showcase your professional journey, accomplishments, and vision. We understand the importance of highlighting your achievements while conveying your leadership philosophy.
+        There are no limitations to a child’s imagination and we love to be a part of creating and fostering children’s imagination. Imagine a blue forest where there are pixies, birds, and angels.
         </p>
         
         </div>
