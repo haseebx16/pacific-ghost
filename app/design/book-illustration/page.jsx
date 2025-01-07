@@ -73,7 +73,6 @@ const page = () => {
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Fairytale Book Illustration </h1>
         <p className="text-gray-500 mt-2 text-sm">
         We work on imaginary characters and popular characters among the people. Redefining to redesigning them we have a popular demand. We know that children are fond of fairytales, therefore, we work on creative children’s art and provide them with fairy tale characters inspiring children.
-
 </p>
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Memoir Writing</h1>
         <p className="text-gray-500 mt-2 text-sm">
