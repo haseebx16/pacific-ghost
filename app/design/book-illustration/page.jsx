@@ -52,7 +52,7 @@ const page = () => {
         </p>
         
         <h1 className="text-3xl md:text-4xl mt-12">What Can You Expect from Us?
-        </h1>
+</h1>
         <p className="text-gray-500 mt-2 text-sm">
         Your story deserves to be heard; don’t you agree? Have you ever accomplished something in your profession that seemed nearly impossible? How many life-changing visions have you gained from your own experiences? If you can answer these all, you have the power to share your life narrative in a way that keeps readers glued to the pages until the very end.
         </p>
