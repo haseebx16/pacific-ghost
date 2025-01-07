@@ -39,8 +39,9 @@ const page = () => {
         {/* Section 1 */}
         <h1 className="text-3xl md:text-4xl mt-12">An Ocean of Talent – Children’s Book Illustrators for Hire        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        You are highly welcome at Pacific Ghostwriting, which is best to provide biography writing services. Our team of qualified writers specializes in creating excellent autobiographies. With years of experience in professional autobiography ghostwriting, we have even a proven track record worldwide.
-        </p>
+        Book Illustration Services are a major part of children’s books. At Pacific Ghostwriting we have a talented team of illustrators who hand trace alluring images creating visionary characters
+
+</p>
         <p className="text-gray-500 mt-2 text-sm">
         At Pacific Ghostwriting, every story is discussed in a unique tone. Even if you are a business leader, a public figure, or someone with a remarkable journey to tell, we are dedicated to turning your memories into a literary masterpiece. Our personalized approach confirms that your voice shines through every page, creating a narrative that readers want
         </p>
