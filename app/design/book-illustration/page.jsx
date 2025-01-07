@@ -34,9 +34,7 @@ const page = () => {
         </p>
         <p className="text-gray-500 mt-6 text-sm">
         Pacific Ghostwriting is here to create an imaginative world of stunning pictures, for writers who are a part of the self-publication industry.
-</p>
-
-
+  </p>
 
         {/* Section 1 */}
         <h1 className="text-3xl md:text-4xl mt-12">Pacific Ghostwriting – Your Destination For Best Autobiography Writing Services</h1>
