@@ -54,7 +54,6 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">What Can You Expect from Us?</h1>
         <p className="text-gray-500 mt-2 text-sm">
         You can expect impeccable services from us. We have created a customer design service for you where we work on strategic methods to fulfill all kinds of illustration services for children.
-
 </p>
         <p className="text-gray-500 mt-2 text-sm">
         But what if you lack the writing skills to do so? Pacific Ghostwriting has the solution. At Pacific Ghostwriting, we specialize in crafting compelling biographies that authentically capture the essence of your experiences.
