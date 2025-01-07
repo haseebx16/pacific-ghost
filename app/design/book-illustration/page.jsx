@@ -62,7 +62,7 @@ const page = () => {
         2. You are allowed to choose your illustrator, check our designer’s work, and choose who you like. We have a clan of illustrators who are engineered to match the vision of your book. So, when you choose them, get a specific style of illustration.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-          1.A visionary approach to crafting images and meeting the theme and genre of the book. Pacific Ghostwriting offers custom children’s book illustration services.
+        Experience different styles of illustrations, we work on different types of illustration techniques that help in setting the themes of the book.
         </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">Explore The Various Types Of Autobiographies to Choose From</h1>
