@@ -69,9 +69,7 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         Professional Book Illustration Services from Pacific Ghostwriting is a colorful and creative journey where we work on endless imaginations in creating illustrations. We are not limited to cartoon characters or serene sceneries. Have you ever thought of creating an imaginary world? Well, we do that with precision and perfection. Here are some of the book illustrations we work on.
         </p>
-        <p className="text-gray-500 mt-2 text-sm">
-            Here’s a glimpse into the various types of autobiographies we offer:
-        </p>
+       
 
 
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Traditional Autobiography</h1>
