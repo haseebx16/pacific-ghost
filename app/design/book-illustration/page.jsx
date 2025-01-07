@@ -78,7 +78,8 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         Every child begins their book journey with their book, most books are imagery helping children create a world around them. We like to work on vector book illustrations helping children educate. 
         </p>
-        <h1 className="text-2xl font-bold md:text-3xl mt-8">Celebrity Autobiography</h1>
+        <h1 className="text-2xl font-bold md:text-3xl mt-8">Folklore Books Illustration
+        </h1>
         <p className="text-gray-500 mt-2 text-sm">
         Our team focuses on capturing the unique voices and experiences of celebrities and public figures. Whether you’re a famous entertainer, athlete, or politician, we offer professional ghostwriting services to help bring your story to life.
         </p>
