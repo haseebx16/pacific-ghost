@@ -49,7 +49,6 @@ const page = () => {
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         The illustrators need to be aware of child psychology so illustration involves a child’s development and growth. Parents like to keep their children busy and books will completely fulfill this purpose. Children are attracted to colorful images and also a factor in developing their reading habits.
-
 </p>
         
         <h1 className="text-3xl md:text-4xl mt-12">Bring Your Life Story On Pages With Our Professional Biography Writing Services</h1>
