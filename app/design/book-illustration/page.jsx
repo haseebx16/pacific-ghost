@@ -56,7 +56,7 @@ const page = () => {
         You can expect impeccable services from us. We have created a customer design service for you where we work on strategic methods to fulfill all kinds of illustration services for children.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        But what if you lack the writing skills to do so? Pacific Ghostwriting has the solution. At Pacific Ghostwriting, we specialize in crafting compelling biographies that authentically capture the essence of your experiences.
+        A visionary approach to crafting images and meeting the theme and genre of the book. Pacific Ghostwriting offers custom children’s book illustration services.
         </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">Explore The Various Types Of Autobiographies to Choose From</h1>
