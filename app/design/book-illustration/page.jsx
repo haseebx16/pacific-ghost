@@ -72,8 +72,9 @@ const page = () => {
        
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Fairytale Book Illustration </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Our traditional autobiography service includes a comprehensive exploration of your entire life journey, from childhood memories to present-day experiences. We then create a narrative that sums up the depth of your story, highlighting key moments and insights along the way.
-        </p>
+        We work on imaginary characters and popular characters among the people. Redefining to redesigning them we have a popular demand. We know that children are fond of fairytales, therefore, we work on creative children’s art and provide them with fairy tale characters inspiring children.
+
+</p>
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Memoir Writing</h1>
         <p className="text-gray-500 mt-2 text-sm">
         If you prefer to focus on specific periods, themes, or events in your life, our memoir writing service is perfect for you. We work closely with you to identify the most significant chapters of your life and write a compelling narrative.
