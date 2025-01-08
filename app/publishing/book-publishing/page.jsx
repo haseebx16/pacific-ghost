@@ -22,13 +22,13 @@ const page = () => {
 
         {/* Heading Overlay */}
         <div className="absolute inset-0 flex items-center md:justify-start justify-center md:px-12">
-          <h1 className="text-white text-4xl md:text-5xl font-bold">Pacific Ghostwriting - Best Book Publishers You Can Hire Online
+          <h1 className="text-white text-4xl md:text-5xl font-bold">Coastal Ghostwriting - Best Book Publishers You Can Hire Online
           </h1>
         </div>
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
-        Need help with book publishing? Pacific Ghostwriting is here to guide you through this bumpy road of publishing. We navigate authors and guide them through a path filled with success. Authors need to trust the process, our book publishers, and our methods.
+        Need help with book publishing? Coastal Ghostwriting is here to guide you through this bumpy road of publishing. We navigate authors and guide them through a path filled with success. Authors need to trust the process, our book publishers, and our methods.
 
 </p>
         <p className="text-gray-500 italic mt-6 text-sm">
@@ -45,7 +45,7 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">About Us- Our Vision To Make Your Book Successful
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, we believe that every story deserves to be told. Founded by a team of industry experts with a shared love for books, our mission is to empower authors to share their stories with the world. With years of experience and a dedication to quality, we pride ourselves on our reputation for professionalism, integrity, and creativity.
+        At Coastal Ghostwriting, we believe that every story deserves to be told. Founded by a team of industry experts with a shared love for books, our mission is to empower authors to share their stories with the world. With years of experience and a dedication to quality, we pride ourselves on our reputation for professionalism, integrity, and creativity.
 
 </p>
       
@@ -56,7 +56,7 @@ const page = () => {
 
 </p>
         <p className="text-gray-500 mt-2 text-sm">
-        The Pacific Ghostwriting ook publishing company is designed to be transparent, efficient, and collaborative. From the moment our client submits their manuscript, we guide them through each stage of the publishing journey, ensuring that their vision is appreciated every step of the way. With regular communication and virtual meetings, we’ll help authors navigate the complexities of the publishing industry with ease.
+        The Coastal Ghostwriting ook publishing company is designed to be transparent, efficient, and collaborative. From the moment our client submits their manuscript, we guide them through each stage of the publishing journey, ensuring that their vision is appreciated every step of the way. With regular communication and virtual meetings, we’ll help authors navigate the complexities of the publishing industry with ease.
 
 </p>
         
@@ -126,7 +126,7 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">Making Your Publishing Dream A Living Reality
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Try considering Pacific Ghostwriting for your publishing needs. We’re excited to partner with you on your journey to becoming a published author. With our expertise, dedication, and passion for storytelling, we’re confident that together, we can bring your vision to life and make your publishing dreams a reality.
+        Try considering Coastal Ghostwriting for your publishing needs. We’re excited to partner with you on your journey to becoming a published author. With our expertise, dedication, and passion for storytelling, we’re confident that together, we can bring your vision to life and make your publishing dreams a reality.
 
 </p>
 

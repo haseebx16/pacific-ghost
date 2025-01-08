@@ -36,7 +36,7 @@ const page = () => {
         Characters in fantasy books get into a heroic quest or face formidable challenges, testing their courage and resilience. As readers journey alongside these characters and experience a myriad of emotions – from triumph to heartbreak – create a deep connection with the story.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        Writing a fantasy book is not easy but it isn’t impossible either. All you need is the right partner and you will excel in the art. Pacific Ghostwriting is one of the premium choices of authors who want to write fantasy books but don’t know where to start.
+        Writing a fantasy book is not easy but it isn’t impossible either. All you need is the right partner and you will excel in the art. Coastal Ghostwriting is one of the premium choices of authors who want to write fantasy books but don’t know where to start.
         </p>
 
 
@@ -82,13 +82,13 @@ const page = () => {
 
         <h1 className="text-3xl md:text-4xl mt-12">Fantasy Ghostwriters For Hire At Reasonable Packages</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Pacific Ghostwriting provides the best fantasy writing services at affordable rates and it involves a combination of efficiency, expertise, and flexibility. Our team comprises talented and expert writers with a passion for creating compelling fantasy tales. These writers possess a deep understanding of the genre, its tropes, and the audience, which enables us to create engaging stories that captivate our readers.
+        Coastal Ghostwriting provides the best fantasy writing services at affordable rates and it involves a combination of efficiency, expertise, and flexibility. Our team comprises talented and expert writers with a passion for creating compelling fantasy tales. These writers possess a deep understanding of the genre, its tropes, and the audience, which enables us to create engaging stories that captivate our readers.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         Efficiency is another key component of our service. We prioritize clear communication and organized processes to make sure that the project is completed on time and to the highest standard. We use efficient workflows and project management techniques and optimize our resources to minimize turnaround times without compromising on quality.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        We also take care of flexibility in providing affordable ghostwriting services. Pacific Ghostwriting knows that every project is unique with its own set of requirements and constraints. Therefore, we offer customizable packages and pricing options to meet the specific needs and budgets of our clients. Whether it is a short story, a novella, or a full-length novel, we work closely with our clients to deliver exceptional results within their financial means.
+        We also take care of flexibility in providing affordable ghostwriting services. Coastal Ghostwriting knows that every project is unique with its own set of requirements and constraints. Therefore, we offer customizable packages and pricing options to meet the specific needs and budgets of our clients. Whether it is a short story, a novella, or a full-length novel, we work closely with our clients to deliver exceptional results within their financial means.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         We aim for transparency and integrity in all our dealings. That is why our pricing structure is straightforward with no hidden fees or charges. We believe in building long-term relationships with our clients based on trust, reliability, and mutual respect.

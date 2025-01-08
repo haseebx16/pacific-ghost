@@ -36,7 +36,7 @@ const page = () => {
         {/* Section 1 */}
         <h1 className="text-3xl md:text-4xl mt-12">Why Choose Our Ghostwriting Services?</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, we understand the importance of preserving your unique voice and perspective. Our team of experienced ghostwriters specializes in crafting compelling non-fiction narratives that resonate with readers. Whether you’re a business leader, entrepreneur, expert in your field, or someone with a remarkable life story to tell, we’re here to help you share your wisdom, insights, and experiences with the world.
+        At Coastal Ghostwriting, we understand the importance of preserving your unique voice and perspective. Our team of experienced ghostwriters specializes in crafting compelling non-fiction narratives that resonate with readers. Whether you’re a business leader, entrepreneur, expert in your field, or someone with a remarkable life story to tell, we’re here to help you share your wisdom, insights, and experiences with the world.
         </p>
         
         <h1 className="text-3xl md:text-4xl mt-12">Our Transparent Approach to Creating Your Masterpiece</h1>

@@ -38,7 +38,7 @@ const GhostwritingServices = () => {
         <div className="flex flex-col md:flex-row gap-8">
           <div className="md:w-2/3">
             <p className="text-gray-600 text-sm mb-4 leading-relaxed">
-              Under one roof you will get to experience ingenious services for an unmatched result. You will witness and have a brilliant time with us. We carry on projects with professionalism, intelligence, and brilliance. We work on a fine process engineered by our experts with a knack for writing and editing. At Pacific Ghostwriting we invite you to our platform for a creative journey that can lead to a successful book publication. By joining Pacific Ghostwriting our clients get,
+              Under one roof you will get to experience ingenious services for an unmatched result. You will witness and have a brilliant time with us. We carry on projects with professionalism, intelligence, and brilliance. We work on a fine process engineered by our experts with a knack for writing and editing. At Coastal Ghostwriting we invite you to our platform for a creative journey that can lead to a successful book publication. By joining Coastal Ghostwriting our clients get,
             </p>
 
             <div className="grid md:grid-cols-2 gap-x-6 gap-y-1">
@@ -69,7 +69,7 @@ const GhostwritingServices = () => {
 
         {/* Second Section */}
         <div className="mt-8">
-          <h4 className="text-2xl font-bold mb-3">PACIFIC GHOSTWRITING COMPANY – JOIN FOR INCLUSIVE JOURNEY</h4>
+          <h4 className="text-2xl font-bold mb-3">Coastal Ghostwriting COMPANY – JOIN FOR INCLUSIVE JOURNEY</h4>
           <p className="text-gray-600 text-sm mb-4 leading-relaxed">
             Our ghostwriting agency is designed while keeping every ghostwriting framework required. You can trust us with your manuscripts, and drafts in order to put them in the public eye. Your job is to hire our ghostwriters and ours is to do the work. We work on a qualitative pattern with a steady speed and keep you assisted throughout the process.
           </p>
@@ -113,7 +113,7 @@ const GhostwritingServices = () => {
             With a vision to spread quality writing with valuable creativity, we pour our passion into the work. With compelling sentence structures and easy-to-grasp writing style, we work in original pieces of writing impeccably created for you.
           </p>
           <p className="text-gray-600 text-sm mb-4 leading-relaxed">
-            We offer professional writers and editors who create content on your behalf. Our writers work on different systems such as books, articles, speeches, and more. Pacific Ghostwriting truly believes in keeping everything private, and quality a paramount rule of service. So, do not worry we work with tailored specifications, without revealing any identity.
+            We offer professional writers and editors who create content on your behalf. Our writers work on different systems such as books, articles, speeches, and more. Coastal Ghostwriting truly believes in keeping everything private, and quality a paramount rule of service. So, do not worry we work with tailored specifications, without revealing any identity.
           </p>
         </div>
 

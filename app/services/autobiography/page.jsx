@@ -30,26 +30,26 @@ const page = () => {
         Nowadays, personal stories hold more power than any fictional tale. And an autobiography is the perfect format to accomplish this. Whether you’re sharing life’s journey, professional growth, or achievement over hardship, an autobiography allows you to share your experiences while captivating audiences.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        At Pacific Ghostwriting, we bring professional biography writers who write the autobiography for you. We have a team of talented autobiography ghostwriters who listen to your experiences and turn them into engaging narratives that people love to read.
+        At Coastal Ghostwriting, we bring professional biography writers who write the autobiography for you. We have a team of talented autobiography ghostwriters who listen to your experiences and turn them into engaging narratives that people love to read.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        If you want your book to shine in the spotlight, hiring a professional autobiography writer from Pacific Ghostwriting is the way to go.
+        If you want your book to shine in the spotlight, hiring a professional autobiography writer from Coastal Ghostwriting is the way to go.
         </p>
 
 
 
         {/* Section 1 */}
-        <h1 className="text-3xl md:text-4xl mt-12">Pacific Ghostwriting – Your Destination For Best Autobiography Writing Services</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Coastal Ghostwriting – Your Destination For Best Autobiography Writing Services</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        You are highly welcome at Pacific Ghostwriting, which is best to provide biography writing services. Our team of qualified writers specializes in creating excellent autobiographies. With years of experience in professional autobiography ghostwriting, we have even a proven track record worldwide.
+        You are highly welcome at Coastal Ghostwriting, which is best to provide biography writing services. Our team of qualified writers specializes in creating excellent autobiographies. With years of experience in professional autobiography ghostwriting, we have even a proven track record worldwide.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, every story is discussed in a unique tone. Even if you are a business leader, a public figure, or someone with a remarkable journey to tell, we are dedicated to turning your memories into a literary masterpiece. Our personalized approach confirms that your voice shines through every page, creating a narrative that readers want
+        At Coastal Ghostwriting, every story is discussed in a unique tone. Even if you are a business leader, a public figure, or someone with a remarkable journey to tell, we are dedicated to turning your memories into a literary masterpiece. Our personalized approach confirms that your voice shines through every page, creating a narrative that readers want
         </p>
         
         <h1 className="text-3xl md:text-4xl mt-12">Adding Value to Your Story With Our Professional Autobiography Ghostwriting Service</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        You can surely rely on the best biography ghostwriters available at Pacific Ghostwriting. We discuss your life experiences into a polished masterpiece.
+        You can surely rely on the best biography ghostwriters available at Coastal Ghostwriting. We discuss your life experiences into a polished masterpiece.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         With expert storytelling and careful attention to detail, we enrich your narrative to deeply connect with readers. Allow us to take your autobiography to the next level, capturing the spirit of your experiences and leaving a lasting impact on your audience.
@@ -60,12 +60,12 @@ const page = () => {
         Your story deserves to be heard; don’t you agree? Have you ever accomplished something in your profession that seemed nearly impossible? How many life-changing visions have you gained from your own experiences? If you can answer these all, you have the power to share your life narrative in a way that keeps readers glued to the pages until the very end.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        But what if you lack the writing skills to do so? Pacific Ghostwriting has the solution. At Pacific Ghostwriting, we specialize in crafting compelling biographies that authentically capture the essence of your experiences.
+        But what if you lack the writing skills to do so? Coastal Ghostwriting has the solution. At Coastal Ghostwriting, we specialize in crafting compelling biographies that authentically capture the essence of your experiences.
         </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">Explore The Various Types Of Autobiographies to Choose From</h1>
         <p className="text-gray-500 mt-2 text-sm">
-            At Pacific Ghostwriting, we offer a diverse range of autobiography writing services personalized to your unique needs and preferences. Our team lets you choose the desired format and style you want for your autobiography.
+            At Coastal Ghostwriting, we offer a diverse range of autobiography writing services personalized to your unique needs and preferences. Our team lets you choose the desired format and style you want for your autobiography.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
             Here’s a glimpse into the various types of autobiographies we offer:
@@ -95,7 +95,7 @@ const page = () => {
 
         <h1 className="text-3xl md:text-4xl mt-12">With Our Professional Bio Writers, Your Life Experiences Are Shared In a Unique Way</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, our professional biography writers understand the significance of authentically portraying your journey. Regardless of whether it is for personal reflection, professional branding, or public presentation, we know how to make your story unique from others in the industry.
+        At Coastal Ghostwriting, our professional biography writers understand the significance of authentically portraying your journey. Regardless of whether it is for personal reflection, professional branding, or public presentation, we know how to make your story unique from others in the industry.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         Once you engage with us, we focus on making your experiences shine. You can trust us to transform your life story into a compelling narrative that captures the essence of who you are and what you stand for. Let our professional writers elevate your story to new heights.

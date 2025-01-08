@@ -22,24 +22,24 @@ const page = () => {
 
         {/* Heading Overlay */}
         <div className="absolute inset-0 flex items-center md:justify-start justify-center md:px-12">
-          <h1 className="text-white text-4xl md:text-5xl font-bold">Enjoy the Best Book Illustration Services by Pacific Ghostwriting</h1>
+          <h1 className="text-white text-4xl md:text-5xl font-bold">Enjoy the Best Book Illustration Services by Coastal Ghostwriting</h1>
         </div>
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
-        Enjoy premium and enthralling book illustration services from Pacific Ghostwriting . We are a comprehensive ghostwriting service where we create numerous services related to the industry. Our platform is specially created for self-publishers. If you have written a book, but wondering about its illustration. With our affordable prices and fulfilling custom demands, we carry out the best in what we do. So, cut around from everywhere and look for us and get our book illustrator for hire.
+        Enjoy premium and enthralling book illustration services from Coastal Ghostwriting . We are a comprehensive ghostwriting service where we create numerous services related to the industry. Our platform is specially created for self-publishers. If you have written a book, but wondering about its illustration. With our affordable prices and fulfilling custom demands, we carry out the best in what we do. So, cut around from everywhere and look for us and get our book illustrator for hire.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
         No matter what the age of the reader is, we know how to deal with it. We work on methods that intrigue the readers in learning and adapt to making connections with the content better. It is not only about good books, but great books. So, here we are to help you in creating great books. The right kind of publication will help you stand out, giving more people access to your book. So, are you ready for a book illustrator for hire?
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        Pacific Ghostwriting is here to create an imaginative world of stunning pictures, for writers who are a part of the self-publication industry.
+        Coastal Ghostwriting is here to create an imaginative world of stunning pictures, for writers who are a part of the self-publication industry.
         </p>
 
         {/* Section 1 */}
         <h1 className="text-3xl md:text-4xl mt-12">An Ocean of Talent – Children’s Book Illustrators for Hire        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Book Illustration Services are a major part of children’s books. At Pacific Ghostwriting we have a talented team of illustrators who hand trace alluring images creating visionary characters
+        Book Illustration Services are a major part of children’s books. At Coastal Ghostwriting we have a talented team of illustrators who hand trace alluring images creating visionary characters
         </p>
         
         
@@ -56,7 +56,7 @@ const page = () => {
         You can expect impeccable services from us. We have created a customer design service for you where we work on strategic methods to fulfill all kinds of illustration services for children.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-          1. A visionary approach to crafting images and meeting the theme and genre of the book. Pacific Ghostwriting offers custom children’s book illustration services.
+          1. A visionary approach to crafting images and meeting the theme and genre of the book. Coastal Ghostwriting offers custom children’s book illustration services.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         2. You are allowed to choose your illustrator, check our designer’s work, and choose who you like. We have a clan of illustrators who are engineered to match the vision of your book. So, when you choose them, get a specific style of illustration.
@@ -67,7 +67,7 @@ const page = () => {
 
         <h1 className="text-3xl md:text-4xl mt-12">Affordable Book Illustration Services – Find All at One Place</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Professional Book Illustration Services from Pacific Ghostwriting is a colorful and creative journey where we work on endless imaginations in creating illustrations. We are not limited to cartoon characters or serene sceneries. Have you ever thought of creating an imaginary world? Well, we do that with precision and perfection. Here are some of the book illustrations we work on.
+        Professional Book Illustration Services from Coastal Ghostwriting is a colorful and creative journey where we work on endless imaginations in creating illustrations. We are not limited to cartoon characters or serene sceneries. Have you ever thought of creating an imaginary world? Well, we do that with precision and perfection. Here are some of the book illustrations we work on.
         </p>
        
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Fairytale Book Illustration </h1>

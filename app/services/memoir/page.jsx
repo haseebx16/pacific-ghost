@@ -33,7 +33,7 @@ const page = () => {
             memoir difficult, then we have you covered.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-            Our professional memoir writers are as excited as you must be to give shape to your memories. Pacific Ghostwriting is a renowned ghostwriting company that has been serving global clients for years.
+            Our professional memoir writers are as excited as you must be to give shape to your memories. Coastal Ghostwriting is a renowned ghostwriting company that has been serving global clients for years.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
         We agree with this famous quote out of the best-selling memoir, Becoming by Michelle Obama. So, why not own your life stories and let the world know your struggles, the crooked path you took that led to success? Modern-day readers are interested in a fresh perspective to view life.

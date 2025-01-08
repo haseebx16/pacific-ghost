@@ -10,10 +10,10 @@ const Footer = () => {
         <div className="flex flex-wrap justify-between">
           {/* Left Section */}
           <div className="w-full md:w-1/3 mb-8 md:mb-0">
-            <h2 className="text-xl font-bold text-white mb-4">Pacific Ghostwriting</h2>
+            <h2 className="text-xl font-bold text-white mb-4">Coastal Ghostwriting</h2>
             <p>
-              The services provided by Pacific Ghostwriting become clients' property once
-              delivered. Pacific Ghostwriting will not hold any ownership rights once your work
+              The services provided by Coastal Ghostwriting become clients' property once
+              delivered. Coastal Ghostwriting will not hold any ownership rights once your work
               is successfully accepted by a publishing house.
             </p>
             <div className="flex mt-4 space-x-3">
@@ -90,7 +90,7 @@ const Footer = () => {
 
         {/* Footer Bottom */}
         <div className="border-t border-gray-700 mt-8 pt-4 flex flex-wrap justify-between items-center">
-          <p>© 2025 Pacific Ghostwriting. All rights reserved Pacific Ghostwriting ➤ #1 Ghostwriting Services</p>
+          <p>© 2025 Coastal Ghostwriting. All rights reserved Coastal Ghostwriting ➤ #1 Ghostwriting Services</p>
           <div className="space-x-4">
             <a href="#" className="hover:text-white">Privacy Policy</a>
             <a href="#" className="hover:text-white">Terms of Service</a>

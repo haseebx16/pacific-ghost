@@ -22,21 +22,21 @@ const page = () => {
 
         {/* Heading Overlay */}
         <div className="absolute inset-0 flex items-center md:justify-start justify-center md:px-12">
-          <h1 className="text-white text-4xl md:text-5xl font-bold">The Best Songwriters for Hire at Pacific Ghostwriting</h1>
+          <h1 className="text-white text-4xl md:text-5xl font-bold">The Best Songwriters for Hire at Coastal Ghostwriting</h1>
         </div>
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
-        Have you hired the songwriter yet? Well, why are you waiting? when you have us. Forget about looking around the market to meet numerous songwriting services, Pacific Ghostwriting is here. Songs increase our emotions and generate them. Have you ever thought Elton John or Bob Dylan created such a mesmerizing song that captivates their listeners? Well, they know how to write a song. A perfect set of lyrics, and a beautifully composed song, there you have a top record song.
+        Have you hired the songwriter yet? Well, why are you waiting? when you have us. Forget about looking around the market to meet numerous songwriting services, Coastal Ghostwriting is here. Songs increase our emotions and generate them. Have you ever thought Elton John or Bob Dylan created such a mesmerizing song that captivates their listeners? Well, they know how to write a song. A perfect set of lyrics, and a beautifully composed song, there you have a top record song.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        Doesn’t it sound good? Well, yes it does and we can make it happen for you. We have ghost songwriters immersed in the art of writing thematic songs. Hire us so we can create rich, original music lyrics where skies and stars create a magical world. Songwriting is all about putting the right words together. So, do not wait more, and enjoy Pacific Ghostwriting songwriting services
+        Doesn’t it sound good? Well, yes it does and we can make it happen for you. We have ghost songwriters immersed in the art of writing thematic songs. Hire us so we can create rich, original music lyrics where skies and stars create a magical world. Songwriting is all about putting the right words together. So, do not wait more, and enjoy Coastal Ghostwriting songwriting services
         </p>
 
         {/* Section 1 */}
-        <h1 className="text-3xl md:text-4xl mt-12">Enjoy Professional Songwriters Service at Pacific Ghostwriting</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Enjoy Professional Songwriters Service at Coastal Ghostwriting</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        You may have thought about an incident which you would like to sing about. How would you do it? People like to listen more than they like to read. So, hire a songwriter from Pacific Ghostwriting and we will reflect you through a song.
+        You may have thought about an incident which you would like to sing about. How would you do it? People like to listen more than they like to read. So, hire a songwriter from Coastal Ghostwriting and we will reflect you through a song.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         Songwriting is a tough job. It takes the songwriter to have such skill where he has to reflect the voice of others. However, we know how to do it. Working for years now we cover all genres in songs. The team of songwriters are music lovers so they adjust well to their task.

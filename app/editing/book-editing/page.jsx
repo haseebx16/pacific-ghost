@@ -27,7 +27,7 @@ const page = () => {
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
-        Editing is one of the most essential stages in the book creation. It ensures that there is clarity, coherence, and reader engagement. Pacific Ghostwriting is here to help you with its skilled editors to refine your manuscript and style of writing which makes it more compelling and consistent throughout.
+        Editing is one of the most essential stages in the book creation. It ensures that there is clarity, coherence, and reader engagement. Coastal Ghostwriting is here to help you with its skilled editors to refine your manuscript and style of writing which makes it more compelling and consistent throughout.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
         Our editing services provide you with the best results and the outcome is just how you wish. We ensure that our editing process makes sure that your book is free of any lag and lacks nothing. Throughout the process, we keep our client close to us, so there is no communication gap and everything is according to the plan.        </p>
@@ -72,7 +72,7 @@ const page = () => {
         
         <h1 className="text-3xl md:text-4xl mt-12">Stylistic Editing</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        In this type of editing, our writer focuses on refining language, tone, style, and expression to make sure that it enhances the readability and movement of your content. Our expert editors at Pacific Ghostwriting aim to convey the ideas more concisely and efficiently to make sure consistency in voice and style while enhancing flow and cohesion.
+        In this type of editing, our writer focuses on refining language, tone, style, and expression to make sure that it enhances the readability and movement of your content. Our expert editors at Coastal Ghostwriting aim to convey the ideas more concisely and efficiently to make sure consistency in voice and style while enhancing flow and cohesion.
         </p>
         <h1 className="text-3xl md:text-4xl mt-12">Evaluation Editing        </h1>
         <p className="text-gray-500 mt-2 text-sm">
@@ -80,14 +80,14 @@ const page = () => {
         </p>
         <h1 className="text-3xl md:text-4xl mt-12">Mechanical Editing        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Mechanical editing also goes by the name copy editing. Here our editors focus on correcting mechanical errors or inconsistencies in grammar, punctuation, spelling, and formatting. The team at Pacific Ghostwriting makes sure to adhere to the language conventions and publishing standards to maintain clarity and precision throughout the manuscript.
+        Mechanical editing also goes by the name copy editing. Here our editors focus on correcting mechanical errors or inconsistencies in grammar, punctuation, spelling, and formatting. The team at Coastal Ghostwriting makes sure to adhere to the language conventions and publishing standards to maintain clarity and precision throughout the manuscript.
         </p>
         <p className="text-gray-500 italic mt-2 text-sm">
         Our editorial process encompasses a series of interrelated stages and each serves a distinct purpose to refine and enhance your written work. Whether it is substantive editing or mechanical, every type of editing contributes to the creation of a polished, coherent, and impactful manuscript that communicates with the audience more effectively.
         </p>
-        <h1 className="text-3xl md:text-4xl mt-12">Book Editors For Hire At Pacific Ghostwriting        </h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Book Editors For Hire At Coastal Ghostwriting        </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Our affordable book editors provide proficiency and apply their skills using the best tools to alter your manuscript. Pacific Ghostwriting is one of the book editing services that hold the reputation for being the finest in the industry. From expert editors to having a range of tools to elevate your book, it has everything to provide you with the best. We take pride as a book editing agency and maintain client satisfaction by offering affordable book editing services.
+        Our affordable book editors provide proficiency and apply their skills using the best tools to alter your manuscript. Coastal Ghostwriting is one of the book editing services that hold the reputation for being the finest in the industry. From expert editors to having a range of tools to elevate your book, it has everything to provide you with the best. We take pride as a book editing agency and maintain client satisfaction by offering affordable book editing services.
 
 </p>
         

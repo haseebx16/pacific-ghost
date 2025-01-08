@@ -33,7 +33,7 @@ const page = () => {
         And for readers, a book with proper formatting is not good – they might lose their interest just after a few pages. It ensures the necessity of formatting in your book.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        Although it might be hard to work on formatting on book by yourself you should take professional help to make things easier for you. Pacific Ghostwriting is here to keep up with your demands and ensure that all your formatting needs are fulfilled.
+        Although it might be hard to work on formatting on book by yourself you should take professional help to make things easier for you. Coastal Ghostwriting is here to keep up with your demands and ensure that all your formatting needs are fulfilled.
         </p>
 
 
@@ -42,7 +42,7 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">Why To Choose Our Book Formatting Services
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Pacific Ghostwriting is the perfect place for you to avail of the formatting services for your book. We have a lot of things to convince you why we are the best option for you.
+        Coastal Ghostwriting is the perfect place for you to avail of the formatting services for your book. We have a lot of things to convince you why we are the best option for you.
         </p>
         
         <h1 className="text-3xl md:text-4xl mt-12">We Have Expertise
@@ -80,18 +80,18 @@ const page = () => {
         <p className="text-gray-500 mt-2 text-sm">
         We always believe in offering competitive rates without compromising on the quality of our services and make professional formatting accessible to everyone.
       </p>
-        <h1 className="text-3xl md:text-4xl mt-12">Enjoy Pacific Ghostwriting Professional Book Formatting Services For Flawless Stories</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Enjoy Coastal Ghostwriting Professional Book Formatting Services For Flawless Stories</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        When you connect with Pacific Ghostwriting, we make sure that you get the finest formatting services. The professionals at our company know the value of formatting when it comes to books and that is the reason, they focus on offering their best to you.
+        When you connect with Coastal Ghostwriting, we make sure that you get the finest formatting services. The professionals at our company know the value of formatting when it comes to books and that is the reason, they focus on offering their best to you.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         Apart from this, we mostly use professional writing software and tools with formatting features to organize the whole process and achieve consistent results. these tools help maintain uniformity throughout the manuscript and make sure that formatting errors are minimized or eliminated.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        We are a known name in the literature industry and among our clients. With a hundred percent client satisfaction rates, we are proud to be the best formatting service provider. Pacific Ghostwriting has years of experience in the field and it is one of the reasons why the client chose us from the other options available.
+        We are a known name in the literature industry and among our clients. With a hundred percent client satisfaction rates, we are proud to be the best formatting service provider. Coastal Ghostwriting has years of experience in the field and it is one of the reasons why the client chose us from the other options available.
         </p>
         <p className="text-gray-500 italic mt-2 text-sm">
-        Now is your chance to get your manuscript formatted by Pacific Ghostwriting and ensure that the book will reach your readers with a flow that will make their reading experience smooth.
+        Now is your chance to get your manuscript formatted by Coastal Ghostwriting and ensure that the book will reach your readers with a flow that will make their reading experience smooth.
         </p>
 
         </div>

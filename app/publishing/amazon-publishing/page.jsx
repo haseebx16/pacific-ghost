@@ -32,7 +32,7 @@ const page = () => {
 
 </p>
         <p className="text-gray-500 mt-6 text-sm">
-        Amazon is the most popular and used self-publishing platform in the U.S. according to a survey with 37.2 % votes ranking first. Pacific Ghostwriting with its collection of skilled wordsmiths aims to make this process much easier and accessible for writers. We will make all your worries and queries go away with our unparalleled services that only achieve excellence and nothing else. 
+        Amazon is the most popular and used self-publishing platform in the U.S. according to a survey with 37.2 % votes ranking first. Coastal Ghostwriting with its collection of skilled wordsmiths aims to make this process much easier and accessible for writers. We will make all your worries and queries go away with our unparalleled services that only achieve excellence and nothing else. 
 
 </p>
 
@@ -40,7 +40,7 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">Uncover The Full Potential Of Your Book With Our Amazon KDP Services
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Amazon publishing services provide numerous benefits to its users and it would be a shame to not leverage these services and get the help of Pacific Ghostwriting to unleash its full potential.
+        Amazon publishing services provide numerous benefits to its users and it would be a shame to not leverage these services and get the help of Coastal Ghostwriting to unleash its full potential.
 
 </p>
 
@@ -81,7 +81,7 @@ with our legacy autobiography service. We collaborate with you to document ances
         <h1 className="text-3xl md:text-4xl mt-12">Get Our Amazon Kindle Publishing Support To Reach More Readers
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        If you want to hire an Amazon publishing company , then you can consult us at Pacific Ghostwriting with your queries and get a free consultation quote. The support you can expect through our services are:
+        If you want to hire an Amazon publishing company , then you can consult us at Coastal Ghostwriting with your queries and get a free consultation quote. The support you can expect through our services are:
 
 </p>
 
@@ -120,11 +120,11 @@ with our legacy autobiography service. We collaborate with you to document ances
         <h1 className="text-3xl md:text-4xl mt-12">Contact Our Amazon Kindle Publishers For Hire To Publish Masterpieces
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Pacific Ghostwriting has a skilled team of dedicated publishing and marketing specialists who promise to deliver exceptional results through their high-end products and solutions. We are the best Amazon publisher services that craft the most alluring design, informative metadata, and effective marketing strategies to maximize your book’s exposure. We aim to provide:
+        Coastal Ghostwriting has a skilled team of dedicated publishing and marketing specialists who promise to deliver exceptional results through their high-end products and solutions. We are the best Amazon publisher services that craft the most alluring design, informative metadata, and effective marketing strategies to maximize your book’s exposure. We aim to provide:
 
 </p>
         <p className="text-gray-500 mt-2 text-sm">
-        Contact us now at Pacific Ghostwriting for a free quote and get all the services you want at reasonable prices with tailored packages specially designed to meet all your requirements.
+        Contact us now at Coastal Ghostwriting for a free quote and get all the services you want at reasonable prices with tailored packages specially designed to meet all your requirements.
 
 </p>
         

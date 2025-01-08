@@ -22,7 +22,7 @@ const page = () => {
 
         {/* Heading Overlay */}
         <div className="absolute inset-0 flex items-center md:justify-start justify-center md:px-12">
-          <h1 className="text-white text-4xl md:text-5xl font-bold">On A Hunt For Fiction Ghostwriting Services? Come To Pacific Ghostwriting</h1>
+          <h1 className="text-white text-4xl md:text-5xl font-bold">On A Hunt For Fiction Ghostwriting Services? Come To Coastal Ghostwriting</h1>
         </div>
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
@@ -30,7 +30,7 @@ const page = () => {
         These days, fiction is more popular than ever. It’s a realm where imagination has no limits, and characters touch reality in worlds created from the depths of creativity. Whether it’s a thrilling mystery, a heart-wrenching romance, or an epic fantasy, fiction captures audiences across the globe.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        In this case, Pacific Ghostwriting is one that truly stands. Here, we understand your dreams and make all the efforts to achieve them. Our team of fiction writers is fully trained to offer fiction ghostwriting services. We write the best fiction books you ever dreamed of.
+        In this case, Coastal Ghostwriting is one that truly stands. Here, we understand your dreams and make all the efforts to achieve them. Our team of fiction writers is fully trained to offer fiction ghostwriting services. We write the best fiction books you ever dreamed of.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
         Regardless of the genre you chose within the fiction domain, we are committed to delivering engaging narratives. So, bring your idea to us and make your story shine in the global book industry.
@@ -42,11 +42,11 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">Surround Yourself With The Best Fiction Ghostwriters
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Coming to the Pacific Ghostwriting means surrounding yourself with the most talented fiction ghostwriters. We pride ourselves in having a team of experienced professionals who are masters at creating captivating narratives across a range of genres.
+        Coming to the Coastal Ghostwriting means surrounding yourself with the most talented fiction ghostwriters. We pride ourselves in having a team of experienced professionals who are masters at creating captivating narratives across a range of genres.
         Whether you are imagining a thriller story, a horror mystery, or an imaginative fantasy, our expert ghostwriters are here to turn any ideas into polished manuscripts that mesmerize you instantly.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        When you select Pacific Ghostwriting, you’re not simply hiring a writer – you’re partnering with passionate fiction ghostwriters who are dedicated to bringing your literary dreams to fruition. So, don’t hesitate to hand over your fiction project to the finest professionals in the industry.
+        When you select Coastal Ghostwriting, you’re not simply hiring a writer – you’re partnering with passionate fiction ghostwriters who are dedicated to bringing your literary dreams to fruition. So, don’t hesitate to hand over your fiction project to the finest professionals in the industry.
         </p>  
         
         <h1 className="text-3xl md:text-4xl mt-12">We Ghostwrite Any Fiction Genre You Ask For</h1>
@@ -68,14 +68,14 @@ const page = () => {
           <span className='font-medium text-gray-500'>&#x2022;&nbsp;Magical Realism</span> 
         </p>
         
-        <h1 className="text-3xl md:text-4xl mt-12">At Pacific Ghostwriting, Every Fiction Book Is Created With No Hassle</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">At Coastal Ghostwriting, Every Fiction Book Is Created With No Hassle</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, making your fiction book a reality is easy. Our expert ghostwriters bring your ideas to life flawlessly, creating amazing stories in any genre you want. Whether it’s mysteries, romances, thrillers, or fantasies, we handle everything with professionalism and skill, ensuring a stress-free experience for you.
+        At Coastal Ghostwriting, making your fiction book a reality is easy. Our expert ghostwriters bring your ideas to life flawlessly, creating amazing stories in any genre you want. Whether it’s mysteries, romances, thrillers, or fantasies, we handle everything with professionalism and skill, ensuring a stress-free experience for you.
         </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">Our Professional Fiction Ghostwriters For Hire Follow An Easy Approach To Connect You</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        At Pacific Ghostwriting, our approach is straightforward yet effective. Our professional fiction ghostwriters make it a priority to connect with you and bring your story to life. We believe that every writer has their own unique story, ideas, and goals. That’s why our focus is to provide close collaboration every step of the way.
+        At Coastal Ghostwriting, our approach is straightforward yet effective. Our professional fiction ghostwriters make it a priority to connect with you and bring your story to life. We believe that every writer has their own unique story, ideas, and goals. That’s why our focus is to provide close collaboration every step of the way.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
             Here’s a glimpse into the various types of fiction we offer:
@@ -109,7 +109,7 @@ const page = () => {
 
         <h1 className="text-3xl md:text-4xl mt-12">What Else We Do To Make You A Published Fiction Author</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Do you think our job is done once we finish writing your fiction novel? Not at all. At Pacific Ghostwriting, we don’t stop there. We’re committed to guiding you through the entire process until you don’t become a published fiction author.
+        Do you think our job is done once we finish writing your fiction novel? Not at all. At Coastal Ghostwriting, we don’t stop there. We’re committed to guiding you through the entire process until you don’t become a published fiction author.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         So, you can have much more with us, like:
@@ -128,9 +128,9 @@ const page = () => {
           <span className='font-medium text-gray-500'>&#x2022;&nbsp;Author Coaching</span> 
         </p>
 
-        <h1 className="text-3xl md:text-4xl mt-12">Don’t Wait, Talk To The Best Fiction Ghostwriters Today At Pacific Ghostwriting</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Don’t Wait, Talk To The Best Fiction Ghostwriters Today At Coastal Ghostwriting</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        So, what are you waiting for? Meet the premier fiction ghostwriters today at Pacific Ghostwriting. Our team of experienced writers is ready to transform your ideas into compelling stories that resonate with readers. Don’t miss out on the opportunity to collaborate with the best in the industry. Reach out to us now, and let’s bring your story to life together.
+        So, what are you waiting for? Meet the premier fiction ghostwriters today at Coastal Ghostwriting. Our team of experienced writers is ready to transform your ideas into compelling stories that resonate with readers. Don’t miss out on the opportunity to collaborate with the best in the industry. Reach out to us now, and let’s bring your story to life together.
         </p>
 
         </div>

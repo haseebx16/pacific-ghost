@@ -27,7 +27,7 @@ const page = () => {
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
-        Book cover designs will always hold a special place in this vibrant literary world. Amid this vibrancy, it is hard for books to stand out because of the remarkable book cover designs that bewitch readers. For this reason, Pacific Ghostwriting hires the most professional designers who instantly captivate the attention of their audience through their intricately designed beautiful covers.
+        Book cover designs will always hold a special place in this vibrant literary world. Amid this vibrancy, it is hard for books to stand out because of the remarkable book cover designs that bewitch readers. For this reason, Coastal Ghostwriting hires the most professional designers who instantly captivate the attention of their audience through their intricately designed beautiful covers.
 
 </p>
         <p className="text-gray-500 mt-6 text-sm">
@@ -101,17 +101,17 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">Why We Are The Best Book Cover Designers For Hire
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        The professional designers of Pacific Ghostwriting are trained in delivering unparalleled services with high-quality products and success-driven results. We share the same vision with our team members to achieve excellence with our products and solutions. Our cover designing process is extremely detailed and comprehensive which removes any room for miscommunication or misalignment.
+        The professional designers of Coastal Ghostwriting are trained in delivering unparalleled services with high-quality products and success-driven results. We share the same vision with our team members to achieve excellence with our products and solutions. Our cover designing process is extremely detailed and comprehensive which removes any room for miscommunication or misalignment.
 
 </p>
         <p className="text-gray-500 mt-2 text-sm">
-        All of our ghostwriters at Pacific Ghostwriting aim to provide flawless designs that accurately convey all the objectives and hidden messages of your book to your readers.
+        All of our ghostwriters at Coastal Ghostwriting aim to provide flawless designs that accurately convey all the objectives and hidden messages of your book to your readers.
 
 </p>
-        <h1 className="text-3xl md:text-4xl mt-12">Contact Pacific Ghostwriting And Get Your Free Quote Now!
+        <h1 className="text-3xl md:text-4xl mt-12">Contact Coastal Ghostwriting And Get Your Free Quote Now!
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        So, what are you waiting for? Partner up with us and bring all your visions to life through alluring and exquisite book covers. These are specially crafted to stand out in the crowd of books with clear and bright luminescence. Hire a book cover designer from Pacific Ghostwriting and make your first book impression eye-catching.
+        So, what are you waiting for? Partner up with us and bring all your visions to life through alluring and exquisite book covers. These are specially crafted to stand out in the crowd of books with clear and bright luminescence. Hire a book cover designer from Coastal Ghostwriting and make your first book impression eye-catching.
 
 </p>
 

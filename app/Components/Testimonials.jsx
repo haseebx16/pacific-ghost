@@ -6,15 +6,15 @@ import 'swiper/css/pagination'
 
 const testimonials = [
   {
-    text: "I am completely satisfied with Pacific Ghostwriting. They have made it possible for me to write my book. I was able to create a rough draft of it initially but couldn't write it. I can hardly wait until my next story inspiration. My great-grandchildren live in different states. The books give me a way of sharing my thoughts with my children.",
+    text: "I am completely satisfied with Coastal Ghostwriting. They have made it possible for me to write my book. I was able to create a rough draft of it initially but couldn't write it. I can hardly wait until my next story inspiration. My great-grandchildren live in different states. The books give me a way of sharing my thoughts with my children.",
     author: "JANE / LEE"
   },
   {
-    text: "Working with Pacific Ghostwriting was an incredible experience. Their team's dedication and creativity helped bring my story to life in ways I never imagined. The process was smooth, and the results exceeded my expectations.",
+    text: "Working with Coastal Ghostwriting was an incredible experience. Their team's dedication and creativity helped bring my story to life in ways I never imagined. The process was smooth, and the results exceeded my expectations.",
     author: "MICHAEL / SMITH"
   },
   {
-    text: "The level of professionalism and attention to detail at Pacific Ghostwriting is outstanding. They captured my voice perfectly and helped me create a book that truly resonates with my audience. I couldn't be happier with the outcome.",
+    text: "The level of professionalism and attention to detail at Coastal Ghostwriting is outstanding. They captured my voice perfectly and helped me create a book that truly resonates with my audience. I couldn't be happier with the outcome.",
     author: "SARAH / WILSON"
   }
 ]

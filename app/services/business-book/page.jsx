@@ -22,12 +22,12 @@ const page = () => {
 
         {/* Heading Overlay */}
         <div className="absolute inset-0 flex items-center md:justify-start justify-center md:px-12">
-          <h1 className="text-white text-4xl md:text-5xl font-bold">Take Advantage Of Professional Business Book Ghostwriting Services At Pacific Ghostwriting</h1>
+          <h1 className="text-white text-4xl md:text-5xl font-bold">Take Advantage Of Professional Business Book Ghostwriting Services At Coastal Ghostwriting</h1>
         </div>
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
-        Your idea can help millions to succeed in their business if you count on Pacific Ghostwriting’s top business book writers. We, here turn your idea into a roadmap for success that helps entrepreneurs thrive worldwide.
+        Your idea can help millions to succeed in their business if you count on Coastal Ghostwriting’s top business book writers. We, here turn your idea into a roadmap for success that helps entrepreneurs thrive worldwide.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
         It’s no secret that reading is essential for personal and professional development, and the same goes for business books. These books are powerful tools created to inspire, inform, and give people knowledge about running a successful business.
@@ -36,7 +36,7 @@ const page = () => {
         These books are carefully created by industry experts, CEOs, entrepreneurs, and thought leaders who want to share their wisdom, experiences, and insights with a broader audience. However, not everyone has the time or expertise to write a perfect business book.
         </p>
         <p className="text-gray-500 mt-6 text-sm">
-        Here at Pacific Ghostwriting, we’re experts in delivering top-notch business book ghostwriting services. With our talented team of writers, editors, and publishing experts, you can share your experiences in a way that helps newcomers to learn and succeed.
+        Here at Coastal Ghostwriting, we’re experts in delivering top-notch business book ghostwriting services. With our talented team of writers, editors, and publishing experts, you can share your experiences in a way that helps newcomers to learn and succeed.
         </p>
 
 
@@ -44,7 +44,7 @@ const page = () => {
         {/* Section 1 */}
         <h1 className="text-3xl md:text-4xl mt-12">Our Business Book Writers Turn Your Experiences And Expertise Into A Best Business Guide</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Are you a business owner looking to share your expertise and help newcomers succeed? Here’s your opportunity! Collaborate with us at Pacific Ghostwriting to bring your ideas to life in a book that guides and supports aspiring entrepreneurs.
+        Are you a business owner looking to share your expertise and help newcomers succeed? Here’s your opportunity! Collaborate with us at Coastal Ghostwriting to bring your ideas to life in a book that guides and supports aspiring entrepreneurs.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
         Our team of best business book writers is always passionate about working with you and bringing your experiences to life on the pages of your book. We appreciate your journey as an industry expert is filled with valuable insights, lessons learned, and achievements worth sharing. That’s why we take the time to deeply understand your background, your vision for the book, and the messages you want to convey.
@@ -52,7 +52,7 @@ const page = () => {
         
         <h1 className="text-3xl md:text-4xl mt-12">The Diverse Range Of Business Book Services</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Pacific Ghostwriting offers a variety of ghostwriting services for various types of business books, each tailored to meet your specific needs perfectly. While we can’t list them all, here are some examples,
+        Coastal Ghostwriting offers a variety of ghostwriting services for various types of business books, each tailored to meet your specific needs perfectly. While we can’t list them all, here are some examples,
         </p>
         <p className="text-gray-500 space-y-2 mt-4 flex flex-col text-sm">
           <span className='font-medium text-gray-500'>&#x2022;&nbsp;Entrepreneurial Memoirs  - Sharing your story from startup to success.</span>
@@ -97,7 +97,7 @@ const page = () => {
         </p>
         <h1 className="text-3xl md:text-4xl mt-12">Let’s Quote Us Anytime!</h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Don’t wait any longer and quote a talented team of business book ghostwriting services. Pacific Ghostwriting is the best business book ghostwriting company available any time to listen to your ideas and turn them into an attention-grabbing narrative.
+        Don’t wait any longer and quote a talented team of business book ghostwriting services. Coastal Ghostwriting is the best business book ghostwriting company available any time to listen to your ideas and turn them into an attention-grabbing narrative.
         </p>
 
         </div>

@@ -61,7 +61,7 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">Content Analysis
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        This is the third stage of the proofreading procedure at Pacific Ghostwriting. At this stage, our proofreader conducts a structural evaluation of your manuscript. We scrutinize the accuracy, relevance, and completeness of the information presented. Any inconsistencies, factual errors, or discrepancies are identified and addressed in this stage.
+        This is the third stage of the proofreading procedure at Coastal Ghostwriting. At this stage, our proofreader conducts a structural evaluation of your manuscript. We scrutinize the accuracy, relevance, and completeness of the information presented. Any inconsistencies, factual errors, or discrepancies are identified and addressed in this stage.
 
 </p>
         

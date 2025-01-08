@@ -19,7 +19,7 @@ const Hero = () => {
       {/* Content */}
       <div className="relative max-w-7xl mx-auto px-4 h-full">
         <div className="flex flex-col justify-center h-full max-w-xl py-12 md:py-12 py-8">
-          <p className="text-gray-600 text-lg mb-2">Pacific Ghostwriting Services</p>
+          <p className="text-gray-600 text-lg mb-2">Coastal Ghostwriting Services</p>
           <h1 className="text-3xl md:text-4xl font-bold text-black mb-4 leading-tight">
             Putting Powerful Words Together and Sharing to the World
           </h1>

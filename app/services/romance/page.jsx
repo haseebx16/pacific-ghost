@@ -57,7 +57,7 @@ const page = () => {
         Storytelling lies at the heart of our ghostwriters’ skills. Our team of writers possesses the ability to create intricate plots, develop compelling characters, and build suspenseful stories that keep the readers engaged until the very last page.
         </p>
         <p className="text-gray-500 mt-2 text-sm">
-        The writers at Pacific Ghostwriting have a keen sense of pacing dialogue, and character development and create stories that tug at the heartstrings, evoke emotions and empathy, and leave a lasting impact on the readers.
+        The writers at Coastal Ghostwriting have a keen sense of pacing dialogue, and character development and create stories that tug at the heartstrings, evoke emotions and empathy, and leave a lasting impact on the readers.
         </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">3. Partnered Up Approach</h1>
@@ -92,7 +92,7 @@ const page = () => {
         From the sprawling atmosphere to intimate interiors, every scene is crafted to enhance the story’s mood, atmosphere, and emotional resonance, and envelope readers in a spellbinding journey of love and discovery.
         </p>
 
-        <h1 className="text-3xl md:text-4xl mt-12">Connect With Pacific Ghostwriting And Get Romance Ghostwriters For Hire</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Connect With Coastal Ghostwriting And Get Romance Ghostwriters For Hire</h1>
         <p className="text-gray-500 mt-2 text-sm">
         Our romance writing service provides you with everything that is needed to write the best romance novel. The team of expert writers, fresh ideas, the latest equipment, and everything else. There is nothing you should worry about when it comes to romance writing while you partner up with us. We have everything sorted out for you.
         </p>

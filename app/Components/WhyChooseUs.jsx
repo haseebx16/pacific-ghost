@@ -13,7 +13,7 @@ const WhyChooseUs = () => {
       <div className="max-w-7xl mx-auto px-4">
         <h2 className="text-2xl font-bold mb-6">WHY DO YOU NEED TO CHOOSE US?</h2>
         <p className="text-gray-600 text-sm mb-8">
-          In the course of ghostwriters for hire, Pacific Ghostwriting is one of the places where you have exceptional experience in providing its clients with hassle-free services. We offer cheap ghostwriting services that cater to every writer in the industry.
+          In the course of ghostwriters for hire, Coastal Ghostwriting is one of the places where you have exceptional experience in providing its clients with hassle-free services. We offer cheap ghostwriting services that cater to every writer in the industry.
         </p>
 
         <div className="grid md:grid-cols-2 gap-8">

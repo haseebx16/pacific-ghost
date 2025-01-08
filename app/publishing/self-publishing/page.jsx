@@ -32,7 +32,7 @@ const page = () => {
 
 </p>
         <p className="text-gray-500 mt-6 text-sm">
-        Pacific Ghostwriting has been assisting authors for years and has been listed among the top ghostwriting services. So, trust our professionals and wait for your book’s success. Explore our page for what else we have to offer.
+        Coastal Ghostwriting has been assisting authors for years and has been listed among the top ghostwriting services. So, trust our professionals and wait for your book’s success. Explore our page for what else we have to offer.
 
 </p>
       
@@ -65,11 +65,11 @@ const page = () => {
         <h1 className="text-3xl md:text-4xl mt-12">We are Ranked Among The Best Self-Publishing Companies Worldwide
         </h1>
         <p className="text-gray-500 mt-2 text-sm">
-        Pacific Ghostwriting is ranked among the top best self-publishing companies globally. Our competent publishers have years of expertise in publishing books for renowned authors. We have our hands in those best-selling book publishing books you read online.
+        Coastal Ghostwriting is ranked among the top best self-publishing companies globally. Our competent publishers have years of expertise in publishing books for renowned authors. We have our hands in those best-selling book publishing books you read online.
 
 </p>
         <p className="text-gray-500 mt-2 text-sm">
-        As an indie author or someone with no or little experience in the self-publishing domain, Pacific Ghostwriting is there to assist you.
+        As an indie author or someone with no or little experience in the self-publishing domain, Coastal Ghostwriting is there to assist you.
 
 </p>
         
