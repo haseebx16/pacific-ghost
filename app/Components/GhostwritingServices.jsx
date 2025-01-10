@@ -27,12 +27,12 @@ const GhostwritingServices = () => {
   ];
 
   return (
-    <section className="py-12 bg-sky-50">
+    <section className="py-12 bg-white">
       <div className="max-w-7xl mx-auto px-4">
         {/* First Section */}
         <div className="text-center mb-4">
-          <h2 className="text-gray-600 text-sm uppercase mb-1">GHOSTWRITING SERVICES FOR YOU</h2>
-          <h3 className="text-gray-600 text-2xl font-bold mb-4">ROUTE TO YOUR BEST-SELLING BOOK</h3>
+          <h2 className="text-sky-500 text-sm uppercase mb-1">GHOSTWRITING SERVICES FOR YOU</h2>
+          <h3 className="text-sky-500 text-2xl font-bold mb-4">ROUTE TO YOUR BEST-SELLING BOOK</h3>
         </div>
 
         <div className="flex flex-col md:flex-row gap-8">
@@ -69,7 +69,7 @@ const GhostwritingServices = () => {
 
         {/* Second Section */}
         <div className="mt-8">
-          <h4 className="text-2xl font-bold mb-3">Coastal Ghostwriting COMPANY – JOIN FOR INCLUSIVE JOURNEY</h4>
+          <h4 className="text-2xl text-sky-500 font-bold mb-3">Coastal Ghostwriting COMPANY – JOIN FOR INCLUSIVE JOURNEY</h4>
           <p className="text-gray-600 text-sm mb-4 leading-relaxed">
             Our ghostwriting agency is designed while keeping every ghostwriting framework required. You can trust us with your manuscripts, and drafts in order to put them in the public eye. Your job is to hire our ghostwriters and ours is to do the work. We work on a qualitative pattern with a steady speed and keep you assisted throughout the process.
           </p>
@@ -107,7 +107,7 @@ const GhostwritingServices = () => {
 
         {/* Third Section */}
         <div className="mt-8">
-          <h4 className="text-2xl font-bold mb-3">PROFESSIONAL GHOSTWRITING SERVICES FOR EXCEPTIONAL GHOSTWRITING SERVICES</h4>
+          <h4 className="text-2xl font-bold mb-3 text-sky-500">PROFESSIONAL GHOSTWRITING SERVICES FOR EXCEPTIONAL GHOSTWRITING SERVICES</h4>
           <h5 className="text-gray-600 text-xl mb-2">A Professional Platform Driven with Utmost Creativity</h5>
           <p className="text-gray-600 text-sm mb-4 leading-relaxed">
             With a vision to spread quality writing with valuable creativity, we pour our passion into the work. With compelling sentence structures and easy-to-grasp writing style, we work in original pieces of writing impeccably created for you.
@@ -120,7 +120,7 @@ const GhostwritingServices = () => {
         {/* Fourth Section */}
         <div className="grid md:grid-cols-2 gap-8 mt-8">
           <div>
-            <h4 className="text-2xl font-bold mb-3">EDITING SERVICES</h4>
+            <h4 className="text-2xl text-sky-500 font-bold mb-3">EDITING SERVICES</h4>
             <h5 className="text-gray-600 text-xl mb-2">Refining your Manuscripts: Professional Editing Services</h5>
             <p className="text-gray-600 text-sm leading-relaxed">
               Editing helps maintain the credibility of the manuscript. Our responsibilities are to catch the typographical and grammatical errors, double-check, and keep up with the accuracy. This process demands a lot of attention and we assert our best efforts in editing and proofreading. Our ghostwriting services are ahead of competitors until your highest degree of satisfaction is reached.
@@ -128,7 +128,7 @@ const GhostwritingServices = () => {
           </div>
 
           <div>
-            <h4 className="text-2xl font-bold mb-3">PUBLISHING SERVICES</h4>
+            <h4 className="text-2xl text-sky-500 font-bold mb-3">PUBLISHING SERVICES</h4>
             <h5 className="text-gray-600 text-xl mb-2">Complete Publishing Support with Flawless Execution</h5>
             <p className="text-gray-600 text-sm leading-relaxed">
               Book publication is among the final steps of ghostwriting. Where we have the best ghostwriters for hire, we also work on our publication services. It is among the essentials and a top goal in accomplishments. Our methods use a proper method and strategy to ensure a manuscript goes out perfectly through our publication checkpoint. Our team takes care of every intricate matter of publication.
