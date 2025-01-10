@@ -34,7 +34,7 @@ const Nav = () => {
   return (
     <div className="w-full">
       {/* Top bar with contact info */}
-      <div className="bg-white border-b">
+      <div className="bg-sky-50 border-b">
         <div className="max-w-7xl mx-auto px-4 py-2">
           <div className="flex justify-end items-center space-x-4 text-sm">
             <a href="tel:1-469-476-4994" className="text-gray-600 hover:text-black">
@@ -51,7 +51,7 @@ const Nav = () => {
         </div>
       </div>
 
-      <nav className="bg-white border-b">
+      <nav className="bg-sky-100 border-b">
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex justify-between items-center h-16">
             {/* Logo */}

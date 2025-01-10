@@ -2,6 +2,7 @@ import Link from 'next/link'
 
 const ContactBanner = () => {
   return (
+    <div className="bg-sky-200">
     <section className="bg-gray-800 w-[90%] flex flex-col justify-center items-center py-4 relative mx-auto">
       <div className="w-[80%] mx-auto max-w-7xl">
         <div className="text-white">
@@ -16,6 +17,7 @@ const ContactBanner = () => {
         </div>
       </div>
     </section>
+    </div>
   )
 }
 

@@ -70,7 +70,7 @@ const VideoCard = ({ id, name }) => {
 
 const VideoTestimonials = () => {
   return (
-    <section className=" bg-white">
+    <section className=" bg-sky-100 py-12">
       <div className="max-w-7xl mx-auto px-4">
         <div className="grid md:grid-cols-3 gap-8">
           {testimonials.map((testimonial) => (

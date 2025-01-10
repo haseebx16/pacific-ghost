@@ -27,7 +27,7 @@ const GhostwritingServices = () => {
   ];
 
   return (
-    <section className="py-12 bg-white">
+    <section className="py-12 bg-sky-50">
       <div className="max-w-7xl mx-auto px-4">
         {/* First Section */}
         <div className="text-center mb-4">
@@ -58,7 +58,7 @@ const GhostwritingServices = () => {
           <div className="md:w-1/3">
             <div className="relative h-[300px]">
               <Image
-                src="/welcome-about.png"
+                src="/books.png"
                 alt="Book examples"
                 fill
                 className="object-contain object-center scale-70"

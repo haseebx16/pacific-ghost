@@ -5,7 +5,7 @@ import { HiOutlineLocationMarker } from "react-icons/hi";
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-800 mt-12 text-gray-400 text-sm py-10">
+    <footer className="bg-gray-800 mt-12 md:mt-0 text-gray-400 text-sm py-10">
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap justify-between">
           {/* Left Section */}

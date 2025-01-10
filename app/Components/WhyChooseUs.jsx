@@ -9,7 +9,7 @@ const ServiceSection = ({ title, children }) => (
 
 const WhyChooseUs = () => {
   return (
-    <section className="py-12 bg-white">
+    <section className="py-12 bg-sky-50">
       <div className="max-w-7xl mx-auto px-4">
         <h2 className="text-2xl font-bold mb-6">WHY DO YOU NEED TO CHOOSE US?</h2>
         <p className="text-gray-600 text-sm mb-8">

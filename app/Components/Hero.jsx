@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const Hero = () => {
   return (
-    <div className="relative min-h-[400px] md:min-h-[400px] w-full overflow-hidden bg-white">
+    <div className="relative min-h-[400px] md:min-h-[400px] w-full overflow-hidden bg-sky-50">
       {/* Background Image with Gradient Overlay - Desktop Only */}
       <div className="absolute top-0 right-0 w-1/2 h-full md:block hidden">
         <Image
@@ -13,7 +13,7 @@ const Hero = () => {
           className="object-cover object-center"
           priority
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-white to-transparent"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-sky-50 to-transparent"></div>
       </div>
 
       {/* Content */}
