@@ -8,10 +8,7 @@ const DiscountPopUp = () => {
     useEffect(() => {
         const interval = setInterval(() => {
             setIsVisible(true);
-            const timeout = setTimeout(() => setIsVisible(false), 3000);
-
-            return () => clearTimeout(timeout);
-        }, 10000);
+        }, 30000);
 
         return () => clearInterval(interval);
     }, []);
@@ -21,20 +18,9 @@ const DiscountPopUp = () => {
     return (
         <div>
             {isVisible && (
-                <div style={{
-                    position: 'fixed',
-                    top: 0,
-                    left: 0,
-                    width: '100%',
-                    height: '100%',
-                    backgroundColor: 'rgba(255, 255, 255, 0.9)', // Semi-transparent white
-                    color: 'black',
-                    display: 'flex',
-                    justifyContent: 'center',
-                    alignItems: 'center',
-                    zIndex: 1000,
-                }}>
-                    <form onClick={e => e.stopPropagation()} className="bg-sky-100" onBlur={handleClose} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', background: 'white', padding: '50px', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)' }}>
+                <div onClick={handleClose} style={{ position: 'fixed', top: 0, left: 0, width: '100%', height: '100%', backgroundColor: 'rgba(255, 255, 255, 0.9)', zIndex: 1000, display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                    <form onClick={(e) => e.stopPropagation()} className="bg-sky-100" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', background: 'white', padding: '50px', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)' }}>
+                        <button type="button" onClick={handleClose} style={{ position: 'absolute', top: '10px', right: '10px', border: 'none', background: 'none', fontSize: '24px', cursor: 'pointer' }}>✖</button>
                         <h2 className="text-3xl">Special Discount!</h2>
                         <p className="text-xl">Get 20% off your next purchase!</p>
                         <input type="text" placeholder="Enter your email" required className="border-2 border-black w-full rounded-md" style={{ margin: '10px', padding: '10px' }} />
