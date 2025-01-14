@@ -41,7 +41,7 @@ const Nav = () => {
               1-469-476-4994
             </a>
             <span className="text-gray-400">|</span>
-            <a href="mailto:info@pacificghostwriting.com" className="text-gray-600 hover:text-black">
+            <a href="mailto:info@coastalghostwriting.com" className="text-gray-600 hover:text-black">
               support@coastalghostwriting.com
             </a>
           

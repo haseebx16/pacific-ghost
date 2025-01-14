@@ -78,7 +78,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <FiMail className="text-gray-400" />
-                <p>support@pacificghostwriting.com</p>
+                <p>support@coastalghostwriting.com</p>
               </div>
               <div className="flex items-center space-x-2">
                 <HiOutlineLocationMarker className="text-gray-400" />
