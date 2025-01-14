@@ -132,7 +132,7 @@ with our legacy autobiography service. We collaborate with you to document ances
         </div>
       <ContactBanner/>
       <Testimonials/>
-      <VideoTestimonials/>
+      
       <Footer/>
     </>
   )

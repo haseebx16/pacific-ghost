@@ -165,7 +165,7 @@ const page = () => {
         </div>
       <ContactBanner/>
       <Testimonials/>
-      <VideoTestimonials/>
+      
       <Footer/>
     </>
   )

@@ -78,7 +78,7 @@ Join us, and let us transform your ideas into unforgettable stories.
         </div>
       <ContactBanner/>
       <Testimonials/>
-      <VideoTestimonials/>
+      
       <Footer/>
     </>
   )
