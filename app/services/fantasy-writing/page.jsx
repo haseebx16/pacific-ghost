@@ -42,7 +42,7 @@ const page = () => {
 
 
         {/* Section 1 */}
-        <h1 className="text-3xl md:text-4xl mt-12">Give Your Readers Mind-Gripping Stories With Our Fantasy Book Writing Services</h1>
+        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Give Your Readers Mind-Gripping Stories With Our Fantasy Book Writing Services</h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
         Writing a fantasy book involves a balanced blend of creativity, world-building, and narrative depths. In this imaginative process, our best fantasy book writers play a pivotal role and enhance your storyline and characters while ensuring coherence and engagement throughout the narrative journey.
         </p>
@@ -54,7 +54,7 @@ const page = () => {
         </p>
         
         
-        <h1 className="text-3xl md:text-4xl mt-12">2. Character Development</h1>
+        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">2. Character Development</h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
         Characters are the main element of any fantasy tale. Our fantasy ghostwriters imbue protagonists, antagonists, and supporting characters with depth, complexity, and reliability. We craft personalities, motivations, and arcs, and bring characters to life. We developed the characters that enable readers to form deep emotional connections and get through transformative journeys alongside them.
         </p>
@@ -64,7 +64,7 @@ const page = () => {
         <p className="text-gray-500 text-justify mt-2 text-sm">
         A compelling plot is the backbone of any successful fantasy boo. Our fantasy writing services intricately map out storylines and keep up with the twists, turns, and epic conflicts that propel the story forward. With careful pacing and strategic plotting, we build tension, suspense, and excitement and keep readers eagerly turning the pages until the very end.
         </p>
-        <h1 className="text-3xl md:text-4xl mt-12">4. Dialogue And Voice</h1>
+        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">4. Dialogue And Voice</h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
         Dialogue serves as a powerful tool for character expression and narrative advancements. Our writers infuse dialogue with authenticity, wit, and emotion which allow characters to engage in meaningful exchanges that reveal their personalities, relationships, and conflicts.
         </p>
@@ -75,7 +75,7 @@ const page = () => {
         <p className="text-gray-500 text-justify mt-2 text-sm">
         With the help of subtle symbolism and thought-provoking allegory, we invite the readers to ponder the profound ideas and discover new layers of meaning within the fantastical world.
         </p>
-        <h1 className="text-3xl md:text-4xl mt-12">6. Collaborative Inspiration</h1>
+        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">6. Collaborative Inspiration</h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
         Collaboration between writers develops creativity and synergy, sparking new ideas and refining existing concepts. Our fantasy ghostwriters engage in brainstorming sessions, workshops, and discussions to draw inspiration from each other’s insights, perspectives, and experiences.
         </p>
