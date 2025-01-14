@@ -42,11 +42,9 @@ const Nav = () => {
             </a>
             <span className="text-gray-400">|</span>
             <a href="mailto:info@pacificghostwriting.com" className="text-gray-600 hover:text-black">
-              info@pacificghostwriting.com
+              support@coastalghostwriting.com
             </a>
-            <Link href="/login" className="bg-black text-white px-4 py-1 text-sm">
-              LOGIN
-            </Link>
+          
           </div>
         </div>
       </div>
