@@ -30,7 +30,7 @@ const GhostwritingServices = () => {
     <section className="py-12 bg-white">
       <div className="max-w-7xl mx-auto px-4">
         {/* First Section */}
-        <div className="text-center mb-4">
+        <div className="text-center flex flex-col justify-start items-center mb-4">
           <h2 className="text-sky-500 text-sm uppercase mb-1">GHOSTWRITING SERVICES FOR YOU</h2>
           <h3 className="text-sky-500 text-2xl font-bold mb-4">ROUTE TO YOUR BEST-SELLING BOOK</h3>
         </div>
