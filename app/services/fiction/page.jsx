@@ -26,13 +26,13 @@ const page = () => {
         </div>
       </div>
       <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
-        <p className="text-gray-500 text-sm">
+        <p className="text-gray-500 text-justify text-sm">
         These days, fiction is more popular than ever. It’s a realm where imagination has no limits, and characters touch reality in worlds created from the depths of creativity. Whether it’s a thrilling mystery, a heart-wrenching romance, or an epic fantasy, fiction captures audiences across the globe.
         </p>
-        <p className="text-gray-500 mt-6 text-sm">
+        <p className="text-gray-500 text-justify mt-6 text-sm">
         In this case, Coastal Ghostwriting is one that truly stands. Here, we understand your dreams and make all the efforts to achieve them. Our team of fiction writers is fully trained to offer fiction ghostwriting services. We write the best fiction books you ever dreamed of.
         </p>
-        <p className="text-gray-500 mt-6 text-sm">
+        <p className="text-gray-500 text-justify mt-6 text-sm">
         Regardless of the genre you chose within the fiction domain, we are committed to delivering engaging narratives. So, bring your idea to us and make your story shine in the global book industry.
         </p>
 
@@ -41,19 +41,19 @@ const page = () => {
         {/* Section 1 */}
         <h1 className="text-3xl md:text-4xl mt-12">Surround Yourself With The Best Fiction Ghostwriters
         </h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         Coming to the Coastal Ghostwriting means surrounding yourself with the most talented fiction ghostwriters. We pride ourselves in having a team of experienced professionals who are masters at creating captivating narratives across a range of genres.
         Whether you are imagining a thriller story, a horror mystery, or an imaginative fantasy, our expert ghostwriters are here to turn any ideas into polished manuscripts that mesmerize you instantly.
         </p>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         When you select Coastal Ghostwriting, you’re not simply hiring a writer – you’re partnering with passionate fiction ghostwriters who are dedicated to bringing your literary dreams to fruition. So, don’t hesitate to hand over your fiction project to the finest professionals in the industry.
         </p>  
         
         <h1 className="text-3xl md:text-4xl mt-12">We Ghostwrite Any Fiction Genre You Ask For</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         From science fiction to romance, historical fiction to young adult, we have writers with diverse backgrounds and expertise in a wide range of genres. Whatever genre you choose, we are committed to delivering an appealing and engaging story that resonates with readers.
         </p>
-        <p className="text-gray-500 space-y-2 mt-4 flex flex-col text-sm">
+        <p className="text-gray-500 text-justify space-y-2 mt-4 flex flex-col text-sm">
           <span className='font-medium text-gray-500'>&#x2022;&nbsp;Crime Fiction</span>
           <span className='font-medium text-gray-500'>&#x2022;&nbsp;Thrillers</span>
           <span className='font-medium text-gray-500'>&#x2022;&nbsp;Fantasy</span> 
@@ -69,49 +69,49 @@ const page = () => {
         </p>
         
         <h1 className="text-3xl md:text-4xl mt-12">At Coastal Ghostwriting, Every Fiction Book Is Created With No Hassle</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         At Coastal Ghostwriting, making your fiction book a reality is easy. Our expert ghostwriters bring your ideas to life flawlessly, creating amazing stories in any genre you want. Whether it’s mysteries, romances, thrillers, or fantasies, we handle everything with professionalism and skill, ensuring a stress-free experience for you.
         </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">Our Professional Fiction Ghostwriters For Hire Follow An Easy Approach To Connect You</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         At Coastal Ghostwriting, our approach is straightforward yet effective. Our professional fiction ghostwriters make it a priority to connect with you and bring your story to life. We believe that every writer has their own unique story, ideas, and goals. That’s why our focus is to provide close collaboration every step of the way.
         </p>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
             Here’s a glimpse into the various types of fiction we offer:
         </p>
 
 
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Thorough Consultation</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         We begin the process with a detailed discussion with you. During this phase, we take detailed notes on all facets of the project, including genre preferences, thematic elements, and desired tone.
         </p>
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Match With the Right Ghostwriters</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         After gathering all your requirements, we will carefully pair you with the right ghostwriter from our team based on their genre expertise. This guarantees that you are paired with a writer who can effectively execute your vision and bring out the best in your story.
         </p>
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Initial Draft</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         Once the ghostwriter is assigned, they begin creating a rough draft of your visions. Our experienced ghostwriters breathe life into your rough ideas by introducing lively characters.
         </p>
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Client Input</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         Throughout this process, we prioritize open communication and welcome your input to our work. We keep offering the revisions if needed until the client is not satisfied.
         </p>
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Editing & Proofreading</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         Following the completion of the initial draft, we carefully edit and proofread the story to polish it to perfection. We make sure that the story we write is clear, concise, and error-free so that it enhances the overall quality of your book.
         </p>
         <h1 className="text-2xl font-bold md:text-3xl mt-8">Book Delivery</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         Finally, we deliver the finished book to you, which is ready to grab readers and fulfill your storytelling goals.
         </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">What Else We Do To Make You A Published Fiction Author</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         Do you think our job is done once we finish writing your fiction novel? Not at all. At Coastal Ghostwriting, we don’t stop there. We’re committed to guiding you through the entire process until you don’t become a published fiction author.
         </p>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         So, you can have much more with us, like:
         </p>
         <p className="text-gray-500 space-y-2 mt-4 flex flex-col text-sm">
@@ -129,7 +129,7 @@ const page = () => {
         </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">Don’t Wait, Talk To The Best Fiction Ghostwriters Today At Coastal Ghostwriting</h1>
-        <p className="text-gray-500 mt-2 text-sm">
+        <p className="text-gray-500 text-justify mt-2 text-sm">
         So, what are you waiting for? Meet the premier fiction ghostwriters today at Coastal Ghostwriting. Our team of experienced writers is ready to transform your ideas into compelling stories that resonate with readers. Don’t miss out on the opportunity to collaborate with the best in the industry. Reach out to us now, and let’s bring your story to life together.
         </p>
 
