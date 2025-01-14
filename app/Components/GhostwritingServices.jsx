@@ -4,7 +4,7 @@ import { BsCheckLg } from 'react-icons/bs'
 import { FaMoneyBillWave, FaBookReader, FaUndo, FaBookOpen } from 'react-icons/fa'
 
 const ServiceItem = ({ text }) => (
-  <div className="flex items-start space-x-2 mb-2">
+  <div className="flex items-start space-x-1 ">
     <div className="flex-shrink-0 mt-1">
       <BsCheckLg className="w-4 h-4 text-black" />
     </div>
@@ -30,33 +30,25 @@ const GhostwritingServices = () => {
     <section className="py-12 bg-white">
       <div className="max-w-7xl mx-auto px-4">
         {/* First Section */}
-        <div className="text-center flex flex-col justify-start items-center mb-4">
+        <div className="text-left flex flex-col justify-start items-start mb-4">
           <h2 className="text-sky-500 text-sm uppercase mb-1">GHOSTWRITING SERVICES FOR YOU</h2>
           <h3 className="text-sky-500 text-2xl font-bold mb-4">ROUTE TO YOUR BEST-SELLING BOOK</h3>
         </div>
 
-        <div className="flex flex-col md:flex-row gap-8">
-          <div className="md:w-2/3">
+        <div className="flex flex-col md:flex-col ">
+          <div className="w-full">
             <p className="text-gray-600 text-sm mb-4 leading-relaxed">
               Under one roof you will get to experience ingenious services for an unmatched result. You will witness and have a brilliant time with us. We carry on projects with professionalism, intelligence, and brilliance. We work on a fine process engineered by our experts with a knack for writing and editing. At Coastal Ghostwriting we invite you to our platform for a creative journey that can lead to a successful book publication. By joining Coastal Ghostwriting our clients get,
             </p>
-
-            <div className="grid md:grid-cols-2 gap-x-6 gap-y-1">
+          </div>
+          <div className='w-full flex'>
+            <div className="grid md:grid-cols-2 gap-x-4">
               {services.map((service, index) => (
                 <ServiceItem key={index} text={service} />
               ))}
             </div>
-
-            <Link 
-              href="/services"
-              className="inline-block mt-4 text-black hover:text-blue-600 text-sm font-medium"
-            >
-              Read More »
-            </Link>
-          </div>
-
-          <div className="md:w-1/3">
-            <div className="relative h-[300px]">
+          <div className="w-96">
+            <div className="relative h-[180px]">
               <Image
                 src="/books.png"
                 alt="Book examples"
@@ -64,7 +56,16 @@ const GhostwritingServices = () => {
                 className="object-contain object-center scale-70"
               />
             </div>
+
+            {/* <Link 
+              href="/services"
+              className="inline-block mt-4 text-black hover:text-blue-600 text-sm font-medium"
+            >
+              Read More »
+            </Link> */}
           </div>
+          </div>
+
         </div>
 
         {/* Second Section */}
