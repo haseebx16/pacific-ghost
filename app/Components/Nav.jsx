@@ -53,12 +53,12 @@ const Nav = () => {
 
       <nav className="bg-sky-100 border-b">
         <div className="max-w-7xl mx-auto px-4">
-          <div className="flex justify-between items-center h-16">
+          <div className="flex justify-between items-center h-32">
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
               <Link href="/">
                 <Image
-                  src="/logo.png"
+                  src="/logo-coastal.png"
                   alt="Pacific Ghost Writing"
                   width={180}
                   height={40}

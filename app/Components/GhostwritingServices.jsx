@@ -37,7 +37,7 @@ const GhostwritingServices = () => {
 
         <div className="flex flex-col md:flex-col ">
           <div className="w-full">
-            <p className="text-gray-600 text-sm mb-4 leading-relaxed">
+            <p className="text-gray-600 text-justify text-sm mb-4 leading-relaxed">
               Under one roof you will get to experience ingenious services for an unmatched result. You will witness and have a brilliant time with us. We carry on projects with professionalism, intelligence, and brilliance. We work on a fine process engineered by our experts with a knack for writing and editing. At Coastal Ghostwriting we invite you to our platform for a creative journey that can lead to a successful book publication. By joining Coastal Ghostwriting our clients get,
             </p>
           </div>
@@ -71,11 +71,11 @@ const GhostwritingServices = () => {
         {/* Second Section */}
         <div className="mt-8">
           <h4 className="text-2xl text-sky-500 font-bold mb-3">Coastal Ghostwriting COMPANY – JOIN FOR INCLUSIVE JOURNEY</h4>
-          <p className="text-gray-600 text-sm mb-4 leading-relaxed">
+          <p className="text-gray-600 text-justify text-sm mb-4 leading-relaxed">
             Our ghostwriting agency is designed while keeping every ghostwriting framework required. You can trust us with your manuscripts, and drafts in order to put them in the public eye. Your job is to hire our ghostwriters and ours is to do the work. We work on a qualitative pattern with a steady speed and keep you assisted throughout the process.
           </p>
 
-          <div className="grid md:grid-cols-2 gap-4">
+          <div className="grid md:grid-cols-1 gap-4">
             <div className="flex items-center space-x-4">
               <FaMoneyBillWave className="w-6 h-6 text-gray-700" />
               <p className="text-sm">
@@ -126,6 +126,9 @@ const GhostwritingServices = () => {
             <p className="text-gray-600 text-sm leading-relaxed">
               Editing helps maintain the credibility of the manuscript. Our responsibilities are to catch the typographical and grammatical errors, double-check, and keep up with the accuracy. This process demands a lot of attention and we assert our best efforts in editing and proofreading. Our ghostwriting services are ahead of competitors until your highest degree of satisfaction is reached.
             </p>
+            <p className="text-gray-600 mt-2 text-sm leading-relaxed">
+            The technical editing service for our clients works on thorough and deep research. Editing is a hassle and is the job of a master only. It requires attention to detail therefore our ghostwriting agency only prefers trained editors.
+            </p>
           </div>
 
           <div>
@@ -133,6 +136,9 @@ const GhostwritingServices = () => {
             <h5 className="text-gray-600 text-xl mb-2">Complete Publishing Support with Flawless Execution</h5>
             <p className="text-gray-600 text-sm leading-relaxed">
               Book publication is among the final steps of ghostwriting. Where we have the best ghostwriters for hire, we also work on our publication services. It is among the essentials and a top goal in accomplishments. Our methods use a proper method and strategy to ensure a manuscript goes out perfectly through our publication checkpoint. Our team takes care of every intricate matter of publication.
+            </p>
+            <p className="text-gray-600 mt-2 text-sm leading-relaxed">
+              So, before we move on to any phase we look after the criteria we have to match. Our experts tidy up to meet the publication standards. We look after every hurdle that may come in the way. So, rely on us for expert guidance and impressive results.
             </p>
           </div>
         </div>

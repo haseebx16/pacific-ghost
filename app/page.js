@@ -16,7 +16,6 @@ export default function Home() {
       <WhyChooseUs />
       <ContactBanner />
       <Testimonials />
-      <VideoTestimonials />
       <Footer/>
     </main>
   )
