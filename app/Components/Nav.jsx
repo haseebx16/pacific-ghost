@@ -51,16 +51,16 @@ const Nav = () => {
 
       <nav className="bg-sky-100 border-b">
         <div className="max-w-7xl mx-auto px-4">
-          <div className="flex justify-between items-center h-32">
+          <div className="flex justify-between items-center h-24">
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
               <Link href="/">
                 <Image
                   src="/logo-coastal.png"
                   alt="Pacific Ghost Writing"
-                  width={180}
-                  height={40}
-                  className="cursor-pointer"
+                  width={120}
+                  height={50}
+                  className="cursor-pointer w-96 h-72"
                 />
               </Link>
             </div>
