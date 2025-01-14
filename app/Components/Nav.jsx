@@ -55,13 +55,14 @@ const Nav = () => {
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
               <Link href="/">
-                <Image
+                {/* <Image
                   src="/logo-coastal.png"
                   alt="Pacific Ghost Writing"
                   width={120}
                   height={50}
                   className="cursor-pointer w-96 h-72"
-                />
+                /> */}
+                <img src='/logo-coastal.png' alt='logo' className='cursor-pointer w-72 h-72'/>
               </Link>
             </div>
 
