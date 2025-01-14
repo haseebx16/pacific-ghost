@@ -58,7 +58,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <HiOutlineLocationMarker className="text-gray-400" />
-                <p>800 Wilshire Blvd Suite 501, Los Angeles, CA 90017, United States</p>
+                <p>539 W. Commerce St #816, Dallas, TX 75208, United States</p>
               </div>
             </div>
             <div className="flex space-x-3 mt-6">
