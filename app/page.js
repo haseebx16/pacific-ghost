@@ -6,6 +6,7 @@ import ContactBanner from './Components/ContactBanner'
 import VideoTestimonials from './Components/VideoTestimonials'
 import Testimonials from './Components/Testimonials'
 import Footer from "./Components/Footer";
+import Portfolio from "./Components/Portfolio";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <WhyChooseUs />
       <ContactBanner />
       <Testimonials />
+      <Portfolio/>
       <Footer/>
     </main>
   )
