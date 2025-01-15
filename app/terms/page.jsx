@@ -38,17 +38,14 @@ const page = () => {
         <p className="text-gray-500 text-justify mt-2 text-sm">
         By using the services of Coastal Ghostwriting, you agree to these Terms & Conditions. If you do not accept any part of these terms, please refrain from using our services.
         </p>
+        
+        
+        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Services Provided
+        </h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
-        Our professional book editors go through tasks such as structural assessment, content evaluation, and audience engagement analysis. This editing service by our book editing agency provides recommendations that are aimed at enhancing the clarity and engagement of your content with readers.
+        We offer professional, scientific, and technical services tailored to meet your unique needs. All services are delivered with precision and integrity, ensuring your satisfaction.
         </p>
         
-        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Structural Editing        </h1>
-        <p className="text-gray-500 text-justify mt-2 text-sm">
-        Our structural Editing focuses on the macro-level elements of a manuscript that emphasize overall structure, the organization of content, and consistency. We scrutinize the arrangement of chapters, sections, and paragraphs to make sure that there is a logical progression and smooth transitions between the ideas.
-        </p>
-        <p className="text-gray-500 text-justify mt-2 text-sm">
-        The editors also pay close attention to tone, style, and formatting consistency to maintain uniformity throughout the manuscript.
-        </p>
 
         <h1 className="text-3xl md:text-4xl mt-12">Content Editing        </h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
@@ -58,14 +55,14 @@ const page = () => {
         Sensitivity and inclusivity considerations also make sure that the content aligns with diverse perspectives and develops a respectful environment for all readers.
         </p>
 
-        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Editorial Assessment        </h1>
+        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Client Responsibilities        </h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
-        This service provides the author with a comprehensive overview of the strengths, weaknesses, and areas of improvement in their manuscript. It is the roadmap provided by our editors to you that guides you in refining your work, addressing structural, content-related, and stylistic concerns to enhance the overall effectiveness of your writing.
+        Your active participation is essential for project success. We ask clients to provide accurate information, timely feedback, and adherence to agreed-upon timelines.  
         </p>
         
-        <h1 className="text-3xl md:text-4xl mt-12">Stylistic Editing</h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Intellectual Property        </h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
-        In this type of editing, our writer focuses on refining language, tone, style, and expression to make sure that it enhances the readability and movement of your content. Our expert editors at Coastal Ghostwriting aim to convey the ideas more concisely and efficiently to make sure consistency in voice and style while enhancing flow and cohesion.
+        All materials created by Coastal Ghostwriting remain our intellectual property unless otherwise agreed in writing. We license these materials for your specified use.
         </p>
         <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Evaluation Editing        </h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
