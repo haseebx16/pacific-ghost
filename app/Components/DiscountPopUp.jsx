@@ -4,13 +4,27 @@ import React, { useState, useEffect } from 'react';
 
 const DiscountPopUp = () => {
     const [isVisible, setIsVisible] = useState(false);
+    const [showCount, setShowCount] = useState(0);
 
     useEffect(() => {
-        const interval = setInterval(() => {
-            setIsVisible(true);
-        }, 30000);
+        const page = window.location.pathname;
+        const count = parseInt(localStorage.getItem(`popupCount_${page}`)) || 0;
 
-        return () => clearInterval(interval);
+        if (count < 2) {
+            const interval = setInterval(() => {
+                setIsVisible(true);
+                setShowCount(prevCount => {
+                    const newCount = prevCount + 1;
+                    localStorage.setItem(`popupCount_${page}`, newCount);
+                    if (newCount >= 2) {
+                        clearInterval(interval);
+                    }
+                    return newCount;
+                });
+            }, 30000);
+
+            return () => clearInterval(interval);
+        }
     }, []);
 
     const handleClose = () => setIsVisible(false);
