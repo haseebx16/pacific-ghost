@@ -47,13 +47,12 @@ const page = () => {
         </p>
         
 
-        <h1 className="text-3xl md:text-4xl mt-12">Content Editing        </h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Limitation of Liability
+        </h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
-        Our professional book editing services also include content editing. It involves an accurate evaluation of substances, accuracy, and relevance in your book. Our editors conduct fact-checking, assess the depth of coverage, and edit content to suit your target audience’s needs and interests.
+        While we strive for excellence, 786 Services LLC is not liable for indirect or consequential damages. Our liability is limited to the fees paid for the specific service.
         </p>
-        <p className="text-gray-500 text-justify mt-2 text-sm">
-        Sensitivity and inclusivity considerations also make sure that the content aligns with diverse perspectives and develops a respectful environment for all readers.
-        </p>
+        
 
         <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Client Responsibilities        </h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
@@ -64,22 +63,27 @@ const page = () => {
         <p className="text-gray-500 text-justify mt-2 text-sm">
         All materials created by Coastal Ghostwriting remain our intellectual property unless otherwise agreed in writing. We license these materials for your specified use.
         </p>
-        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Evaluation Editing        </h1>
+        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Confidentiality
+        </h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
-        It involves a very critical analysis of the quality, effectiveness, and impact of your book on the readers. In this editing type, our editors assess the coherence of arguments, anticipate readers’ responses, and then provide you with constructive feedback and recommendations for improvement grounded in objectivity and evidence.
+        We respect the confidentiality of your sensitive information and expect the same from you. Trust and privacy are paramount to our partnership.
         </p>
-        <h1 className="text-3xl md:text-4xl mt-12">Mechanical Editing        </h1>
+        <h1 className="text-3xl md:text-4xl mt-12">Payment Terms        </h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
-        Mechanical editing also goes by the name copy editing. Here our editors focus on correcting mechanical errors or inconsistencies in grammar, punctuation, spelling, and formatting. The team at Coastal Ghostwriting makes sure to adhere to the language conventions and publishing standards to maintain clarity and precision throughout the manuscript.
+        Clients agree to the payment terms outlined in our service agreement. Timely payments ensure uninterrupted progress and service delivery.
         </p>
-        <p className="text-gray-500 text-justify italic mt-2 text-sm">
-        Our editorial process encompasses a series of interrelated stages and each serves a distinct purpose to refine and enhance your written work. Whether it is substantive editing or mechanical, every type of editing contributes to the creation of a polished, coherent, and impactful manuscript that communicates with the audience more effectively.
-        </p>
-        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Book Editors For Hire At Coastal Ghostwriting        </h1>
+        
+        <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Governing Law
+        </h1>
         <p className="text-gray-500 text-justify mt-2 text-sm">
-        Our affordable book editors provide proficiency and apply their skills using the best tools to alter your manuscript. Coastal Ghostwriting is one of the book editing services that hold the reputation for being the finest in the industry. From expert editors to having a range of tools to elevate your book, it has everything to provide you with the best. We take pride as a book editing agency and maintain client satisfaction by offering affordable book editing services.
-
+        These terms are governed by the laws of the USA. Any disputes will be addressed in the courts of this jurisdiction.
 </p>
+        <h1 className="text-3xl md:text-4xl mt-12">Amendments
+
+        </h1>
+        <p className="text-gray-500 text-justify mt-2 text-sm">
+        We may update these terms to reflect changing business practices. Clients will be informed of significant changes.
+      </p>
         
 
         </div>
