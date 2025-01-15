@@ -1,7 +1,14 @@
+"use client";
+
 import Image from 'next/image'
 import Link from 'next/link'
+import { useState } from 'react'
+import ContactModal from './ContactModal';
 
 const Hero = () => {
+
+  const [isModalOpen, setModalOpen] = useState(false);
+
   return (
     <div className="relative min-h-[400px] md:min-h-[400px] w-full overflow-hidden bg-sky-50">
       {/* Background Image with Gradient Overlay - Desktop Only */}
@@ -27,15 +34,16 @@ const Hero = () => {
             Are You Looking for Verified Ghostwriters and Editors?
           </p>
           <div>
-            <Link 
-              href="/contact"
+          <button
+              onClick={() => setModalOpen(true)}
               className="inline-block bg-transparent hover:bg-black text-black hover:text-white border-2 border-black px-6 py-2 text-base font-medium transition-colors duration-200"
             >
               Consult Now
-            </Link>
+            </button>
           </div>
         </div>
       </div>
+      <ContactModal isOpen={isModalOpen} onClose={() => setModalOpen(false)} />
     </div>
   )
 }
