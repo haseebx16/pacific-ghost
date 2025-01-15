@@ -84,7 +84,7 @@ const Footer = () => {
           <p>Disclaimer: Empowering Excellence in Partnership with Puremed Essentials LLC 16 surrey lane belle mead NJ 08502</p>
           <div className="space-x-4">
             <a href="/terms" className="hover:text-white">Terms & Conditions</a>
-            <a href="#" className="hover:text-white">Terms of Service</a>
+            <a href="/datapolicy" className="hover:text-white">Consumer Data Policy</a>
           </div>
         </div>
       </div>
