@@ -90,7 +90,7 @@ const page = () => {
           {/* Contact Details & Map */}
           <div>
             <h3 className="text-xl font-bold mb-4">Contact Details</h3>
-            <p className="mb-2"><strong>Phone:</strong> 1-469-476-4994</p>
+            <p className="mb-2"><strong>Phone:</strong> </p>
             <p className="mb-2">
               <strong>Address:</strong> 539 W. Commerce St #816, Texas, Dallas TX 75208, United States
             </p>

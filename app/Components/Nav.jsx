@@ -37,8 +37,8 @@ const Nav = () => {
       <div className="bg-sky-50 border-b">
         <div className="max-w-7xl mx-auto px-4 py-2">
           <div className="flex justify-end items-center space-x-4 text-sm">
-            <a href="tel:1-469-476-4994" className="text-gray-600 hover:text-black">
-              1-469-476-4994
+            <a href="tel:" className="text-gray-600 hover:text-black">
+              
             </a>
             <span className="text-gray-400">|</span>
             <a href="mailto:info@coastalghostwriting.com" className="text-gray-600 hover:text-black">

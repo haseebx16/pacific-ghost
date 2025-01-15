@@ -50,7 +50,7 @@ const Footer = () => {
             <div className="mt-4 space-y-2">
               <div className="flex items-center space-x-2">
                 <FiPhone className="text-gray-400" />
-                <p>+1-469-476-4994</p>
+                <p></p>
               </div>
               <div className="flex items-center space-x-2">
                 <FiMail className="text-gray-400" />
