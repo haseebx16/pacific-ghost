@@ -154,7 +154,7 @@ const ContactPage = () => {
           </form>
         <div>
             <h3 className="text-xl font-bold mb-4">Contact Details</h3>
-            <p className="mb-2"><strong>Phone:</strong> </p>
+            <p className="mb-2"><strong>Email:</strong> support@coastalghostwriting.com </p>
             <p className="mb-2">
               <strong>Address:</strong> 539 W. Commerce St #816, Texas, Dallas TX 75208, United States
             </p>
