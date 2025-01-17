@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Best Book Formatting Services To Keep Your Readers Engage Till The    End       </h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Formatting in a book is essential for reader engagement and comprehension. It makes sure that there is clarity in your content. Formatting makes it easier for your readers to understand and acquire a flow that keeps the readers engaged.
         </p>

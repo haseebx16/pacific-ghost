@@ -41,7 +41,7 @@ const Nav = () => {
               
             </a>
             <span className="text-gray-400">|</span>
-            <a href="mailto:info@coastalghostwriting.com" className="text-gray-600 hover:text-black">
+            <a href="mailto:support@coastalghostwriting.com" className="text-gray-600 hover:text-black">
               support@coastalghostwriting.com
             </a>
           

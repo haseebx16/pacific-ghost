@@ -26,7 +26,7 @@ const page = () => {
           </h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Expanding the exposure of books is the goal of every author and many online reading platforms play a key role in achieving this goal. Amazon has made its name known among all online platforms as a strong player in this field with their easy and convenient services to empower aspiring authors and writers. Amazon has already crossed various geographical boundaries through its worldwide approach.
 

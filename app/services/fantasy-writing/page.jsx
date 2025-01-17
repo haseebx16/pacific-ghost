@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Best Fantasy Writers for Hire – An Instant Way To Create Your World</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Fantasy books transport the readers to enchanting worlds filled with magic, mythical creatures, and epic adventures. These stories captivate readers and evoke a sense of awe and wonder through complex world-building and characters.
         </p>

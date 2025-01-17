@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Our Exceptional Non-Fiction Ghostwriting Services</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Are you passionate about sharing your story with the world but lack the time or writing expertise to bring it to life? Look no further! Our non-fiction ghostwriting services are here to help turn your vision into a captivating manuscript that captivates readers and leaves a lasting impact.
         </p>

@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Craft The Heart Melting Love Tale With Our Romance Ghostwriting Services</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Romance has been a constantly popular genre among readers for several reasons. It shows human experiences of life, desire, and connection that align across cultures and generations. Readers are drawn to the emotional rollercoaster of relationships and root for characters to find love despite obstacles.
         </p>

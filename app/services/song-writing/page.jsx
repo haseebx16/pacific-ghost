@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">The Best Songwriters for Hire at Coastal Ghostwriting</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Have you hired the songwriter yet? Well, why are you waiting? when you have us. Forget about looking around the market to meet numerous songwriting services, Coastal Ghostwriting is here. Songs increase our emotions and generate them. Have you ever thought Elton John or Bob Dylan created such a mesmerizing song that captivates their listeners? Well, they know how to write a song. A perfect set of lyrics, and a beautifully composed song, there you have a top record song.
         </p>

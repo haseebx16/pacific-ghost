@@ -26,7 +26,7 @@ const page = () => {
           </h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         The world of self-publishing is a maze. Authors feel perplexed and as a result, they fall into loopholes of the ending complexities. So, here is when our experts in the field comes in handy. We have a bunch of professionals all geared up to offer you the best self-publishing services.
 

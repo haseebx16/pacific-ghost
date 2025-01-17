@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Professional Autobiography Writers for Hire</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Nowadays, personal stories hold more power than any fictional tale. And an autobiography is the perfect format to accomplish this. Whether you’re sharing life’s journey, professional growth, or achievement over hardship, an autobiography allows you to share your experiences while captivating audiences.
         </p>

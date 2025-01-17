@@ -26,7 +26,7 @@ const page = () => {
           </h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Proofreading is not a simple step and your book depends on it. Proofreading services are the best way to make sure that your script doesn’t have any silly mistakes that might trigger your authority or credibility.
         </p>

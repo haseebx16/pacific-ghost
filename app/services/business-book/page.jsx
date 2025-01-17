@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Take Advantage Of Professional Business Book Ghostwriting Services At Coastal Ghostwriting</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Your idea can help millions to succeed in their business if you count on Coastal Ghostwriting’s top business book writers. We, here turn your idea into a roadmap for success that helps entrepreneurs thrive worldwide.
         </p>

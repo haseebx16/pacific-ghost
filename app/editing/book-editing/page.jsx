@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Get Our Book Editing Services To Make Your Narrative More Effective</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Editing is one of the most essential stages in the book creation. It ensures that there is clarity, coherence, and reader engagement. Coastal Ghostwriting is here to help you with its skilled editors to refine your manuscript and style of writing which makes it more compelling and consistent throughout.
         </p>

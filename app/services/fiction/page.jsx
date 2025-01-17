@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">On A Hunt For Fiction Ghostwriting Services? Come To Coastal Ghostwriting</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         These days, fiction is more popular than ever. It’s a realm where imagination has no limits, and characters touch reality in worlds created from the depths of creativity. Whether it’s a thrilling mystery, a heart-wrenching romance, or an epic fantasy, fiction captures audiences across the globe.
         </p>

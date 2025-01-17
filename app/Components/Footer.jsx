@@ -49,10 +49,6 @@ const Footer = () => {
             
             <div className="mt-4 space-y-2">
               <div className="flex items-center space-x-2">
-                <FiPhone className="text-gray-400" />
-                <p></p>
-              </div>
-              <div className="flex items-center space-x-2">
                 <FiMail className="text-gray-400" />
                 <p>support@coastalghostwriting.com</p>
               </div>

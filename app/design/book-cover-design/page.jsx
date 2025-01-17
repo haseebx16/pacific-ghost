@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Step Into The Vibrant Literary World With Our Book Cover Design Services</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Book cover designs will always hold a special place in this vibrant literary world. Amid this vibrancy, it is hard for books to stand out because of the remarkable book cover designs that bewitch readers. For this reason, Coastal Ghostwriting hires the most professional designers who instantly captivate the attention of their audience through their intricately designed beautiful covers.
 

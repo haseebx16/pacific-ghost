@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Meet The Best Science Fiction Ghostwriters At Coastal Ghostwriting</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         If you have an incredible science fiction story in mind but lack the writing skills to bring it to life, worry not. Coastal Ghostwriting is here to rescue you. We have a team of professional science fiction ghostwriters who can transform your imagination into reality.<br/>
 

@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Get Your Hands On The Best Memoir Writing Services In Town</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
             Want to give words to life events, beautiful memories, and unforgettable times and preserve it forever.
              We have top personal memoir ghostwriters all set to use their unmatched skills and write you a memoir. 

@@ -26,7 +26,7 @@ const page = () => {
           </h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-justify text-sm">
         Need help with book publishing? Coastal Ghostwriting is here to guide you through this bumpy road of publishing. We navigate authors and guide them through a path filled with success. Authors need to trust the process, our book publishers, and our methods.
 

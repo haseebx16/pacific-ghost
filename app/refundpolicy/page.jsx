@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Return/Refund Policy</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         {/* Section 1 */}
         <h1 className="text-3xl md:text-4xl text-sky-500 mt-12">Introduction:
         </h1>

@@ -202,9 +202,9 @@ const page = () => {
                       <li key={idx}>{detail}</li>
                     ))}
                   </ul>
-                  <button className="mt-4 bg-black text-white px-6 py-2 rounded hover:bg-gray-800">
+                  <a href='/contact'><button className="mt-4 bg-black text-white px-6 py-2 rounded hover:bg-gray-800">
                     Request a Quote
-                  </button>
+                  </button></a>
                 </div>
               ))}
             </div>

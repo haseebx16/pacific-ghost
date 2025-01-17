@@ -25,7 +25,7 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">The Most Medical Writers for Hire at Coastal Ghostwriting</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 mx-auto md:mx-4">
+      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
         <p className="text-gray-500 text-sm">
         Coastal Ghostwriting – A place to collaborate with highly skilled medical writers who have extensive subject matter expertise.
         </p>
