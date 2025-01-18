@@ -2,7 +2,7 @@ import React from 'react'
 
 const ServiceSection = ({ title, children }) => (
   <div className="mb-8">
-    <h3 className="text-xl font-bold mb-2">{title}</h3>
+    <h3 className="text-xl text-gray-700 font-bold mb-2">{title}</h3>
     {children}
   </div>
 );
@@ -11,7 +11,7 @@ const WhyChooseUs = () => {
   return (
     <section className="py-12 bg-sky-50">
       <div className="max-w-7xl mx-auto px-4">
-        <h2 className="text-2xl font-bold mb-2">WHY DO YOU NEED TO CHOOSE US?</h2>
+        <h2 className="text-2xl text-gray-700 font-bold mb-2">WHY DO YOU NEED TO CHOOSE US?</h2>
         <p className="text-gray-600 text-justify text-sm mb-8">
           In the course of ghostwriters for hire, Coastal Ghostwriting is one of the places where you have exceptional experience in providing its clients with hassle-free services. We offer cheap ghostwriting services that cater to every writer in the industry.
         </p>

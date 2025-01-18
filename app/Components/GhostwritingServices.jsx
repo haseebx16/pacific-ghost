@@ -78,29 +78,29 @@ const GhostwritingServices = () => {
           <div className="grid md:grid-cols-1 gap-4">
             <div className="flex items-center space-x-4">
               <FaMoneyBillWave className="w-6 h-6 text-gray-700" />
-              <p className="text-sm">
-                <span className="font-semibold">Various Payments</span>: As an international operating agency, we offer our clients multiple online payment methods.
+              <p className="text-sm text-gray-700">
+                <span className="font-semibold text-gray-700">Various Payments</span>: As an international operating agency, we offer our clients multiple online payment methods.
               </p>
             </div>
 
             <div className="flex items-center space-x-4">
               <FaBookReader className="w-6 h-6 text-gray-700" />
-              <p className="text-sm">
-                <span className="font-semibold">Services</span>: We have created a simplified pattern from planning to publication for a complete ghostwriting experience.
+              <p className="text-sm text-gray-700">
+                <span className="font-semibold text-gray-700">Services</span>: We have created a simplified pattern from planning to publication for a complete ghostwriting experience.
               </p>
             </div>
 
             <div className="flex items-center space-x-4">
               <FaUndo className="w-6 h-6 text-gray-700" />
-              <p className="text-sm">
-                <span className="font-semibold">Easy Refunds</span>: We have a refund policy in case anything does not sit well we offer refunds.
+              <p className="text-sm text-gray-700">
+                <span className="font-semibold text-gray-700">Easy Refunds</span>: We have a refund policy in case anything does not sit well we offer refunds.
               </p>
             </div>
 
             <div className="flex items-center space-x-4">
               <FaBookOpen className="w-6 h-6 text-gray-700" />
-              <p className="text-sm">
-                <span className="font-semibold">Vast Literary Knowledge</span>: With the finest craft in literary knowledge expect a Victorian writing piece to modern 19th century literature.
+              <p className="text-sm text-gray-700">
+                <span className="font-semibold text-gray-700">Vast Literary Knowledge</span>: With the finest craft in literary knowledge expect a Victorian writing piece to modern 19th century literature.
               </p>
             </div>
           </div>
@@ -109,7 +109,7 @@ const GhostwritingServices = () => {
         {/* Third Section */}
         <div className="mt-8">
           <h4 className="text-2xl font-bold mb-3 text-sky-500">PROFESSIONAL GHOSTWRITING SERVICES FOR EXCEPTIONAL GHOSTWRITING SERVICES</h4>
-          <h5 className="text-gray-600 text-xl mb-2">A Professional Platform Driven with Utmost Creativity</h5>
+          <h5 className="text-gray-600 text-md font-bold mb-2">A Professional Platform Driven with Utmost Creativity</h5>
           <p className="text-gray-600 text-sm mb-4 leading-relaxed">
             With a vision to spread quality writing with valuable creativity, we pour our passion into the work. With compelling sentence structures and easy-to-grasp writing style, we work in original pieces of writing impeccably created for you.
           </p>
@@ -122,7 +122,7 @@ const GhostwritingServices = () => {
         <div className="grid md:grid-cols-2 gap-8 mt-8">
           <div>
             <h4 className="text-2xl text-sky-500 font-bold mb-3">EDITING SERVICES</h4>
-            <h5 className="text-gray-600 text-xl mb-2">Refining your Manuscripts: Professional Editing Services</h5>
+            <h5 className="text-gray-600 text-md font-bold mb-2">Refining your Manuscripts: Professional Editing Services</h5>
             <p className="text-gray-600 text-sm leading-relaxed">
               Editing helps maintain the credibility of the manuscript. Our responsibilities are to catch the typographical and grammatical errors, double-check, and keep up with the accuracy. This process demands a lot of attention and we assert our best efforts in editing and proofreading. Our ghostwriting services are ahead of competitors until your highest degree of satisfaction is reached.
             </p>
@@ -133,7 +133,7 @@ const GhostwritingServices = () => {
 
           <div>
             <h4 className="text-2xl text-sky-500 font-bold mb-3">PUBLISHING SERVICES</h4>
-            <h5 className="text-gray-600 text-xl mb-2">Complete Publishing Support with Flawless Execution</h5>
+            <h5 className="text-gray-600 text-md font-bold mb-2">Complete Publishing Support with Flawless Execution</h5>
             <p className="text-gray-600 text-sm leading-relaxed">
               Book publication is among the final steps of ghostwriting. Where we have the best ghostwriters for hire, we also work on our publication services. It is among the essentials and a top goal in accomplishments. Our methods use a proper method and strategy to ensure a manuscript goes out perfectly through our publication checkpoint. Our team takes care of every intricate matter of publication.
             </p>

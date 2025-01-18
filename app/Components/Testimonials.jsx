@@ -23,7 +23,7 @@ const Testimonials = () => {
   return (
     <section className="py-16 bg-sky-50">
       <div className="max-w-7xl mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center mb-4">WHAT OUR CUSTOMERS HAVE TO SAY</h2>
+        <h2 className="text-3xl text-gray-700 font-bold text-center mb-4">WHAT OUR CUSTOMERS HAVE TO SAY</h2>
         <p className="text-gray-600 text-center mb-12">
           As a reputable ghostwriting agency, we have plenty of reviews and comments that are a positive note for the credibility of our company.
         </p>
