@@ -58,13 +58,13 @@ const ContactModal = ({ isOpen, onClose }) => {
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
-      <div className="bg-white rounded-lg shadow-lg w-11/12 max-w-md p-6">
-        <h2 className="text-xl font-bold mb-4">Contact Us</h2>
+      <div className="bg-sky-900 rounded-lg shadow-lg w-11/12 max-w-md p-6">
+        <h2 className="text-xl text-white font-bold mb-4">Contact Us</h2>
         {error && <p className="text-red-500 text-sm mb-4">{error}</p>}
         {successMessage && <p className="text-green-500 text-sm mb-4">{successMessage}</p>}
         <form onSubmit={handleSubmit}>
           <div className="mb-4">
-            <label className="block text-sm font-medium text-gray-700 mb-2">
+            <label className="block text-sm font-medium text-white mb-2">
               Name
             </label>
             <input
@@ -72,12 +72,12 @@ const ContactModal = ({ isOpen, onClose }) => {
               name="name"
               value={formData.name}
               onChange={handleChange}
-              className="w-full border-gray-300 rounded-md shadow-sm focus:ring-black focus:border-black"
+              className="w-full py-2 px-2 border-gray-300 text-gray-700 rounded-md shadow-sm focus:ring-black focus:border-black"
               placeholder="Enter your name"
             />
           </div>
           <div className="mb-4">
-            <label className="block text-sm font-medium text-gray-700 mb-2">
+            <label className="block text-sm font-medium text-white mb-2">
               Email
             </label>
             <input
@@ -85,12 +85,12 @@ const ContactModal = ({ isOpen, onClose }) => {
               name="email"
               value={formData.email}
               onChange={handleChange}
-              className="w-full border-gray-300 rounded-md shadow-sm focus:ring-black focus:border-black"
+              className="w-full py-2 px-2 border-gray-300 text-gray-700 rounded-md shadow-sm focus:ring-black focus:border-black"
               placeholder="Enter your email"
             />
           </div>
           <div className="mb-4">
-            <label className="block text-sm font-medium text-gray-700 mb-2">
+            <label className="block text-sm font-medium text-white mb-2">
               Phone
             </label>
             <input
@@ -98,12 +98,12 @@ const ContactModal = ({ isOpen, onClose }) => {
               name="phone"
               value={formData.phone}
               onChange={handleChange}
-              className="w-full border-gray-300 rounded-md shadow-sm focus:ring-black focus:border-black"
+              className="w-full py-2 px-2 border-gray-300 text-gray-700 rounded-md shadow-sm focus:ring-black focus:border-black"
               placeholder="Enter your phone"
             />
           </div>
           <div className="mb-4">
-            <label className="block text-sm font-medium text-gray-700 mb-2">
+            <label className="block text-sm font-medium text-white mb-2">
               Service Required
             </label>
             <input
@@ -111,7 +111,7 @@ const ContactModal = ({ isOpen, onClose }) => {
               name="service"
               value={formData.service}
               onChange={handleChange}
-              className="w-full border-gray-300 rounded-md shadow-sm focus:ring-black focus:border-black"
+              className="w-full py-2 px-2 border-gray-300 text-gray-700 rounded-md shadow-sm focus:ring-black focus:border-black"
               placeholder="Enter the service"
             />
           </div>
