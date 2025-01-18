@@ -1,4 +1,5 @@
 import ContactBanner from '@/app/Components/ContactBanner'
+import DiscountForm from '@/app/Components/DiscountForm'
 import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
@@ -25,7 +26,8 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Get Our Book Editing Services To Make Your Narrative More Effective</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
+      <div className="flex flex-col md:flex-row w-[90%] mx-auto py-12 gap-8">
+      <div className="md:w-[65%] w-full space-y-8">
         <p className="text-gray-500 text-justify text-sm">
         Editing is one of the most essential stages in the book creation. It ensures that there is clarity, coherence, and reader engagement. Coastal Ghostwriting is here to help you with its skilled editors to refine your manuscript and style of writing which makes it more compelling and consistent throughout.
         </p>
@@ -90,6 +92,12 @@ const page = () => {
         Our affordable book editors provide proficiency and apply their skills using the best tools to alter your manuscript. Coastal Ghostwriting is one of the book editing services that hold the reputation for being the finest in the industry. From expert editors to having a range of tools to elevate your book, it has everything to provide you with the best. We take pride as a book editing agency and maintain client satisfaction by offering affordable book editing services.
 
 </p>
+</div>
+<div className="md:w-[35%] w-full flex justify-center">
+          <div className="w-full md:w-auto max-h-[500px] overflow-y-auto">
+            <DiscountForm isOpen={true} />
+          </div>
+        </div>
         
 
         </div>
