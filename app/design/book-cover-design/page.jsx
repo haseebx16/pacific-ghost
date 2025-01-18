@@ -1,4 +1,5 @@
 import ContactBanner from '@/app/Components/ContactBanner'
+import DiscountForm from '@/app/Components/DiscountForm'
 import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
@@ -25,7 +26,8 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Step Into The Vibrant Literary World With Our Book Cover Design Services</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
+      <div className="flex flex-col md:flex-row w-[90%] mx-auto py-12 gap-8">
+      <div className="md:w-[65%] w-full space-y-8">
         <p className="text-gray-500 text-justify text-sm">
         Book cover designs will always hold a special place in this vibrant literary world. Amid this vibrancy, it is hard for books to stand out because of the remarkable book cover designs that bewitch readers. For this reason, Coastal Ghostwriting hires the most professional designers who instantly captivate the attention of their audience through their intricately designed beautiful covers.
 
@@ -114,6 +116,12 @@ const page = () => {
         So, what are you waiting for? Partner up with us and bring all your visions to life through alluring and exquisite book covers. These are specially crafted to stand out in the crowd of books with clear and bright luminescence. Hire a book cover designer from Coastal Ghostwriting and make your first book impression eye-catching.
 
 </p>
+</div>
+<div className="md:w-[35%] w-full flex justify-center">
+          <div className="w-full md:w-auto max-h-[500px] overflow-y-auto">
+            <DiscountForm isOpen={true} />
+          </div>
+        </div>
 
         </div>
       <ContactBanner/>
