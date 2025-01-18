@@ -1,4 +1,5 @@
 import ContactBanner from '@/app/Components/ContactBanner'
+import DiscountForm from '@/app/Components/DiscountForm'
 import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
@@ -25,7 +26,8 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Meet The Best Science Fiction Ghostwriters At Coastal Ghostwriting</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
+      <div className="flex flex-col md:flex-row w-[90%] mx-auto py-12 gap-8">
+      <div className="md:w-[65%] w-full space-y-8">
         <p className="text-gray-500 text-justify text-sm">
         If you have an incredible science fiction story in mind but lack the writing skills to bring it to life, worry not. Coastal Ghostwriting is here to rescue you. We have a team of professional science fiction ghostwriters who can transform your imagination into reality.<br/>
 
@@ -74,6 +76,12 @@ Join us, and let us transform your ideas into unforgettable stories.
         <p className="text-gray-500 text-justify mt-2 text-sm">
         Come to us today, and let’s begin your ghostwriting project! Whether it’s a sci-fi escapade or any other genre, our team is ready to bring your vision to life with skill and imagination.
          text-justify</p>
+         </div>
+         <div className="md:w-[35%] w-full flex justify-center">
+          <div className="w-full md:w-auto max-h-[500px] overflow-y-auto">
+            <DiscountForm isOpen={true} />
+          </div>
+        </div>
 
         </div>
       <ContactBanner/>

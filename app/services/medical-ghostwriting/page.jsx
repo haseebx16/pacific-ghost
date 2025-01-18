@@ -1,4 +1,5 @@
 import ContactBanner from '@/app/Components/ContactBanner'
+import DiscountForm from '@/app/Components/DiscountForm'
 import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
@@ -25,7 +26,8 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">The Most Medical Writers for Hire at Coastal Ghostwriting</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
+      <div className="flex flex-col md:flex-row w-[90%] mx-auto py-12 gap-8">
+      <div className="md:w-[65%] w-full space-y-8">
         <p className="text-gray-500 text-sm">
         Coastal Ghostwriting – A place to collaborate with highly skilled medical writers who have extensive subject matter expertise.
         </p>
@@ -93,6 +95,12 @@ const page = () => {
         <p className="text-gray-500 text-justify mt-2 text-sm">
         Let’s take the first step toward achieving your medical writing goals with Coastal Ghostwriting. Contact us now to experience our top-notch services, expertise, and commitment to excellence. Your success starts with us.
         </p>
+        </div>
+        <div className="md:w-[35%] w-full flex justify-center">
+          <div className="w-full md:w-auto max-h-[500px] overflow-y-auto">
+            <DiscountForm isOpen={true} />
+          </div>
+        </div>
 
         </div>
       <ContactBanner/>

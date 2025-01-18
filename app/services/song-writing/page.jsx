@@ -1,4 +1,5 @@
 import ContactBanner from '@/app/Components/ContactBanner'
+import DiscountForm from '@/app/Components/DiscountForm'
 import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
@@ -25,7 +26,8 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">The Best Songwriters for Hire at Coastal Ghostwriting</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
+      <div className="flex flex-col md:flex-row w-[90%] mx-auto py-12 gap-8">
+      <div className="md:w-[65%] w-full space-y-8">
         <p className="text-gray-500 text-justify text-sm">
         Have you hired the songwriter yet? Well, why are you waiting? when you have us. Forget about looking around the market to meet numerous songwriting services, Coastal Ghostwriting is here. Songs increase our emotions and generate them. Have you ever thought Elton John or Bob Dylan created such a mesmerizing song that captivates their listeners? Well, they know how to write a song. A perfect set of lyrics, and a beautifully composed song, there you have a top record song.
         </p>
@@ -90,8 +92,12 @@ const page = () => {
         <p className="text-gray-500 text-justify mt-2 text-sm">
         From chord progressions to song structure, we ensure that every aspect of your song flows seamlessly without hitting the rocks. Our song arrangements are carried out by our songwriters as well as composers who understand the intricacies of song composition.
         </p>
-        
-
+        </div>
+        <div className="md:w-[35%] w-full flex justify-center">
+          <div className="w-full md:w-auto max-h-[500px] overflow-y-auto">
+            <DiscountForm isOpen={true} />
+          </div>
+        </div>      
         </div>
       <ContactBanner/>
       <Testimonials/>

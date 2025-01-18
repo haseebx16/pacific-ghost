@@ -1,4 +1,5 @@
 import ContactBanner from '@/app/Components/ContactBanner'
+import DiscountForm from '@/app/Components/DiscountForm'
 import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
@@ -25,7 +26,8 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Craft The Heart Melting Love Tale With Our Romance Ghostwriting Services</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
+      <div className="flex flex-col md:flex-row w-[90%] mx-auto py-12 gap-8">
+      <div className="md:w-[65%] w-full space-y-8">
         <p className="text-gray-500 text-justify text-sm">
         Romance has been a constantly popular genre among readers for several reasons. It shows human experiences of life, desire, and connection that align across cultures and generations. Readers are drawn to the emotional rollercoaster of relationships and root for characters to find love despite obstacles.
         </p>
@@ -96,6 +98,12 @@ const page = () => {
         <p className="text-gray-500 text-justify mt-2 text-sm">
         Our romance writing service provides you with everything that is needed to write the best romance novel. The team of expert writers, fresh ideas, the latest equipment, and everything else. There is nothing you should worry about when it comes to romance writing while you partner up with us. We have everything sorted out for you.
         </p>
+        </div>
+        <div className="md:w-[35%] w-full flex justify-center">
+          <div className="w-full md:w-auto max-h-[500px] overflow-y-auto">
+            <DiscountForm isOpen={true} />
+          </div>
+        </div>
 
         </div>
       <ContactBanner/>

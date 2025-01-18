@@ -1,4 +1,5 @@
 import ContactBanner from '@/app/Components/ContactBanner'
+import DiscountForm from '@/app/Components/DiscountForm'
 import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
@@ -25,7 +26,8 @@ const page = () => {
           <h1 className="text-white text-4xl md:text-5xl font-bold">Best Fantasy Writers for Hire – An Instant Way To Create Your World</h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
+      <div className="flex flex-col md:flex-row w-[90%] mx-auto py-12 gap-8">
+      <div className="md:w-[65%] w-full space-y-8">
         <p className="text-gray-500 text-justify text-sm">
         Fantasy books transport the readers to enchanting worlds filled with magic, mythical creatures, and epic adventures. These stories captivate readers and evoke a sense of awe and wonder through complex world-building and characters.
         </p>
@@ -93,6 +95,12 @@ const page = () => {
         <p className="text-gray-500 text-justify mt-2 text-sm">
         We aim for transparency and integrity in all our dealings. That is why our pricing structure is straightforward with no hidden fees or charges. We believe in building long-term relationships with our clients based on trust, reliability, and mutual respect.
         </p>
+        </div>
+        <div className="md:w-[35%] w-full flex justify-center">
+          <div className="w-full md:w-auto max-h-[500px] overflow-y-auto">
+            <DiscountForm isOpen={true} />
+          </div>
+        </div>
         </div>
       <ContactBanner/>
       <Testimonials/>
