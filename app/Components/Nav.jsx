@@ -70,13 +70,13 @@ const Nav = () => {
             <div className="hidden md:flex items-center">
               <Link 
                 href="/" 
-                className={`text-[13px] px-3 py-2 font-medium ${isActive('/') ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
+                className={`text-[13px] px-3 py-2 font-medium ${isActive('/') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}
               >
                 HOME
               </Link>
               <Link 
                 href="/about" 
-                className={`text-[13px] px-3 py-2 font-medium ${isActive('/about') ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
+                className={`text-[13px] px-3 py-2 font-medium ${isActive('/about') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}
               >
                 ABOUT
               </Link>
@@ -85,7 +85,7 @@ const Nav = () => {
               {Object.entries(navItems).map(([key, items]) => (
                 <div key={key} className="relative z-10 group">
                   <button
-                    className={`text-[13px] px-3 py-2 flex items-center font-medium ${isActive('/' + key) ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
+                    className={`text-[13px] px-3 py-2 flex items-center font-medium ${isActive('/' + key) ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}
                     onClick={() => toggleDropdown(key)}
                   >
                     {key}
@@ -99,7 +99,7 @@ const Nav = () => {
                         <Link
                           key={item}
                           href={`/${key.toLowerCase()}/${item.toLowerCase().replace(/\s+/g, '-')}`}
-                          className="block px-4 py-2 text-sm text-gray-700 hover:bg-black hover:text-white"
+                          className="block px-4 py-2 text-sm text-gray-700 hover:bg-sky-900 hover:text-white"
                         >
                           {item}
                         </Link>
@@ -111,13 +111,13 @@ const Nav = () => {
 
               <Link 
                 href="/pricing" 
-                className={`text-[13px] px-3 py-2 font-medium ${isActive('/pricing') ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
+                className={`text-[13px] px-3 py-2 font-medium ${isActive('/pricing') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}
               >
                 PRICING
               </Link>
               <Link 
                 href="/contact" 
-                className={`text-[13px] px-3 py-2 font-medium ${isActive('/contact') ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
+                className={`text-[13px] px-3 py-2 font-medium ${isActive('/contact') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}
               >
                 CONTACT
               </Link>
@@ -151,13 +151,13 @@ const Nav = () => {
           <div className="px-2 pt-2 pb-3 space-y-1">
             <Link 
               href="/" 
-              className={`block text-sm px-3 py-2 ${isActive('/') ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
+              className={`block text-sm px-3 py-2 ${isActive('/') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}
             >
               HOME
             </Link>
             <Link 
               href="/about" 
-              className={`block text-sm px-3 py-2 ${isActive('/about') ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
+              className={`block text-sm px-3 py-2 ${isActive('/about') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}
             >
               ABOUT
             </Link>
@@ -166,7 +166,7 @@ const Nav = () => {
             {Object.entries(navItems).map(([key, items]) => (
               <div key={key}>
                 <button
-                  className={`w-full text-left text-sm px-3 py-2 flex items-center justify-between ${isActive('/' + key) ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
+                  className={`w-full text-left text-sm px-3 py-2 flex items-center justify-between ${isActive('/' + key) ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}
                   onClick={() => toggleDropdown(key)}
                 >
                   {key}
@@ -190,13 +190,13 @@ const Nav = () => {
 
             <Link 
               href="/pricing" 
-              className={`block text-sm px-3 py-2 ${isActive('/pricing') ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
+              className={`block text-sm px-3 py-2 ${isActive('/pricing') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}
             >
               PRICING
             </Link>
             <Link 
               href="/contact" 
-              className={`block text-sm px-3 py-2 ${isActive('/contact') ? 'bg-black text-white' : 'text-gray-700 hover:text-black'}`}
+              className={`block text-sm px-3 py-2 ${isActive('/contact') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}
             >
               CONTACT
             </Link>
