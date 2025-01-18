@@ -48,7 +48,7 @@ const page = () => {
         },
       ],
     },
-    'BRANDING AND PUBLICITY': {
+    'BRANDING AND MARKETING': {
       title: 'Branding and Publicity',
       description:
         'Elevate your book’s visibility with our targeted branding and publicity services.',
@@ -169,19 +169,19 @@ const page = () => {
       </div>
 
       {/* Pricing Section */}
-      <div className="container mx-auto px-4 py-16">
+      <div className="container bg-sky-50 mx-auto px-4 py-16">
         <h2 className="text-3xl font-bold text-center mb-8">Our Services</h2>
         <div className="grid md:grid-cols-4 gap-8">
           {/* Sidebar */}
-          <div className="bg-gray-100 p-4 rounded-lg shadow-md col-span-1">
+          <div className="bg-sky-900 p-4 rounded-lg shadow-md col-span-1">
             <ul className="space-y-4">
               {Object.keys(services).map((service) => (
                 <li
                   key={service}
                   onClick={() => setSelectedService(service)}
                   className={`cursor-pointer text-sm font-semibold border-b border-gray-300 pb-2 ${
-                    selectedService === service ? 'text-black' : 'text-gray-600'
-                  } hover:text-black`}
+                    selectedService === service ? 'text-white' : 'text-gray-300'
+                  } hover:text-white`}
                 >
                   {service}
                 </li>
@@ -195,14 +195,14 @@ const page = () => {
             <p className="text-gray-600 mb-6">{services[selectedService].description}</p>
             <div className="grid md:grid-cols-2 gap-6">
               {services[selectedService].plans.map((plan, index) => (
-                <div key={index} className="border p-6 rounded-lg shadow-md">
-                  <h4 className="text-xl font-bold mb-4">{plan.type}</h4>
-                  <ul className="space-y-2 text-gray-600">
+                <div key={index} className="border p-6 bg-sky-900 rounded-lg shadow-md">
+                  <h4 className="text-xl text-white font-bold mb-4">{plan.type}</h4>
+                  <ul className="space-y-2 text-gray-100">
                     {plan.details.map((detail, idx) => (
                       <li key={idx}>{detail}</li>
                     ))}
                   </ul>
-                  <a href='/contact'><button className="mt-4 bg-black text-white px-6 py-2 rounded hover:bg-gray-800">
+                  <a href='/contact'><button className="mt-4 bg-sky-500 text-white px-6 py-2 rounded hover:bg-gray-800">
                     Request a Quote
                   </button></a>
                 </div>
