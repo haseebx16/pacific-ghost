@@ -1,4 +1,5 @@
 import ContactBanner from '@/app/Components/ContactBanner'
+import DiscountForm from '@/app/Components/DiscountForm'
 import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
@@ -26,7 +27,8 @@ const page = () => {
           </h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
+      <div className="flex flex-col md:flex-row w-[90%] mx-auto py-12 gap-8">
+      <div className="md:w-[65%] w-full space-y-8">
         <p className="text-gray-500 text-justify text-sm">
         Need help with book publishing? Coastal Ghostwriting is here to guide you through this bumpy road of publishing. We navigate authors and guide them through a path filled with success. Authors need to trust the process, our book publishers, and our methods.
 
@@ -129,6 +131,12 @@ const page = () => {
         Try considering Coastal Ghostwriting for your publishing needs. We’re excited to partner with you on your journey to becoming a published author. With our expertise, dedication, and passion for storytelling, we’re confident that together, we can bring your vision to life and make your publishing dreams a reality.
 
 </p>
+</div>
+<div className="md:w-[35%] w-full flex justify-center">
+          <div className="w-full md:w-auto max-h-[500px] overflow-y-auto">
+            <DiscountForm isOpen={true} />
+          </div>
+        </div>
 
         </div>
       <ContactBanner/>

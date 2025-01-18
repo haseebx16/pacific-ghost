@@ -1,4 +1,5 @@
 import ContactBanner from '@/app/Components/ContactBanner'
+import DiscountForm from '@/app/Components/DiscountForm'
 import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
@@ -26,7 +27,8 @@ const page = () => {
           </h1>
         </div>
       </div>
-      <div className="pt-12 w-[70%] pb-12 px-12 mx-auto md:mx-4">
+      <div className="flex flex-col md:flex-row w-[90%] mx-auto py-12 gap-8">
+      <div className="md:w-[65%] w-full space-y-8">
         <p className="text-gray-500 text-justify text-sm">
         Expanding the exposure of books is the goal of every author and many online reading platforms play a key role in achieving this goal. Amazon has made its name known among all online platforms as a strong player in this field with their easy and convenient services to empower aspiring authors and writers. Amazon has already crossed various geographical boundaries through its worldwide approach.
 
@@ -127,7 +129,12 @@ with our legacy autobiography service. We collaborate with you to document ances
         Contact us now at Coastal Ghostwriting for a free quote and get all the services you want at reasonable prices with tailored packages specially designed to meet all your requirements.
 
 </p>
-        
+</div>
+<div className="md:w-[35%] w-full flex justify-center">
+          <div className="w-full md:w-auto max-h-[500px] overflow-y-auto">
+            <DiscountForm isOpen={true} />
+          </div>
+        </div>        
 
         </div>
       <ContactBanner/>
