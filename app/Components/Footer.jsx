@@ -56,6 +56,10 @@ const Footer = () => {
                 <HiOutlineLocationMarker className="text-gray-400" />
                 <p>539 W. Commerce St #816, Dallas, TX 75208, United States</p>
               </div>
+              <div className="flex items-center space-x-2">
+                <span className="text-gray-400" >&#x2022;&nbsp; </span>
+                <p>(818) 453-1810</p>
+              </div>
             </div>
             <div className="flex space-x-3 mt-6">
               <a href="#" aria-label="Facebook" className="text-gray-400 hover:text-white">
