@@ -40,7 +40,7 @@ const Page = () => {
         layoutReadyDate: '',
         releaseDate: '',
         budget: '',
-        manuscriptLink: ''
+        manuscriptLink: ""
       });
 
       const handleInputChange = (e) => {
@@ -105,12 +105,28 @@ const Page = () => {
             layoutReadyDate: '',
             releaseDate: '',
             budget: '',
-            manuscriptLink: ''
+            manuscriptLink: ""
           });
         } catch (error) {
           console.error('Error sending email:', error);
           alert('Failed to send email. Please try again.');
         }
+      };
+
+      const handleFileChange = (e) => {
+        const file = e.target.files[0];
+        const maxSize = 50 * 1024 * 1024;
+        
+        if (file && file.size > maxSize) {
+          alert('File is too large. Please select a file under 50MB.');
+          e.target.value = '';
+          return;
+        }
+        
+        setFormData(prev => ({
+          ...prev,
+          manuscriptLink: file
+        }));
       };
 
   return (
