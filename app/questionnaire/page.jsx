@@ -8,6 +8,7 @@ import Testimonials from '@/app/Components/Testimonials';
 import React from 'react';
 import { useState } from 'react';
 import emailjs from "emailjs-com";
+import FileUploader from '../Components/FileUploader';
 
 const Page = () => {
 
@@ -113,19 +114,10 @@ const Page = () => {
         }
       };
 
-      const handleFileChange = (e) => {
-        const file = e.target.files[0];
-        const maxSize = 50 * 1024 * 1024;
-        
-        if (file && file.size > maxSize) {
-          alert('File is too large. Please select a file under 50MB.');
-          e.target.value = '';
-          return;
-        }
-        
+      const handleFileUpload = (url) => {
         setFormData(prev => ({
           ...prev,
-          manuscriptLink: file
+          manuscriptLink: url
         }));
       };
 
@@ -378,7 +370,9 @@ const Page = () => {
                   value={formData.manuscriptLink}
                   onChange={handleInputChange} className="w-full p-2 border rounded mt-1" />
             </div>
-            <button className="w-full bg-blue-600 text-white p-2 rounded font-semibold">Submit</button>
+            <label className="block text-gray-700 font-semibold">Upload Your Manuscript</label>
+                <FileUploader onUpload={handleFileUpload} />
+            {/* <button className="w-full bg-blue-600 text-white p-2 rounded font-semibold">Submit</button> */}
           </form>
         </div>
         <div className="md:w-[35%] w-full flex justify-center">
