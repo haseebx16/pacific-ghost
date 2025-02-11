@@ -12,7 +12,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Crisp Chat Script */}
         <script
           type="text/javascript"
           dangerouslySetInnerHTML={{
