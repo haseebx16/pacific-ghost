@@ -33,7 +33,7 @@ const Nav = () => {
 
   return (
     <div className="w-full relative">
-      <nav className="bg-transparent border-b">
+      <nav className="bg-transparent absolute top-0 left-0 w-full z-10 bg-transparent border-b">
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex justify-between items-center h-24">
             {/* Logo */}
