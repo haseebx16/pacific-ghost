@@ -42,7 +42,7 @@ const Hero = () => {
               onClick={() => setModalOpen(true)}
               className="inline-block bg-transparent hover:bg-white text-white hover:text-black border-2 border-white px-6 py-2 text-base font-medium transition-colors duration-200"
             >
-              Activate Your Coupon
+              Live Chat
             </button>
             </div>
           </div>

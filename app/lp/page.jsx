@@ -2,6 +2,7 @@ import React from 'react'
 import Nav from './Navbar'
 import Hero from './Hero'
 import Ghostwriting from './Ghostwriting'
+import Draft from './Draft'
 
 const page = () => {
   return (
@@ -9,6 +10,7 @@ const page = () => {
         <Nav/>
         <Hero/>
         <Ghostwriting/>
+        <Draft/>
     </div>
   )
 }
