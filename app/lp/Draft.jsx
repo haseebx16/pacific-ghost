@@ -7,6 +7,14 @@ const Draft = () => {
   
   const [isModalOpen, setModalOpen] = useState(false);  
 
+  const openLiveChat = () => {
+    if (typeof Tawk_API !== "undefined") {
+      Tawk_API.toggle();
+    } else {
+      console.error("Tawk_API is not loaded yet.");
+    }
+  };
+
   return (
     <div className='flex justify-center items-center w-full p-20 bg-zinc-900'>
         <div className='w-full flex justify-between items-center'>
@@ -23,6 +31,7 @@ const Draft = () => {
                 Activate Your Coupon
                 </button>
                 <button
+                onClick={openLiveChat}
                 className="inline-block bg-transparent hover:bg-white text-white hover:text-black border-2 border-white px-6 py-2 text-base font-medium transition-colors duration-200"
                 >
                 Live Chat

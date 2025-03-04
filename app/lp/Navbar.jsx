@@ -31,9 +31,17 @@ const Nav = () => {
     return pathname.startsWith(path.toLowerCase());
   };
 
+  const openLiveChat = () => {
+    if (typeof Tawk_API !== "undefined") {
+      Tawk_API.toggle();
+    } else {
+      console.error("Tawk_API is not loaded yet.");
+    }
+  };
+
   return (
     <div className="w-full relative">
-      <nav className="bg-transparent absolute top-0 left-0 w-full z-10 bg-transparent border-b">
+      <nav className="bg-transparent absolute top-0 left-0 w-full z-10  border-b">
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex justify-between items-center h-24">
             {/* Logo */}
@@ -45,18 +53,18 @@ const Nav = () => {
 
             {/* Desktop Navigation */}
             <div className="hidden md:flex space-x-4 items-center">
-              <Link 
-                href="/" 
+              <button
+                onClick={openLiveChat}
                 className={`text-[18px] bg-yellow-400 text-black rounded-md px-3 py-2 font-medium ${isActive('/') ? 'bg-sky-900 text-white' : 'text-gray-700'}`}
               >
                 Live Chat
-              </Link>
-              <Link 
-                href="/about" 
+              </button>
+              <a href="tel:8184531810" ><button 
+                
                 className={`text-[18px] px-3 py-2 bg-gradient-to-br from-blue-950 via-blue-900 to-cyan-400 rounded-md text-white font-medium ${isActive('/about') ? 'bg-sky-900 text-white' : 'text-gray-700'}`}
               >
                 (818) 453-1810
-              </Link>
+              </button></a>
             </div>
 
             {/* Mobile menu button */}

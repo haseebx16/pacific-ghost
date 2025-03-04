@@ -6,6 +6,15 @@ import Contact from './Contact';
 
 
 const Ghostwriting = () => {
+
+  const openLiveChat = () => {
+    if (typeof Tawk_API !== "undefined") {
+      Tawk_API.toggle();
+    } else {
+      console.error("Tawk_API is not loaded yet.");
+    }
+  };
+
       const [isModalOpen, setModalOpen] = useState(false);
     
   return (
@@ -28,7 +37,7 @@ const Ghostwriting = () => {
                 Activate Your Coupon
                 </button>
                 <button
-                onClick={() => setModalOpen(true)}
+                onClick={openLiveChat}
                 className="inline-block bg-black hover:bg-white text-white hover:text-black border-2 border-black px-6 py-2 text-base font-medium transition-colors duration-200"
                 >
                 Chat With Us

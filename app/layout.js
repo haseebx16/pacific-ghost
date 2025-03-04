@@ -1,34 +1,25 @@
-// app/layout.js (or app/layout.tsx for TypeScript)
+"use client";
 
-import Head from 'next/head';  // Import Head from next/head
-import './globals.css'; // Import global styles if you have them
-
-export const metadata = {
-  title: 'Coastal Ghostwriting',
-  description: 'Coastal Ghostwriting is a leading ghostwriting agency that offers a wide range of writing services, including fiction, non-fiction, and autobiography.',
-};
+import { useEffect } from 'react'; 
+import './globals.css';
 
 export default function RootLayout({ children }) {
+
+  useEffect(() => {
+    const script = document.createElement("script");
+    script.type = "text/javascript";
+    script.async = true;
+    script.src = "https://embed.tawk.to/67c739f15a4588190fb4fbaa/1ilh3km88";
+    script.charset = "UTF-8";
+    script.setAttribute("crossorigin", "*");
+    document.body.appendChild(script);
+    return () => {
+      document.body.removeChild(script);
+    };
+  }, []);
+
   return (
     <html lang="en">
-      <head>
-        <script
-          type="text/javascript"
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.$crisp = [];
-              window.CRISP_WEBSITE_ID = "3e390a67-cbc9-439e-828c-d79e13e1ec49";
-              (function() {
-                var d = document;
-                var s = d.createElement("script");
-                s.src = "https://client.crisp.chat/l.js";
-                s.async = 1;
-                d.getElementsByTagName("head")[0].appendChild(s);
-              })();
-            `,
-          }}
-        />
-      </head>
       <body>
         {children}
       </body>
