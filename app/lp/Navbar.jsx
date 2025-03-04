@@ -39,7 +39,7 @@ const Nav = () => {
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
               <Link href="/">
-                <img src='/logo-coastal.png' alt='logo' className='cursor-pointer w-72 h-72'/>
+                <img src='/logo-white.png' alt='logo' className='cursor-pointer w-72 h-72'/>
               </Link>
             </div>
 
@@ -47,13 +47,13 @@ const Nav = () => {
             <div className="hidden md:flex space-x-4 items-center">
               <Link 
                 href="/" 
-                className={`text-[18px] bg-sky-900 text-white px-3 py-2 font-medium ${isActive('/') ? 'bg-sky-900 text-white' : 'text-gray-700'}`}
+                className={`text-[18px] bg-sky-900 rounded-full text-white px-3 py-2 font-medium ${isActive('/') ? 'bg-sky-900 text-white' : 'text-gray-700'}`}
               >
-                LIVE CHAT
+                Live Chat
               </Link>
               <Link 
                 href="/about" 
-                className={`text-[18px] px-3 py-2 bg-sky-900 text-white font-medium ${isActive('/about') ? 'bg-sky-900 text-white' : 'text-gray-700'}`}
+                className={`text-[18px] px-3 py-2 rounded-full bg-sky-900 text-white font-medium ${isActive('/about') ? 'bg-sky-900 text-white' : 'text-gray-700'}`}
               >
                 (818) 453-1810
               </Link>

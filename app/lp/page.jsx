@@ -3,6 +3,9 @@ import Nav from './Navbar'
 import Hero from './Hero'
 import Ghostwriting from './Ghostwriting'
 import Draft from './Draft'
+import Portfolio from '../Components/Portfolio'
+import Testimonials from '../Components/Testimonials'
+import Footer from '../Components/Footer'
 
 const page = () => {
   return (
@@ -11,6 +14,9 @@ const page = () => {
         <Hero/>
         <Ghostwriting/>
         <Draft/>
+        <Portfolio/>
+        <Testimonials/>
+        <Footer/>
     </div>
   )
 }

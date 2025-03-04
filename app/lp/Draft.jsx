@@ -2,7 +2,7 @@ import React from 'react'
 
 const Draft = () => {
   return (
-    <div className='flex justify-center items-center w-full p-8 bg-zinc-900'>
+    <div className='flex justify-center items-center w-full p-20 bg-zinc-900'>
         <div className='w-full flex justify-between items-center'>
             <div>
                 <h1 className='text-white text-5xl max-w-xl font-extrabold'>Have a draft and are looking
