@@ -1,6 +1,12 @@
-import React from 'react'
+"use client";
+
+import React, { useState } from 'react'
+import Contact from './Contact'
 
 const Draft = () => {
+  
+  const [isModalOpen, setModalOpen] = useState(false);  
+
   return (
     <div className='flex justify-center items-center w-full p-20 bg-zinc-900'>
         <div className='w-full flex justify-between items-center'>
@@ -11,6 +17,7 @@ const Draft = () => {
             <div className='flex flex-row space-x-4'>
 
             <button
+            onClick={() => setModalOpen(true)}
                 className="inline-block bg-yellow-400 hover:bg-white text-black hover:text-black border-2 border-black px-6 py-2 text-base font-medium transition-colors duration-200"
                 >
                 Activate Your Coupon
@@ -22,6 +29,8 @@ const Draft = () => {
                 </button>
             </div>
         </div>
+      <Contact isOpen={isModalOpen} onClose={() => setModalOpen(false)} />
+
     </div>
   )
 }

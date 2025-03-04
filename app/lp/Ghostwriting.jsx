@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import ContactModal from '../Components/ContactModal';
+import Contact from './Contact';
 
 
 const Ghostwriting = () => {
@@ -40,7 +41,7 @@ const Ghostwriting = () => {
         
       </div>
       </div>
-      <ContactModal isOpen={isModalOpen} onClose={() => setModalOpen(false)} />
+      <Contact isOpen={isModalOpen} onClose={() => setModalOpen(false)} />
     </section>
   );
 };

@@ -47,13 +47,13 @@ const Nav = () => {
             <div className="hidden md:flex space-x-4 items-center">
               <Link 
                 href="/" 
-                className={`text-[18px] bg-sky-900 rounded-full text-white px-3 py-2 font-medium ${isActive('/') ? 'bg-sky-900 text-white' : 'text-gray-700'}`}
+                className={`text-[18px] bg-yellow-400 text-black rounded-md px-3 py-2 font-medium ${isActive('/') ? 'bg-sky-900 text-white' : 'text-gray-700'}`}
               >
                 Live Chat
               </Link>
               <Link 
                 href="/about" 
-                className={`text-[18px] px-3 py-2 rounded-full bg-sky-900 text-white font-medium ${isActive('/about') ? 'bg-sky-900 text-white' : 'text-gray-700'}`}
+                className={`text-[18px] px-3 py-2 bg-gradient-to-br from-blue-950 via-blue-900 to-cyan-400 rounded-md text-white font-medium ${isActive('/about') ? 'bg-sky-900 text-white' : 'text-gray-700'}`}
               >
                 (818) 453-1810
               </Link>

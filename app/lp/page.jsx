@@ -6,6 +6,7 @@ import Draft from './Draft'
 import Portfolio from '../Components/Portfolio'
 import Testimonials from '../Components/Testimonials'
 import Footer from '../Components/Footer'
+import Services from './Services'
 
 const page = () => {
   return (
@@ -14,6 +15,7 @@ const page = () => {
         <Hero/>
         <Ghostwriting/>
         <Draft/>
+        <Services/>
         <Portfolio/>
         <Testimonials/>
         <Footer/>
