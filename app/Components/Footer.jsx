@@ -3,6 +3,7 @@ import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/f
 import { FiPhone, FiMail } from "react-icons/fi";
 import { HiOutlineLocationMarker } from "react-icons/hi";
 import { Font } from "./font/font";
+import { FaPhoneAlt } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -49,17 +50,18 @@ const Footer = () => {
             <h3 className="text-lg font-semibold text-white ">Contact Info</h3>
             
             <div className="mt-4 space-y-2">
-              <div className="flex items-center space-x-2">
+              <div className="flex items-center cursor-pointer hover:text-white space-x-2">
                 <FiMail className="text-gray-400" />
-                <p>support@coastalghostwriting.com</p>
+                <a href="mailto:support@coastalghostwriting.com"><p>support@coastalghostwriting.com</p></a>
               </div>
               <div className="flex items-center space-x-2">
                 <HiOutlineLocationMarker className="text-gray-400" />
                 <p>539 W. Commerce St #816, Dallas, TX 75208, United States</p>
               </div>
-              <div className="flex items-center space-x-2">
-                <span className="text-gray-400" >&#x2022;&nbsp; </span>
-                <p>(818) 453-1810</p>
+              <div className="flex items-center cursor-pointer hover:text-white space-x-2">
+              <FaPhoneAlt className="text-gray-400" />
+                
+                <a href="tel:8184531810"><p>(818) 453-1810</p></a>
               </div>
             </div>
             <div className="flex space-x-3 mt-6">
