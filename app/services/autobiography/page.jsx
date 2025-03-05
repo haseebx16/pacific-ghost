@@ -119,7 +119,6 @@ const Page = () => {
       {/* Contact, Testimonials, and Footer */}
       <ContactBanner />
       <Testimonials />
-      <VideoTestimonials />
       <Footer />
     </>
   )

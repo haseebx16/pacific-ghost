@@ -12,7 +12,7 @@ const ContactBanner = () => {
     <div className="bg-sky-50">
     <section 
       style={{ backgroundImage: "url('/call-bg.jpg')", backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}
-    className="bgg shadow-lg shadow-sky-500  w-[100%] flex flex-col justify-center items-center py-4 relative mx-auto">
+    className="bgg  mt-6 mb-2 w-[95%] flex flex-col justify-center items-center py-4 relative mx-auto">
       <div className="w-[80%] mx-auto max-w-7xl">
         <div className="text-white flex flex-col justify-start items-start">
           <h2 className="text-3xl md:text-4xl font-semibold mb-2">Hit The Digits And Contact Us!</h2>
