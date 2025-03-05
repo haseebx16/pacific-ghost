@@ -2,6 +2,7 @@
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { Autoplay, Pagination } from 'swiper/modules'
 import 'swiper/css'
+import { Font } from './font/font'
 import 'swiper/css/pagination'
 
 const testimonials = [
@@ -21,7 +22,7 @@ const testimonials = [
 
 const Testimonials = () => {
   return (
-    <section className="py-16 bg-sky-50">
+    <section className={`${Font.className} py-16 bg-sky-50`}>
       <div className="max-w-7xl mx-auto px-4">
         <h2 className="text-3xl text-gray-700 font-bold text-center mb-4">WHAT OUR CUSTOMERS HAVE TO SAY</h2>
         <p className="text-gray-600 text-center mb-12">

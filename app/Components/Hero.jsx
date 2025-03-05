@@ -4,14 +4,14 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { useState } from 'react'
 import ContactModal from './ContactModal';
+import { Font } from './font/font';
 
 const Hero = () => {
 
   const [isModalOpen, setModalOpen] = useState(false);
 
   return (
-    <div className="relative min-h-[400px] md:min-h-[500px] w-full overflow-hidden bg-sky-50">
-      {/* Background Image with Gradient Overlay - Desktop Only */}
+    <div className={`${Font.className} relative min-h-[400px] md:min-h-[500px] w-full overflow-hidden bg-sky-50`}>
       <div className="absolute top-0 right-0 w-1/2 h-full md:block hidden">
         <Image
           src="/hero-man.jpg"

@@ -19,3 +19,7 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.bgg {
+  background-image: url("/public/call-bg.jpg");
+}

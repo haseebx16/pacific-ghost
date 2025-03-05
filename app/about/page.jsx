@@ -12,17 +12,15 @@ const Page = () => {
     <>
       <Nav />
       <div className="relative">
-        {/* Background Image */}
+        
         <img
           src="/About-01.jpg"
           alt="About Background"
           className="w-full z-1 h-[400px] object-cover"
         />
-        
-        {/* Black Overlay */}
+
         <div className="absolute inset-0 bg-black opacity-50"></div>
 
-        {/* Heading Overlay */}
         <div className="absolute inset-0 flex items-center md:justify-start justify-center md:px-12">
           <h1 className="text-white text-4xl md:text-5xl font-bold">About Us</h1>
         </div>

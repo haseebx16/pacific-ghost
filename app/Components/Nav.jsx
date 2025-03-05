@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+import { Font } from './font/font'
 
 const Nav = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -29,7 +30,7 @@ const Nav = () => {
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > lastScrollY) {
-        setIsVisible(false); // Hide navbar when scrolling down
+        setIsVisible(true); // Hide navbar when scrolling down
       } else {
         setIsVisible(true); // Show navbar when scrolling up
       }
@@ -41,7 +42,7 @@ const Nav = () => {
   }, [lastScrollY]);
 
   return (
-    <div className="w-full">
+    <div className={`${Font.className} w-full`}>
       {/* Navbar Container */}
       <div className={`fixed top-0 w-full z-50 transition-transform duration-300 ${isVisible ? 'translate-y-0' : '-translate-y-full'}`}>
         {/* Top Bar */}
@@ -63,13 +64,13 @@ const Nav = () => {
 
             {/* Desktop Navigation */}
             <div className="hidden md:flex items-center space-x-4">
-              <Link href="/" className={`text-[13px] px-3 py-2 font-medium ${isActive('/') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}>HOME</Link>
-              <Link href="/about" className={`text-[13px] px-3 py-2 font-medium ${isActive('/about') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}>ABOUT</Link>
+              <Link href="/" className={`text-[15px] px-3 py-2 font-medium ${isActive('/') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}>HOME</Link>
+              <Link href="/about" className={`text-[15px] px-3 py-2 font-medium ${isActive('/about') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}>ABOUT</Link>
               
               {/* Dropdown Menus */}
               {Object.entries(navItems).map(([key, items]) => (
                 <div key={key} className="relative group">
-                  <button onClick={() => toggleDropdown(key)} className={`text-[13px] px-3 py-2 font-medium flex items-center ${isActive('/' + key) ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}>
+                  <button onClick={() => toggleDropdown(key)} className={`text-[15px] px-3 py-2 font-medium flex items-center ${isActive('/' + key) ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}>
                     {key}
                     <svg className="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
@@ -87,8 +88,8 @@ const Nav = () => {
                 </div>
               ))}
 
-              <Link href="/pricing" className={`text-[13px] px-3 py-2 font-medium ${isActive('/pricing') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}>PRICING</Link>
-              <Link href="/contact" className={`text-[13px] px-3 py-2 font-medium ${isActive('/contact') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}>CONTACT</Link>
+              <Link href="/pricing" className={`text-[15px] px-3 py-2 font-medium ${isActive('/pricing') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}>PRICING</Link>
+              <Link href="/contact" className={`text-[15px] px-3 py-2 font-medium ${isActive('/contact') ? 'bg-sky-900 text-white' : 'text-gray-700 hover:text-black'}`}>CONTACT</Link>
             </div>
 
             {/* Mobile Menu Button */}

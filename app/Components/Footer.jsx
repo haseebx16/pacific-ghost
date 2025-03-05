@@ -2,10 +2,11 @@ import React from "react";
 import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import { FiPhone, FiMail } from "react-icons/fi";
 import { HiOutlineLocationMarker } from "react-icons/hi";
+import { Font } from "./font/font";
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-800  mt-12 md:mt-0 text-gray-400 text-sm">
+    <footer className={`${Font.className} bg-gray-800  mt-12 md:mt-0 text-gray-400 text-md`}>
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap justify-between">
           {/* Left Section */}
@@ -62,17 +63,8 @@ const Footer = () => {
               </div>
             </div>
             <div className="flex space-x-3 mt-6">
-              <a href="#" aria-label="Facebook" className="text-gray-400 hover:text-white">
+              <a href="https://www.facebook.com/profile.php?id=61572252239184" aria-label="Facebook" className="text-gray-400 hover:text-white">
                 <FaFacebookF className="h-5 w-5" />
-              </a>
-              <a href="#" aria-label="Twitter" className="text-gray-400 hover:text-white">
-                <FaTwitter className="h-5 w-5" />
-              </a>
-              <a href="#" aria-label="Instagram" className="text-gray-400 hover:text-white">
-                <FaInstagram className="h-5 w-5" />
-              </a>
-              <a href="#" aria-label="LinkedIn" className="text-gray-400 hover:text-white">
-                <FaLinkedinIn className="h-5 w-5" />
               </a>
             </div>
           </div>
