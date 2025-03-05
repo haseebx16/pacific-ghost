@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import emailjs from 'emailjs-com';
 import Nav from '@/app/Components/Nav';
 import Footer from '@/app/Components/Footer';
+import { Font } from '../Components/font/font';
 
 const ContactPage = () => {
   const [formData, setFormData] = useState({
@@ -55,7 +56,7 @@ const ContactPage = () => {
   };
 
   return (
-    <>
+    <div className={`${Font.className}`}>
       <Nav />
       <div className="relative">
         <img
@@ -174,7 +175,7 @@ const ContactPage = () => {
         </div>
       </div>
       <Footer />
-    </>
+    </div>
   );
 };
 

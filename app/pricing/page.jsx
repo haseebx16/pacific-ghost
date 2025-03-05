@@ -3,6 +3,7 @@
 import Footer from '@/app/Components/Footer';
 import Nav from '@/app/Components/Nav';
 import React, { useState } from 'react';
+import { Font } from '../Components/font/font';
 
 const page = () => {
   // State to track selected service
@@ -149,7 +150,7 @@ const page = () => {
   };
 
   return (
-    <>
+    <div className={`${Font.className}`}>
       <Nav />
       <div className="relative">
         {/* Background Image */}
@@ -213,7 +214,7 @@ const page = () => {
       </div>
 
       <Footer />
-    </>
+    </div>
   );
 };
 

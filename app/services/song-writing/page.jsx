@@ -1,5 +1,6 @@
 import ContactBanner from '@/app/Components/ContactBanner'
 import DiscountForm from '@/app/Components/DiscountForm'
+import { Font } from '@/app/Components/font/font'
 import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
@@ -8,7 +9,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <>
+    <div className={`${Font.className}`}>
         <Nav/>
         <div className="relative">
         {/* Background Image */}
@@ -103,7 +104,7 @@ const page = () => {
       <Testimonials/>
       
       <Footer/>
-    </>
+    </div>
   )
 }
 

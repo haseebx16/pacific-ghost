@@ -4,10 +4,11 @@ import Footer from '@/app/Components/Footer'
 import Nav from '@/app/Components/Nav'
 import Testimonials from '@/app/Components/Testimonials'
 import React from 'react'
+import { Font } from '@/app/Components/font/font'
 
 const Page = () => {
   return (
-    <>
+    <div className={`${Font.className}`}>
       <Nav />
       <div className="relative">
         {/* Background Image */}
@@ -88,7 +89,7 @@ const Page = () => {
       <ContactBanner />
       <Testimonials />
       <Footer />
-    </>
+    </div>
   )
 }
 
