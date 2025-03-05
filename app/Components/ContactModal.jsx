@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import React, { useState } from "react";
 import emailjs from "emailjs-com";
@@ -24,8 +24,6 @@ const ContactModal = ({ isOpen, onClose }) => {
     e.preventDefault();
 
     const { name, email, phone, service } = formData;
-
-    // Validate required fields
     if (!name || !email || !phone || !service) {
       setError("All fields are required.");
       return;
@@ -33,99 +31,90 @@ const ContactModal = ({ isOpen, onClose }) => {
 
     setError("");
 
-    // EmailJS send email
     emailjs
       .send(
-        "service_vcvqcan", // Replace with your EmailJS service ID
-        "template_4ela61n", // Replace with your EmailJS template ID
-        {
-          from_name: name,
-          from_email: email,
-          phone,
-          service,
-        },
-        "TihDoLxcsdR_sDnwT" // Replace with your EmailJS user ID
+        "service_vcvqcan",
+        "template_4ela61n",
+        { from_name: name, from_email: email, phone, service },
+        "TihDoLxcsdR_sDnwT"
       )
       .then(() => {
         setSuccessMessage("Your message has been sent successfully!");
-        setFormData({ name: "", email: "", phone: "", service: "" }); // Reset form
+        setFormData({ name: "", email: "", phone: "", service: "" });
       })
-      .catch((err) => {
+      .catch(() => {
         setError("Failed to send your message. Please try again later.");
-        console.error("EmailJS Error:", err);
       });
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
-      <div className="bg-sky-900 rounded-lg shadow-lg w-11/12 max-w-md p-6">
-        <h2 className="text-xl text-white font-bold mb-4">Contact Us</h2>
-        {error && <p className="text-red-500 text-sm mb-4">{error}</p>}
-        {successMessage && <p className="text-green-500 text-sm mb-4">{successMessage}</p>}
-        <form onSubmit={handleSubmit}>
-          <div className="mb-4">
-            <label className="block text-sm font-medium text-white mb-2">
-              Name
-            </label>
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-60 p-4 backdrop-blur-md">
+      <div className="bg-white rounded-3xl shadow-2xl w-full max-w-lg p-8 relative animate-fade-in">
+        <button
+          onClick={onClose}
+          className="absolute top-4 right-4 bg-gray-200 text-gray-600 rounded-full p-2 hover:bg-gray-300 transition"
+        >
+          ✕
+        </button>
+        <h2 className="text-3xl font-bold text-gray-800 text-center mb-6">Contact Us</h2>
+        {error && <p className="text-red-500 text-sm text-center mb-4">{error}</p>}
+        {successMessage && <p className="text-green-500 text-sm text-center mb-4">{successMessage}</p>}
+        <form onSubmit={handleSubmit} className="space-y-5">
+          <div>
+            <label className="block text-gray-700 font-medium mb-1">Name</label>
             <input
               type="text"
               name="name"
               value={formData.name}
               onChange={handleChange}
-              className="w-full py-2 px-2 border-gray-300 text-gray-700 rounded-md shadow-sm focus:ring-black focus:border-black"
+              className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 bg-gray-50 shadow-sm"
               placeholder="Enter your name"
             />
           </div>
-          <div className="mb-4">
-            <label className="block text-sm font-medium text-white mb-2">
-              Email
-            </label>
+          <div>
+            <label className="block text-gray-700 font-medium mb-1">Email</label>
             <input
               type="email"
               name="email"
               value={formData.email}
               onChange={handleChange}
-              className="w-full py-2 px-2 border-gray-300 text-gray-700 rounded-md shadow-sm focus:ring-black focus:border-black"
+              className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 bg-gray-50 shadow-sm"
               placeholder="Enter your email"
             />
           </div>
-          <div className="mb-4">
-            <label className="block text-sm font-medium text-white mb-2">
-              Phone
-            </label>
+          <div>
+            <label className="block text-gray-700 font-medium mb-1">Phone</label>
             <input
               type="tel"
               name="phone"
               value={formData.phone}
               onChange={handleChange}
-              className="w-full py-2 px-2 border-gray-300 text-gray-700 rounded-md shadow-sm focus:ring-black focus:border-black"
+              className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 bg-gray-50 shadow-sm"
               placeholder="Enter your phone"
             />
           </div>
-          <div className="mb-4">
-            <label className="block text-sm font-medium text-white mb-2">
-              Service Required
-            </label>
+          <div>
+            <label className="block text-gray-700 font-medium mb-1">Service Required</label>
             <input
               type="text"
               name="service"
               value={formData.service}
               onChange={handleChange}
-              className="w-full py-2 px-2 border-gray-300 text-gray-700 rounded-md shadow-sm focus:ring-black focus:border-black"
+              className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 bg-gray-50 shadow-sm"
               placeholder="Enter the service"
             />
           </div>
-          <div className="flex justify-end space-x-4">
+          <div className="flex justify-center space-x-4 mt-6">
             <button
               type="button"
-              className="px-4 py-2 bg-gray-300 rounded-md text-black"
+              className="px-6 py-3 bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300 transition font-medium"
               onClick={onClose}
             >
               Cancel
             </button>
             <button
               type="submit"
-              className="px-4 py-2 bg-black text-white rounded-md"
+              className="px-6 py-3 bg-gradient-to-r from-blue-500 to-blue-700 text-white rounded-lg hover:from-blue-600 hover:to-blue-800 transition font-medium shadow-md"
             >
               Submit
             </button>
