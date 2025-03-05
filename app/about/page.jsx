@@ -68,7 +68,7 @@ const Page = () => {
         <div className="flex flex-col md:flex-col ">
           <div className="w-full p-8 pt-0">
             <p className="text-gray-600 leading-tight text-justify text-md mb-4 ">
-            Every great advancement is born out of a fascinating work of imagination. We, at Pacific Ghostwriting, will take that step forward for you. Every story deserves to be told and heard. Therefore, we invite you to experience the work of industry's most professional yet extremely innovative Ghostwriters under our one single platform.
+            Every great advancement is born out of a fascinating work of imagination. We, at Coastal Ghostwriting, will take that step forward for you. Every story deserves to be told and heard. Therefore, we invite you to experience the work of industry's most professional yet extremely innovative Ghostwriters under our one single platform.
             </p>
           <h3 className="text-sky-500 text-2xl font-bold ">Who Is A Ghostwriter?</h3>
             <p className="text-gray-600 leading-tight text-justify text-md pt-2 mb-4 ">
@@ -76,7 +76,7 @@ const Page = () => {
             </p>
           <h3 className="text-sky-500 text-2xl font-bold ">Delivering Excellence via Our Ghostwriter Services:</h3>
             <p className="text-gray-600 leading-tight text-justify text-md pt-2 ">
-            As time consuming as it sounds, our GhostWriters have a massive bank of experience and training that enables them to take care of all of your needs and requirements without absorbing much of your time. Our Ghostwriting services are not only designed to do the writing tasks, we will move further to entertain you with our planning and coaching for the best publishing results. At Pacific Ghostwriting, you will be able to see an enormous array of experience of our GhostWriters in varying topics ranging from fiction to non-fiction, including suspense, crime, thriller, tragedy, love, history, biography and the list goes on.
+            As time consuming as it sounds, our GhostWriters have a massive bank of experience and training that enables them to take care of all of your needs and requirements without absorbing much of your time. Our Ghostwriting services are not only designed to do the writing tasks, we will move further to entertain you with our planning and coaching for the best publishing results. At Coastal Ghostwriting, you will be able to see an enormous array of experience of our GhostWriters in varying topics ranging from fiction to non-fiction, including suspense, crime, thriller, tragedy, love, history, biography and the list goes on.
             </p>
             <p className="text-gray-600 leading-tight text-justify text-md pt-2 mb-4 ">
             Our team of specialist ghostwriters are well equipped with all the required tools to achieve that milestone on your behalf. From the initial planning to the instant when you open your book for the first time, our process ensures everything is done with great precision. The contentment showed by our potential clients from various industrial background testifies our level of devotion and brilliance. Our Ghostwriters are extremely resilient to deliver their services with great accuracy.
@@ -142,13 +142,13 @@ const Page = () => {
                       </div>
           <h3 className="text-sky-500 text-2xl mt-6 font-bold ">What Makes Us Unique?</h3>
           <p className="text-gray-600 leading-tight text-justify text-md pt-2 mb-4 ">
-          Let’s give an insight to the ghostwriter’s services that they provide with so precision. Supposedly, there might be an idea floating around your head or your creative horses might be running fast. Hence, you are pushed by your will to jot down that creativity on a piece of paper but you have time constraints or schedule restrictions and distractions. Here is where the need of a Pacific Ghostwriting pops in. Our ghostwriter will save your day. You just need to convey your idea and concept, along with all the drafts, brainstorming, outlines or documentation that you have, if any, and our ghostwriter will take your league ahead.
+          Let’s give an insight to the ghostwriter’s services that they provide with so precision. Supposedly, there might be an idea floating around your head or your creative horses might be running fast. Hence, you are pushed by your will to jot down that creativity on a piece of paper but you have time constraints or schedule restrictions and distractions. Here is where the need of a Coastal Ghostwriting pops in. Our ghostwriter will save your day. You just need to convey your idea and concept, along with all the drafts, brainstorming, outlines or documentation that you have, if any, and our ghostwriter will take your league ahead.
             </p>
           <h3 className="text-sky-500 text-2xl font-bold ">Our exceptional ghostwriting services:</h3>
           <p className="text-gray-600 leading-tight text-justify text-md pt-2 mb-4 ">
           Your imagination will be translated and transformed into an enticing and alluring story by our ghostwriter. From research to planning, and to organizing the structure, every task will be completely covered by the ghostwriter with the author’s consent. Seems too much to digest? No doubt! But our ghostwriters are skilled and trained to handle that pressure. Furthermore, despite the efforts that are pooled in by our ghostwriters are enormous, the credit lies with the author who originated the idea and gathered all the audacity to take that script high-up. Hence, the author will be the sole owner for his manuscript/ book. Our ghostwriter services will be invisible yet will have a massive impact for the author.
             </p>
-          <h3 className="text-sky-500 text-2xl font-bold ">Pros to Hire a Ghostwriter from Pacific Ghostwriting:</h3>
+          <h3 className="text-sky-500 text-2xl font-bold ">Pros to Hire a Ghostwriter from Coastal Ghostwriting:</h3>
           <p className="text-gray-600 leading-tight text-justify text-md pt-2 mb-4 ">
           Now the question that might hit your mind will be, Why to hire a Ghostwriter from us or What unique Ghostwriting services are we offering? We can, undoubtedly, relieve you from this worry. Our Ghostwriting services includes all of the following and more:
             </p>
