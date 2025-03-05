@@ -140,7 +140,7 @@ const Page = () => {
                           </p>
                         </div>
                       </div>
-          <h3 className="text-sky-500 text-2xl font-bold ">What Makes Us Unique?</h3>
+          <h3 className="text-sky-500 text-2xl mt-6 font-bold ">What Makes Us Unique?</h3>
           <p className="text-gray-600 leading-tight text-justify text-md pt-2 mb-4 ">
           Let’s give an insight to the ghostwriter’s services that they provide with so precision. Supposedly, there might be an idea floating around your head or your creative horses might be running fast. Hence, you are pushed by your will to jot down that creativity on a piece of paper but you have time constraints or schedule restrictions and distractions. Here is where the need of a Pacific Ghostwriting pops in. Our ghostwriter will save your day. You just need to convey your idea and concept, along with all the drafts, brainstorming, outlines or documentation that you have, if any, and our ghostwriter will take your league ahead.
             </p>
