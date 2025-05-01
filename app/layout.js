@@ -6,6 +6,7 @@ import { AnimatePresence } from 'framer-motion';
 import { useState } from 'react';
 import { usePathname } from 'next/navigation';
 import PageTransition from './Components/PageTransition';
+import Script from 'next/script';
 
 export default function RootLayout({ children }) {
 
@@ -34,9 +35,24 @@ export default function RootLayout({ children }) {
 
   const isHomePage = pathname === '/';
 
+  
+
   return (
     <html lang="en">
+     <head>
+     <Script 
+     async src="https://www.googletagmanager.com/gtag/js?id=AW-17041210181"
+     />
+<Script>
+   {`
+    window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'AW-17041210181');
+  `}
+ </Script>
+     </head>
       <body>
       <AnimatePresence exitBeforeEnter>
             {isAnimating && !isHomePage && (
