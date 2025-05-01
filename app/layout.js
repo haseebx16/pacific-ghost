@@ -39,7 +39,17 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="en">
-      <head></head>
+      <head>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17041210181">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17041210181');
+</script>
+      </head>
       <body>
       <AnimatePresence exitBeforeEnter>
             {isAnimating && !isHomePage && (
