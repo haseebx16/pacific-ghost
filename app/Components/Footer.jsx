@@ -75,7 +75,6 @@ const Footer = () => {
         {/* Footer Bottom */}
         <div className="border-t border-gray-700 mt-8 pt-4 flex flex-wrap justify-between items-center">
           <p>© 2025 Coastal Ghostwriting. All rights reserved Coastal Ghostwriting ➤ #1 Ghostwriting Services</p>
-          <p>Disclaimer: Empowering Excellence in Partnership with Puremed Essentials LLC 16 surrey lane belle mead NJ 08502</p>
           <div className=" grid md:grid-cols-2">
             <a href="/terms" className="hover:text-white">Terms & Conditions</a>
             <a href="/datapolicy" className="hover:text-white">Consumer Data Policy</a>

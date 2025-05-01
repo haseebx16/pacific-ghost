@@ -59,7 +59,7 @@ const VideoCard = ({ id, name }) => {
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
-            className="absolute inset-0"
+            className="absolutse inset-0"
           />
         )}
       </div>
